@@ -264,6 +264,8 @@ const Views = (() => {
       entries.forEach(e => {
         const id = Storage.cardId(unitNum, e);
         const checked = Storage.isSelected(id);
+        const card = Storage.getCard(id);
+        const box = card.box || 1;
         const item = document.createElement('label');
         item.className = 'word-list-item';
         item.innerHTML = `
@@ -272,7 +274,10 @@ const Views = (() => {
             <span class="wli-word">${escapeHtml(e.word)}${e.transcription ? ` <span class="wli-transcription">/${escapeHtml(e.transcription)}/</span>` : ''}</span>
             <span class="wli-translation">${escapeHtml(e.translation || '—')}</span>
           </span>
-          <span class="wli-pos">${escapeHtml(e.pos)}</span>
+          <span class="wli-side">
+            <span class="wli-pos">${escapeHtml(e.pos)}</span>
+            <span class="wli-box ${boxClass(box)}">${Storage.isLearned(card) ? '✓' : box + '/5'}</span>
+          </span>
         `;
         item.querySelector('input').addEventListener('change', (ev) => {
           Storage.setSelected(id, ev.target.checked);

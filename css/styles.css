@@ -300,13 +300,33 @@ button {
   white-space: nowrap;
 }
 
+.wli-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+  flex-shrink: 0;
+}
+
 .wli-pos {
   font-size: 10px;
   color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  flex-shrink: 0;
 }
+
+.wli-box {
+  font-size: 10px;
+  font-weight: 700;
+  color: #fff;
+  padding: 2px 7px;
+  border-radius: 999px;
+}
+.wli-box.b1 { background: var(--box1); }
+.wli-box.b2 { background: var(--box2); }
+.wli-box.b3 { background: var(--box3); }
+.wli-box.b4 { background: var(--box4); }
+.wli-box.b5 { background: var(--box5); }
 
 /* ---------- Flashcards ---------- */
 
