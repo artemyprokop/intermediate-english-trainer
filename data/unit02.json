@@ -1,0 +1,790 @@
+[
+  {
+    "word": "behind",
+    "transcription": "bɪˈhaɪnd",
+    "pos": "adverb",
+    "definition": "if you are behind with work, you are late, slow, or not doing as well as you should with it",
+    "example": "I’m really behind with work",
+    "translation": "отстающий, запаздывающий (с работой)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cheer up",
+    "transcription": "ˌtʃɪə(r) ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you cheer up, you start to feel happier. If you cheer someone up, you do something to make them feel happier",
+    "example": "I’m sure she’ll cheer up soon",
+    "translation": "приободриться, взбодрить(ся)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "disappointed",
+    "transcription": "ˌdɪsəˈpɔɪntɪd",
+    "pos": "adjective",
+    "definition": "if you are disappointed, you are slightly unhappy because something is not as good as you wanted or expected or because something did not happen the way you wanted it to",
+    "example": "she sounded very disappointed when I spoke to her",
+    "translation": "разочарованный",
+    "collocations": [
+      "be disappointed at/by/with something",
+      "be disappointed that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "disappoint",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’m sorry to disappoint you, but there weren’t any tickets left",
+    "translation": "разочаровывать",
+    "collocations": [],
+    "baseWord": "disappointed"
+  },
+  {
+    "word": "disappointing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the film started well, but the ending was disappointing",
+    "translation": "разочаровывающий, неутешительный",
+    "collocations": [],
+    "baseWord": "disappointed"
+  },
+  {
+    "word": "disappointment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she managed to hide her disappointment when she heard the result",
+    "translation": "разочарование",
+    "collocations": [],
+    "baseWord": "disappointed"
+  },
+  {
+    "word": "down",
+    "transcription": "daʊn",
+    "pos": "adjective",
+    "definition": "if you feel down, you feel rather sad, often for no particular reason",
+    "example": "she’s been a bit down recently",
+    "translation": "подавленный, грустный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "due",
+    "transcription": "djuː",
+    "pos": "adjective",
+    "definition": "if something is due, it should happen or arrive at a certain time",
+    "example": "the baby is due at the end of August (he or she will be born then)",
+    "translation": "ожидаемый, должный наступить (в определенный срок)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "exhausted",
+    "transcription": "ɪɡˈzɔːstɪd",
+    "pos": "adjective",
+    "definition": "if you are exhausted, you are very tired",
+    "example": "I was exhausted by the time we got home",
+    "translation": "измученный, изможденный, очень уставший",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "exhaustion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he collapsed out of physical exhaustion",
+    "translation": "изнеможение, истощение",
+    "collocations": [],
+    "baseWord": "exhausted"
+  },
+  {
+    "word": "exhausting",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I just want to sleep. It’s been an exhausting day",
+    "translation": "изнурительный, утомительный",
+    "collocations": [],
+    "baseWord": "exhausted"
+  },
+  {
+    "word": "fed up",
+    "transcription": "ˌfed ˈʌp",
+    "pos": "adjective",
+    "definition": "if you are fed up with something, you do not like it because it has become boring or annoying",
+    "example": "I’m fed up with all this rain",
+    "translation": "уставший (от чего-то), сытый по горло",
+    "collocations": [
+      "be fed up with/of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "flu",
+    "transcription": "fluː",
+    "pos": "noun",
+    "definition": "flu, or the flu, is an illness like a very bad cold which can become very serious. It is a short form of the medical term influenza",
+    "example": "I feel awful. I think I’ve got the flu",
+    "translation": "грипп",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "furious",
+    "transcription": "ˈfjʊəriəs",
+    "pos": "adjective",
+    "definition": "if you are furious, you are very angry",
+    "example": "she was absolutely furious when she saw the mess",
+    "translation": "разъяренный, взбешенный",
+    "collocations": [
+      "be furious about something",
+      "be furious with someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "furiously",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he protested furiously, though he knew it was hopeless",
+    "translation": "яростно, неистово",
+    "collocations": [],
+    "baseWord": "furious"
+  },
+  {
+    "word": "fury",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "in his fury he nearly broke the door handle",
+    "translation": "ярость, бешенство",
+    "collocations": [],
+    "baseWord": "furious"
+  },
+  {
+    "word": "ghost",
+    "transcription": "ɡəʊst",
+    "pos": "noun",
+    "definition": "a ghost is the spirit of a dead person which some people say can be seen. Ghosts are considered to be very frightening, and if you say that someone looks as if they’ve seen a ghost, you mean that they look very frightened",
+    "example": "a ghost story (a story that is meant to frighten the reader because it has ghosts in it)",
+    "translation": "привидение, призрак",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "guilty",
+    "transcription": "ˈɡɪlti",
+    "pos": "adjective",
+    "definition": "if you feel guilty about something, you feel bad because you think you have done something wrong or unhelpful. In a court, if a judge or jury says someone is guilty, they are saying officially that person committed a crime",
+    "example": "I feel really guilty about leaving you to finish the work",
+    "translation": "виноватый, виновный",
+    "collocations": [
+      "guilty about (doing) something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "guilt",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "her feelings of guilt kept her awake that night",
+    "translation": "вина, чувство вины",
+    "collocations": [],
+    "baseWord": "guilty"
+  },
+  {
+    "word": "join",
+    "transcription": "dʒɔɪn",
+    "pos": "verb",
+    "definition": "if you join someone in a social activity, you take part in it with them",
+    "example": "I’m going to have a drink. Will you join me?",
+    "translation": "присоединяться (к кому-то)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mark",
+    "transcription": "mɑː(r)k",
+    "pos": "noun",
+    "definition": "a mark is the score or grade you get for a piece of schoolwork or an exam. When teachers mark work, they correct it and give it a score or grade",
+    "example": "she expected to get a better mark after all that work",
+    "translation": "оценка, отметка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mark",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the teacher hasn’t finished marking all the exam papers yet",
+    "translation": "проверять, оценивать (работу)",
+    "collocations": [],
+    "baseWord": "mark"
+  },
+  {
+    "word": "mood",
+    "transcription": "muːd",
+    "pos": "noun",
+    "definition": "if you are in a particular mood, that is the way you are feeling. For example, if you are in a good mood, you are happy and feel good; if you are in a bad mood, you feel bad and become angry very easily",
+    "example": "she looks like she’s in a good mood today",
+    "translation": "настроение",
+    "collocations": [
+      "be in a good/bad mood",
+      "be in no mood to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "nightmare",
+    "transcription": "ˈnaɪtˌmeə(r)",
+    "pos": "noun",
+    "definition": "a nightmare is a dream that is very frightening. You can refer to a really bad or worrying situation as a nightmare",
+    "example": "that sounds like a nightmare",
+    "translation": "кошмар",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pain",
+    "transcription": "peɪn",
+    "pos": "noun",
+    "definition": "pain is the physical feeling you have when a part of your body hurts because it has been hit or cut. If you say that a situation is a pain, you mean that is very annoying",
+    "example": "it was such a pain – we missed the first half of the concert",
+    "translation": "боль; (разг.) морока, головная боль (о чем-то раздражающем)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pleasantly",
+    "transcription": "ˈplez(ə)ntli",
+    "pos": "adverb",
+    "definition": "if something is pleasant, you like it or enjoy it. If something happens pleasantly, it gives you pleasure",
+    "example": "I was pleasantly surprised by the film (I liked it, although I didn’t expect to like it)",
+    "translation": "приятно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pleasant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "what a pleasant surprise, seeing you here!",
+    "translation": "приятный",
+    "collocations": [],
+    "baseWord": "pleasantly"
+  },
+  {
+    "word": "pleased",
+    "transcription": "pliːzd",
+    "pos": "adjective",
+    "definition": "if you are pleased with something, you are happy or satisfied with it",
+    "example": "you must be pleased with your exam results",
+    "translation": "довольный, обрадованный",
+    "collocations": [
+      "be pleased with something",
+      "be pleased to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "please",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the report both pleased and surprised him",
+    "translation": "радовать, доставлять удовольствие",
+    "collocations": [],
+    "baseWord": "pleased"
+  },
+  {
+    "word": "pleasing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "what one customer might find pleasing another might find unpleasant",
+    "translation": "приятный, радующий",
+    "collocations": [],
+    "baseWord": "pleased"
+  },
+  {
+    "word": "relief",
+    "transcription": "rɪˈliːf",
+    "pos": "noun",
+    "definition": "relief is a feeling you get when a bad or worrying situation has ended and you can stop worrying",
+    "example": "“I found my wallet.” – “Oh, that’s a relief!”",
+    "translation": "облегчение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "relieved",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I felt so relieved to get home",
+    "translation": "испытывающий облегчение",
+    "collocations": [],
+    "baseWord": "relief"
+  },
+  {
+    "word": "shame",
+    "transcription": "ʃeɪm",
+    "pos": "noun",
+    "definition": "if you say that something is a shame, you mean that it is unfortunate or disappointing",
+    "example": "can’t you come to the party? Oh, what a shame",
+    "translation": "жаль, досада (о чем-то неудачном)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "split up",
+    "transcription": "ˌsplɪt ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if two people split up, they get divorced or end their relationship. When the members of a group split up, they stop working together",
+    "example": "He’s just split up with his girlfriend",
+    "translation": "расставаться, расходиться (о паре); распадаться (о группе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "split",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "after the split, we didn’t see each other for ten years",
+    "translation": "расставание, разрыв",
+    "collocations": [],
+    "baseWord": "split up"
+  },
+  {
+    "word": "upset",
+    "transcription": "ʌpˈset",
+    "pos": "adjective",
+    "definition": "if you are upset, something or someone has made you feel very sad or angry",
+    "example": "he was very upset when his dog died",
+    "translation": "расстроенный, огорченный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "upset",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she didn’t know what had upset her mother",
+    "translation": "расстраивать, огорчать",
+    "collocations": [],
+    "baseWord": "upset"
+  },
+  {
+    "word": "upsetting",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "his remarks were very upsetting",
+    "translation": "расстраивающий, огорчительный",
+    "collocations": [],
+    "baseWord": "upset"
+  },
+  {
+    "word": "bore",
+    "transcription": "bɔː(r)",
+    "pos": "verb",
+    "definition": "if something or someone bores you, they are not at all interesting to you and make you feel tired or impatient",
+    "example": "his stories of the theatre never failed to bore me",
+    "translation": "надоедать, наскучить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "boring",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she’s so boring. She only ever talks about her children",
+    "translation": "скучный",
+    "collocations": [],
+    "baseWord": "bore"
+  },
+  {
+    "word": "bored",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "if you’re bored, let’s go out",
+    "translation": "скучающий",
+    "collocations": [],
+    "baseWord": "bore"
+  },
+  {
+    "word": "boredom",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the film was two hours of boredom",
+    "translation": "скука",
+    "collocations": [],
+    "baseWord": "bore"
+  },
+  {
+    "word": "cheek",
+    "transcription": "tʃiːk",
+    "pos": "noun",
+    "definition": "your cheeks are the areas on your face under your eyes",
+    "example": "she kissed me on the cheek",
+    "translation": "щека",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "confuse",
+    "transcription": "kənˈfjuːz",
+    "pos": "verb",
+    "definition": "to confuse someone means to cause them to have difficulty understanding something",
+    "example": "it’ll just confuse them if you try and put too much information in at once",
+    "translation": "путать, сбивать с толку",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "confused",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "can you explain it again? I’m still a bit confused",
+    "translation": "запутавшийся, сбитый с толку",
+    "collocations": [],
+    "baseWord": "confuse"
+  },
+  {
+    "word": "confusing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the instructions for the camera were really confusing",
+    "translation": "запутанный, сбивающий с толку",
+    "collocations": [],
+    "baseWord": "confuse"
+  },
+  {
+    "word": "confusion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the whole point of grammar is to avoid confusion!",
+    "translation": "путаница, замешательство",
+    "collocations": [],
+    "baseWord": "confuse"
+  },
+  {
+    "word": "depress",
+    "transcription": "dɪˈpres",
+    "pos": "verb",
+    "definition": "if something depresses you, it makes you feel sad and unhappy",
+    "example": "it always depresses me when the leaves start falling off the trees",
+    "translation": "угнетать, приводить в уныние",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "depressed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he’s been depressed ever since his wife died",
+    "translation": "подавленный, в депрессии",
+    "collocations": [
+      "deeply depressing"
+    ],
+    "baseWord": "depress"
+  },
+  {
+    "word": "depressing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "all this rain is so depressing",
+    "translation": "гнетущий, удручающий",
+    "collocations": [
+      "deeply depressing"
+    ],
+    "baseWord": "depress"
+  },
+  {
+    "word": "homeless",
+    "transcription": "ˈhəʊmləs",
+    "pos": "adjective",
+    "definition": "someone who is homeless has nowhere to live. People who are homeless are referred to as the homeless",
+    "example": "it was really depressing to see so many homeless people on the streets",
+    "translation": "бездомный",
+    "collocations": [
+      "be left homeless"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "homeless",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she works for a charity that helps the homeless",
+    "translation": "бездомные (люди)",
+    "collocations": [],
+    "baseWord": "homeless"
+  },
+  {
+    "word": "homelessness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the policy has been successful in reducing homelessness in the capital",
+    "translation": "бездомность",
+    "collocations": [],
+    "baseWord": "homeless"
+  },
+  {
+    "word": "hug",
+    "transcription": "hʌɡ",
+    "pos": "verb",
+    "definition": "if you hug someone, you put your arms round them and hold them tightly because you want to show them love or friendship",
+    "example": "she’s always hugging me. I wish she wouldn’t",
+    "translation": "обнимать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "hug",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "give me a hug before you go",
+    "translation": "объятие",
+    "collocations": [
+      "give someone a hug"
+    ],
+    "baseWord": "hug"
+  },
+  {
+    "word": "belong",
+    "transcription": "bɪˈlɒŋ",
+    "pos": "verb",
+    "definition": "if something belongs to you, it is yours and you own it",
+    "example": "who does this coat belong to?",
+    "translation": "принадлежать",
+    "collocations": [
+      "belong to someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "belongings",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the flood destroyed most of their belongings",
+    "translation": "вещи, пожитки, личные вещи",
+    "collocations": [],
+    "baseWord": "belong"
+  },
+  {
+    "word": "drive someone mad",
+    "transcription": "ˌdraɪv sʌmwʌn ˈmæd",
+    "pos": "phrase",
+    "definition": "if something or someone drives you mad, they make you extremely annoyed",
+    "example": "can you turn the music off? It’s driving me mad",
+    "translation": "сводить с ума, раздражать до предела",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fail",
+    "transcription": "feɪl",
+    "pos": "verb",
+    "definition": "if something fails to happen, it does not happen. If you fail to do something, you do not do it",
+    "example": "he failed to recognise her at first",
+    "translation": "не суметь, не смочь (сделать что-то)",
+    "collocations": [
+      "fail to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "failure",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was criticised for his failure to communicate with his colleagues",
+    "translation": "неспособность (сделать что-то), неудача",
+    "collocations": [
+      "failure to do something"
+    ],
+    "baseWord": "fail"
+  },
+  {
+    "word": "fancy",
+    "transcription": "ˈfænsi",
+    "pos": "verb",
+    "definition": "if you say “fancy!” or “fancy that!” you are expressing surprise or shock",
+    "example": "fancy seeing you here!",
+    "translation": "надо же!, вот это да! (выражает удивление)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "hell",
+    "transcription": "hel",
+    "pos": "noun",
+    "definition": "in some religions, hell is the place where people go after they die if they have lived a bad life. You can refer to an extremely unpleasant situation as hell",
+    "example": "what’s your idea of hell?",
+    "translation": "ад",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "out of work",
+    "transcription": "ˌaʊt əv ˈwɜː(r)k",
+    "pos": "phrase",
+    "definition": "if someone is out of work, they do not have a job, although they want to have one",
+    "example": "my brother is out of work at the moment",
+    "translation": "безработный, без работы",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pour",
+    "transcription": "pɔː(r)",
+    "pos": "verb",
+    "definition": "if you pour a liquid, you make it flow out of its container. If it is pouring with rain, it is raining very heavily. You can also say that it’s pouring down or that the rain is pouring",
+    "example": "it’s going to pour down tomorrow",
+    "translation": "лить(ся); лить как из ведра (о дожде)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "set up",
+    "transcription": "ˌset ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you set something up, you make the necessary preparations for it to start",
+    "example": "he wants to set up his own business",
+    "translation": "основывать, организовывать, налаживать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "train",
+    "transcription": "treɪn",
+    "pos": "verb",
+    "definition": "if you train for a sport, you do exercises and practice in order to become fitter and better",
+    "example": "how often do you have to train?",
+    "translation": "тренироваться",
+    "collocations": [
+      "train for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "training",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a training session",
+    "translation": "тренировка, подготовка",
+    "collocations": [],
+    "baseWord": "train"
+  },
+  {
+    "word": "unexpected",
+    "transcription": "ˌʌnɪkˈspektɪd",
+    "pos": "adjective",
+    "definition": "an unexpected event is surprising because no one thought it was going to happen",
+    "example": "the results were totally unexpected",
+    "translation": "неожиданный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "unexpectedly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he died unexpectedly in his sleep",
+    "translation": "неожиданно",
+    "collocations": [],
+    "baseWord": "unexpected"
+  },
+  {
+    "word": "expect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we expect to sign the contract next week",
+    "translation": "ожидать, рассчитывать",
+    "collocations": [],
+    "baseWord": "unexpected"
+  },
+  {
+    "word": "weight",
+    "transcription": "weɪt",
+    "pos": "noun",
+    "definition": "your weight is how heavy you are",
+    "example": "Robin has put on a lot of weight since they last met",
+    "translation": "вес",
+    "collocations": [
+      "gain/put on weight",
+      "lose weight",
+      "watch your weight"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "weigh",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’m not sure how much I weigh at the moment",
+    "translation": "весить",
+    "collocations": [],
+    "baseWord": "weight"
+  },
+  {
+    "word": "blanket",
+    "transcription": "ˈblæŋkɪt",
+    "pos": "noun",
+    "definition": "a blanket is a large, thick piece of cloth that you use as a cover to keep yourself warm when you are in bed",
+    "example": "the blanket slid off the bed during the night and I woke up really cold",
+    "translation": "одеяло",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "issue",
+    "transcription": "ˈɪsjuː",
+    "pos": "noun",
+    "definition": "an issue is a subject or problem that people are discussing and trying to deal with",
+    "example": "this issue needs further discussion",
+    "translation": "вопрос, проблема (тема для обсуждения)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sheet",
+    "transcription": "ʃiːt",
+    "pos": "noun",
+    "definition": "a sheet is a large piece of cloth that you put on a bed to lie on and to cover you when you are sleeping",
+    "example": "I’ll put some clean sheets on the bed",
+    "translation": "простыня",
+    "collocations": [
+      "change the sheets"
+    ],
+    "baseWord": null
+  }
+]

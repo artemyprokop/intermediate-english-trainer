@@ -1,0 +1,782 @@
+[
+  {
+    "word": "classic",
+    "transcription": "ˈklæsɪk",
+    "pos": "noun",
+    "definition": "a classic is a book, film, or piece of music that is considered to be of very high quality and that people think will be admired for a long time into the future",
+    "example": "have you read The Hunger Games? It’s a classic",
+    "translation": "классика",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "classic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "The Catcher in the Rye is a classic American novel",
+    "translation": "классический",
+    "collocations": [
+      "a classic novel/film"
+    ],
+    "baseWord": "classic"
+  },
+  {
+    "word": "costume",
+    "transcription": "ˈkɒstjuːm",
+    "pos": "noun",
+    "definition": "a costume is the set of clothes that an actor wears when he or she is acting on the stage or in a film",
+    "example": "he was back on stage in the third act after another costume change",
+    "translation": "костюм (сценический)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "exhibition",
+    "transcription": "ˌeksɪˈbɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "an exhibition is an event where people can come and see items such as paintings, sculptures etc that are brought together and displayed in one place",
+    "example": "the exhibition will run from  April 14th to August 30th",
+    "translation": "выставка",
+    "collocations": [
+      "an exhibition of something",
+      "put on/stage/ hold an exhibition"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "exhibit",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the museum exhibits aircraft, cars, and industrial machinery",
+    "translation": "выставлять, экспонировать",
+    "collocations": [],
+    "baseWord": "exhibition"
+  },
+  {
+    "word": "halfway",
+    "transcription": "ˌhɑːfˈweɪ",
+    "pos": "adverb",
+    "definition": "if something is halfway along something, or halfway through it, it is around the middle of it",
+    "example": "the shop is halfway down Oxford Street",
+    "translation": "на полпути, посередине",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "halfway",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the leading runners have just reached the halfway stage in the London marathon",
+    "translation": "промежуточный, серединный",
+    "collocations": [],
+    "baseWord": "halfway"
+  },
+  {
+    "word": "historical",
+    "transcription": "hɪˈstɒrɪk(ə)l",
+    "pos": "adjective",
+    "definition": "historical plays, films, stories, etc are about people or events in the past. Historical people or events existed in the past",
+    "example": "he wrote a book on Shakespeare’s historical plays",
+    "translation": "исторический",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "installation",
+    "transcription": "ˌɪnstəˈleɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "an installation is a piece of art where objects, lights or pictures are placed in a space to make people think about something",
+    "example": "her current project is an installation for the Ikon Gallery in Birmingham",
+    "translation": "инсталляция",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "landscape",
+    "transcription": "ˈlæn(d)ˌskeɪp",
+    "pos": "noun",
+    "definition": "the landscape is the view that you can see when you are in the country, away from towns and buildings. A landscape is also a painting or photograph of the countryside",
+    "example": "a famous landscape artist",
+    "translation": "пейзаж",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lighting",
+    "transcription": "ˈlaɪtɪŋ",
+    "pos": "noun",
+    "definition": "in a theatre or on a film set, the lighting is the system of different lights that can be operated during a performance to create different effects",
+    "example": "a lighting technician",
+    "translation": "освещение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "object",
+    "transcription": "ˈɒbdʒekt",
+    "pos": "noun",
+    "definition": "an object is a physical thing that you can touch and feel, and that is not alive",
+    "example": "she could see an object floating in the middle of the river",
+    "translation": "предмет, объект",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plot",
+    "transcription": "plɒt",
+    "pos": "noun",
+    "definition": "the plot of a story, film, or play is all the linked events that happen during it",
+    "example": "the plot was very complicated",
+    "translation": "сюжет",
+    "collocations": [
+      "a complicated/simple plot",
+      "a plot develops"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "portrait",
+    "transcription": "ˈpɔː(r)trɪt",
+    "pos": "noun",
+    "definition": "a portrait is a painting, photograph, or drawing of someone which is meant to show what they look like",
+    "example": "Andrew Wyeth was a leading American portrait painter",
+    "translation": "портрет",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "programme",
+    "transcription": "ˈprəʊɡræm",
+    "pos": "noun",
+    "definition": "at a cinema, theatre, or concert hall, the programme is the whole collection of events that you see at one time. A programme is also a printed document that tells you about the performance that you are going to see",
+    "example": "the programme starts at 7",
+    "translation": "программа (представления)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "queue",
+    "transcription": "kjuː",
+    "pos": "verb",
+    "definition": "if you queue, or queue up, you wait in a line of people until it is your turn, for example to buy something or go in somewhere",
+    "example": "we queued for two hours to get tickets",
+    "translation": "стоять в очереди",
+    "collocations": [
+      "queue for something",
+      "queue to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "queue",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we were asked to form a queue outside the theatre",
+    "translation": "очередь",
+    "collocations": [
+      "stand/wait in a queue",
+      "jump the queue"
+    ],
+    "baseWord": "queue"
+  },
+  {
+    "word": "rural",
+    "transcription": "ˈrʊərəl",
+    "pos": "adjective",
+    "definition": "something that is rural is in the countryside or connected to the countryside",
+    "example": "they live in a small rural community",
+    "translation": "сельский",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "step",
+    "transcription": "step",
+    "pos": "noun",
+    "definition": "steps are the flat narrow surfaces that make up a staircase and that you tread on as you go up or down",
+    "example": "shall we meet on the steps outside the theatre?",
+    "translation": "ступенька",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "subtitle",
+    "transcription": "ˈsʌbˌtaɪt(ə)l",
+    "pos": "noun",
+    "definition": "subtitles are the words of a film or TV programme which are written on the screen",
+    "example": "a Brazilian film with English subtitles",
+    "translation": "субтитр",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "subtitled",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the film’s in Russian, but don’t worry, it’s subtitled",
+    "translation": "с субтитрами",
+    "collocations": [],
+    "baseWord": "subtitle"
+  },
+  {
+    "word": "tragedy",
+    "transcription": "ˈtrædʒədi",
+    "pos": "noun",
+    "definition": "a tragedy is a very sad and shocking event in which people suffer badly or die. In literature, a tragedy is a story in which the main character cannot control events and is killed",
+    "example": "I’d rather see a comedy than a tragedy",
+    "translation": "трагедия",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "tragic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "Hamlet is probably Shakespeare’s most famous tragic hero",
+    "translation": "трагический",
+    "collocations": [],
+    "baseWord": "tragedy"
+  },
+  {
+    "word": "tragically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "tragically, he died before his book was published",
+    "translation": "трагически",
+    "collocations": [],
+    "baseWord": "tragedy"
+  },
+  {
+    "word": "beat",
+    "transcription": "biːt",
+    "pos": "verb",
+    "definition": "your heart beats all the time you are alive. When it beats, it gets slightly bigger then goes back to its earlier size as it pumps blood around your body. If you say that the heart of a place is beating, you mean it is very lively there",
+    "example": "the city’s heart is still beating",
+    "translation": "биться (о сердце)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "beat",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "put your hand here. Can you feel the beat of my heart?",
+    "translation": "биение (сердца)",
+    "collocations": [],
+    "baseWord": "beat"
+  },
+  {
+    "word": "boom",
+    "transcription": "buːm",
+    "pos": "verb",
+    "definition": "if something is booming, the amount of activity is increasing and it is very successful",
+    "example": "the economy has boomed since the discovery of oil",
+    "translation": "процветать, быстро расти",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "boom",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s been a huge boom in exports",
+    "translation": "бум, резкий рост",
+    "collocations": [
+      "a boom in something"
+    ],
+    "baseWord": "boom"
+  },
+  {
+    "word": "cheer",
+    "transcription": "tʃɪə(r)",
+    "pos": "verb",
+    "definition": "when people cheer, they make a lot of noise to show that they are happy and like something that they have just seen or heard",
+    "example": "all the fans were cheering and singing",
+    "translation": "приветствовать криками, ликовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cheer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a tremendous cheer went up at the end of the game",
+    "translation": "приветственный крик, овация",
+    "collocations": [],
+    "baseWord": "cheer"
+  },
+  {
+    "word": "convert",
+    "transcription": "kənˈvɜː(r)t",
+    "pos": "verb",
+    "definition": "if something or someone converts you, they make you feel enthusiastic about something",
+    "example": "one trip to a game was enough to convert me to baseball",
+    "translation": "обратить, увлечь (сделать поклонником)",
+    "collocations": [
+      "convert someone to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "conversion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my conversion from motorist to cyclist happened last summer",
+    "translation": "переход, превращение (в приверженца чего-либо)",
+    "collocations": [],
+    "baseWord": "convert"
+  },
+  {
+    "word": "disturb",
+    "transcription": "dɪˈstɜː(r)b",
+    "pos": "verb",
+    "definition": "if you disturb someone, you interrupt them in an annoying or unpleasant way",
+    "example": "the police are unlikely to disturb you",
+    "translation": "беспокоить, мешать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "disturbance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we’ll try not to cause too much disturbance during the building work",
+    "translation": "беспокойство, помеха",
+    "collocations": [],
+    "baseWord": "disturb"
+  },
+  {
+    "word": "fool",
+    "transcription": "fuːl",
+    "pos": "verb",
+    "definition": "if something or someone fools you, they make you believe something that is not true",
+    "example": "you can’t fool me",
+    "translation": "обманывать, дурачить",
+    "collocations": [
+      "be fooled by someone or something",
+      "fool someone into doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "get away with",
+    "transcription": "ɡet əˈweɪ wɪð",
+    "pos": "phrasal verb",
+    "definition": "if you get away with a crime or with doing something wrong, you are not caught and punished for it",
+    "example": "it’s too risky, you’ll never get away with it",
+    "translation": "избежать наказания, сойти с рук",
+    "collocations": [
+      "get away with doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "head",
+    "transcription": "hed",
+    "pos": "verb",
+    "definition": "if you head somewhere, you go there or go towards there",
+    "example": "I’m going to head for Manchester and try to get there by 10",
+    "translation": "направляться",
+    "collocations": [
+      "head for somewhere",
+      "head towards somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "overdressed",
+    "transcription": "ˌəʊvə(r)ˈdrest",
+    "pos": "adjective",
+    "definition": "if you are overdressed, you are wearing clothes that are more formal or smarter than they need to be, and all the other people around you are dressed more casually",
+    "example": "I thought I’d be overdressed in a suit, but luckily I’m not the only one",
+    "translation": "одетый слишком нарядно/официально",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "restrict",
+    "transcription": "rɪˈstrɪkt",
+    "pos": "verb",
+    "definition": "to restrict an activity means to limit it or control it by having rules or laws about it",
+    "example": "the new laws restrict freedom of the press",
+    "translation": "ограничивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "restriction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the government has introduced tight restrictions on immigration",
+    "translation": "ограничение",
+    "collocations": [
+      "a restriction on something",
+      "lift a restriction",
+      "impose a restriction"
+    ],
+    "baseWord": "restrict"
+  },
+  {
+    "word": "set",
+    "transcription": "set",
+    "pos": "verb",
+    "definition": "when the sun sets, it gets very low in the sky and finally disappears from sight at the end of the day",
+    "example": "the sun doesn’t set until 11 at night here",
+    "translation": "заходить (о солнце)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rise",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the sun had risen an hour before I got up",
+    "translation": "восходить (о солнце)",
+    "collocations": [],
+    "baseWord": "set"
+  },
+  {
+    "word": "supplies",
+    "transcription": "səˈplaɪz",
+    "pos": "noun",
+    "definition": "supplies are things you need, such as food, water, soap and other everyday things",
+    "example": "you can buy supplies there till after midnight",
+    "translation": "припасы, снабжение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "upwards",
+    "transcription": "ˈʌpwə(r)dz",
+    "pos": "adverb",
+    "definition": "if something goes upwards, it goes towards a higher place. If a number is upwards of another number, it is higher than that number",
+    "example": "even a simple burger costs upwards of $20",
+    "translation": "вверх; свыше, больше",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "break",
+    "transcription": "breɪk",
+    "pos": "verb",
+    "definition": "if you break a rule, you do not do what you should do. If you break a promise, you do not do what you promised you would do",
+    "example": "I’ll never forgive you if you break this promise",
+    "translation": "нарушать (правило, обещание)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "broken",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he never paid me back – yet another broken promise",
+    "translation": "нарушенный",
+    "collocations": [],
+    "baseWord": "break"
+  },
+  {
+    "word": "council",
+    "transcription": "ˈkaʊns(ə)l",
+    "pos": "noun",
+    "definition": "the council is the local government in an area",
+    "example": "the local council is responsible for the schools",
+    "translation": "совет (муниципальный)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "councillor",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she has been a local councillor for the last twenty years",
+    "translation": "член совета, советник (муниципальный)",
+    "collocations": [],
+    "baseWord": "council"
+  },
+  {
+    "word": "exaggerate",
+    "transcription": "ɪɡˈzædʒəreɪt",
+    "pos": "verb",
+    "definition": "if you exaggerate, you say that something is bigger, better, or more extreme than it really is",
+    "example": "maybe I’m exaggerating. It’s not the worst club, but it was pretty bad",
+    "translation": "преувеличивать",
+    "collocations": [
+      "greatly/grossly/wildly exaggerate something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "exaggeration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "OK, I admit, that was a slight exaggeration",
+    "translation": "преувеличение",
+    "collocations": [
+      "a gross/slight exaggeration"
+    ],
+    "baseWord": "exaggerate"
+  },
+  {
+    "word": "lift",
+    "transcription": "lɪft",
+    "pos": "noun",
+    "definition": "if you get a lift somewhere, someone takes you there in their car",
+    "example": "luckily, she gave me a lift to the station",
+    "translation": "подвоз (на машине), поездка",
+    "collocations": [
+      "get a lift",
+      "give someone a lift",
+      "offer someone a lift",
+      "a lift to school/work/the shops"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "moving",
+    "transcription": "ˈmuːvɪŋ",
+    "pos": "adjective",
+    "definition": "if something is moving, it makes you feel sad or emotional",
+    "example": "a really moving story",
+    "translation": "трогательный, волнующий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "move",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "his speech really moved me",
+    "translation": "трогать, волновать",
+    "collocations": [],
+    "baseWord": "moving"
+  },
+  {
+    "word": "out of place",
+    "transcription": "ˌaʊt əv ˈpleɪs",
+    "pos": "phrase",
+    "definition": "if you feel out of place, you feel nervous or uncomfortable because the place or situation you are in does not suit you, or you feel that you do not belong there",
+    "example": "everyone else was so much older, I felt really out of place",
+    "translation": "не на своем месте, не в своей тарелке",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overrated",
+    "transcription": "ˌəʊvəˈreɪtɪd",
+    "pos": "adjective",
+    "definition": "if you think something is overrated, you think it is not as good as many people say it is",
+    "example": "I think the film was hugely overrated",
+    "translation": "переоцененный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "prediction",
+    "transcription": "prɪˈdɪkʃ(ə)n",
+    "pos": "noun",
+    "definition": "if you make a prediction, you say what you think will happen in the future",
+    "example": "his predictions never come true",
+    "translation": "предсказание, прогноз",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "predict",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "can history help us predict the future?",
+    "translation": "предсказывать, прогнозировать",
+    "collocations": [],
+    "baseWord": "prediction"
+  },
+  {
+    "word": "predictable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the ending of the film was quite predictable",
+    "translation": "предсказуемый",
+    "collocations": [],
+    "baseWord": "prediction"
+  },
+  {
+    "word": "predictably",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the results were, predictably, not good",
+    "translation": "предсказуемо",
+    "collocations": [],
+    "baseWord": "prediction"
+  },
+  {
+    "word": "unpredictable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the ending of the film was completely unpredictable",
+    "translation": "непредсказуемый",
+    "collocations": [],
+    "baseWord": "prediction"
+  },
+  {
+    "word": "sold out",
+    "transcription": "ˌsəʊld ˈaʊt",
+    "pos": "adjective",
+    "definition": "if something is sold out, you cannot buy any of it because people have already bought all of it. If a show or concert is sold out, people have bought all the tickets",
+    "example": "we couldn’t get tickets because the show was completely  sold out",
+    "translation": "распроданный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sell out",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the concert will sell out very quickly",
+    "translation": "распродаваться",
+    "collocations": [
+      "sell out of something"
+    ],
+    "baseWord": "sold out"
+  },
+  {
+    "word": "sweat",
+    "transcription": "swet",
+    "pos": "verb",
+    "definition": "if you sweat, water comes out through your skin, for example because you are very hot after exercise or because you are ill",
+    "example": "running for the bus made me sweat",
+    "translation": "потеть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sweat",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "sweat was running down his back",
+    "translation": "пот",
+    "collocations": [],
+    "baseWord": "sweat"
+  },
+  {
+    "word": "sweaty",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he came back from his run hot and sweaty",
+    "translation": "потный",
+    "collocations": [],
+    "baseWord": "sweat"
+  },
+  {
+    "word": "tear",
+    "transcription": "tɪə(r)",
+    "pos": "noun",
+    "definition": "tears are small drops of liquid which come from your eyes when you cry. If someone is in tears, they are crying because they are upset or because something is sad",
+    "example": "I was in tears by the end of the film",
+    "translation": "слеза",
+    "collocations": [
+      "be in tears",
+      "be close to tears",
+      "burst into tears"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "weird",
+    "transcription": "wɪə(r)d",
+    "pos": "adjective",
+    "definition": "something that is weird is very strange",
+    "example": "it was a great exhibition, but the paintings were a bit weird",
+    "translation": "странный, необычный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "weirdly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she was wearing a rather weirdly shaped coat",
+    "translation": "странно, необычно",
+    "collocations": [],
+    "baseWord": "weird"
+  },
+  {
+    "word": "arranged marriage",
+    "transcription": "əˌreɪndʒd ˈmærɪdʒ",
+    "pos": "adjective",
+    "definition": "an arranged marriage is one in which the two people are told to marry each other by their parents, instead of choosing freely who they want to marry",
+    "example": "she ran away from home to avoid an arranged marriage",
+    "translation": "брак по договоренности (устроенный родителями)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cattle",
+    "transcription": "ˈkæt(ə)l",
+    "pos": "noun",
+    "definition": "cattle are cows and bulls that are kept on a farm and used for meat and milk production",
+    "example": "most of the Dorobo people raise cattle and farm crops",
+    "translation": "крупный рогатый скот",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "raise",
+    "transcription": "reɪz",
+    "pos": "verb",
+    "definition": "if you raise animals, you keep them and look after them from when they are born until they are ready to be taken away to be killed for food. If you raise plants, you grow them and then sell them for food",
+    "example": "most of the Dorobo people raise cattle and farm crops",
+    "translation": "выращивать, разводить (животных)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "regret",
+    "transcription": "rɪˈɡret",
+    "pos": "verb",
+    "definition": "if you regret something you have done, you feel bad about it and wish you hadn’t done it",
+    "example": "I deeply regret what happened that day in Rome",
+    "translation": "сожалеть",
+    "collocations": [
+      "bitterly/deeply regret something",
+      "regret doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "regret",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he has finally expressed regret for his unacceptable behaviour",
+    "translation": "сожаление",
+    "collocations": [
+      "regret for something"
+    ],
+    "baseWord": "regret"
+  }
+]

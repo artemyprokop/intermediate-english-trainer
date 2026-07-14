@@ -1,0 +1,1251 @@
+[
+  {
+    "word": "backup",
+    "transcription": "ˈbækʌp",
+    "pos": "noun",
+    "definition": "a backup is a copy of a piece of information on a computer that you can use if the original is lost or damaged",
+    "example": "remember to make a backup copy of the file",
+    "translation": "резервная копия",
+    "collocations": [
+      "make a backup"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "back up",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it’s always a good idea to back up any important documents",
+    "translation": "делать резервную копию, сохранять копию",
+    "collocations": [],
+    "baseWord": "backup"
+  },
+  {
+    "word": "back up",
+    "transcription": "ˌbæk ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you back up a piece of information on a computer, you make a copy of it so that you can use it if the original is lost or damaged",
+    "example": "it’s always a good idea to back up any important documents",
+    "translation": "делать резервную копию (файла, данных)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cable",
+    "transcription": "ˈkeɪb(ə)l",
+    "pos": "noun",
+    "definition": "a cable is a thick wire covered in plastic that carries electricity or digital information",
+    "example": "she tripped over a loose cable",
+    "translation": "кабель, провод",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "come up",
+    "transcription": "ˌkʌm ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if information comes up on a computer screen, it appears",
+    "example": "move the mouse over the image and the instructions should come up",
+    "translation": "появляться (на экране)",
+    "collocations": [
+      "come up on something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "desk",
+    "transcription": "desk",
+    "pos": "noun",
+    "definition": "a desk is a place where you can get help or information, for example in an airport or a hotel",
+    "example": "I’m sorry, I can’t help you – have you tried the information desk?",
+    "translation": "стойка (информации, регистрации)",
+    "collocations": [
+      "check-in/help/information desk"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "desktop",
+    "transcription": "ˈdeskˌtɒp",
+    "pos": "noun",
+    "definition": "a desktop is the background of a computer screen which shows icons (small pictures) of programs that can be used",
+    "example": "have you tried downloading it to your desktop and seeing if you can open it from there?",
+    "translation": "рабочий стол (компьютера)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "external",
+    "transcription": "ɪkˈstɜː(r)n(ə)l",
+    "pos": "adjective",
+    "definition": "something that is external is on the outside or comes from outside an object, building, organisation, etc.",
+    "example": "the computer has an external hard drive",
+    "translation": "внешний",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "externally",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the project is externally financed",
+    "translation": "извне, со стороны",
+    "collocations": [],
+    "baseWord": "external"
+  },
+  {
+    "word": "internal",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "internal walls",
+    "translation": "внутренний",
+    "collocations": [],
+    "baseWord": "external"
+  },
+  {
+    "word": "file",
+    "transcription": "faɪl",
+    "pos": "noun",
+    "definition": "a file is a set of information with a name on a computer",
+    "example": "I can’t open the file",
+    "translation": "файл",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "folder",
+    "transcription": "ˈfəʊldə(r)",
+    "pos": "noun",
+    "definition": "a folder is a group of files stored together on a computer",
+    "example": "are you sure you’re looking in the right folder?",
+    "translation": "папка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "free",
+    "transcription": "friː",
+    "pos": "verb",
+    "definition": "if you free or free up someone or something, you make them available to be used for something",
+    "example": "you ought to delete those old files to free some space",
+    "translation": "освобождать (место, ресурсы)",
+    "collocations": [
+      "free (up) someone or something to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "free",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "is this chair free?",
+    "translation": "свободный, незанятый",
+    "collocations": [],
+    "baseWord": "free"
+  },
+  {
+    "word": "icon",
+    "transcription": "ˈaɪkɒn",
+    "pos": "noun",
+    "definition": "an icon is a small picture on a computer screen which opens a particular program when you press on it with a computer mouse or touch it with your finger",
+    "example": "click on the printer icon and wait a few seconds",
+    "translation": "иконка, значок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "keyboard",
+    "transcription": "ˈkiːˌbɔː(r)d",
+    "pos": "noun",
+    "definition": "a keyboard is a piece of equipment that is used to put information into a computer. Keys are the letters and numbers that you press on a keyboard",
+    "example": "be careful not to spill coffee over the keyboard",
+    "translation": "клавиатура",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "key",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "select the file and press the delete key",
+    "translation": "клавиша",
+    "collocations": [],
+    "baseWord": "keyboard"
+  },
+  {
+    "word": "knock",
+    "transcription": "nɒk",
+    "pos": "verb",
+    "definition": "if you knock something, you touch or hit it by accident, especially so that it moves or falls",
+    "example": "Rob tripped on a wire and managed to knock the whole computer over",
+    "translation": "задевать, стукать(ся) (случайно)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "offender",
+    "transcription": "əˈfendə(r)",
+    "pos": "noun",
+    "definition": "if you say that someone or something is an offender, you think that they are causing a problem",
+    "example": "people often forget to lock this cupboard and I’m afraid you’re one of the worst offenders!",
+    "translation": "нарушитель, виновник (проблемы)",
+    "collocations": [
+      "the worst offender"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "password",
+    "transcription": "ˈpɑːsˌwɜː(r)d",
+    "pos": "noun",
+    "definition": "a password is a secret group of letters or numbers that you type into a computer system or electronic device so that you can use it",
+    "example": "I can’t access my account because I’ve forgotten the password",
+    "translation": "пароль",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "protection",
+    "transcription": "prəˈtekʃ(ə)n",
+    "pos": "noun",
+    "definition": "protection is the process of keeping someone or something safe from harm or damage",
+    "example": "security software will give you greater protection from viruses",
+    "translation": "защита",
+    "collocations": [
+      "protection against/from something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "protect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "what can we do to protect ourselves against heart disease?",
+    "translation": "защищать",
+    "collocations": [
+      "protect someone or something against/from something"
+    ],
+    "baseWord": "protection"
+  },
+  {
+    "word": "reset",
+    "transcription": "ˌriːˈset",
+    "pos": "verb",
+    "definition": "if you reset a machine or device, you make changes so that it will work again or work in a different way",
+    "example": "I’ll reset your password and send you a new one in a minute",
+    "translation": "сбрасывать, перезагружать (настройки)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "reset",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "your password reset was successful",
+    "translation": "сброс (настроек, пароля)",
+    "collocations": [],
+    "baseWord": "reset"
+  },
+  {
+    "word": "scan",
+    "transcription": "ˈskæn",
+    "pos": "verb",
+    "definition": "if a computer disk is scanned, a computer program checks it to make sure that it does not contain viruses (programs that destroy information)",
+    "example": "the disk was scanned for viruses before we started using it",
+    "translation": "сканировать (на вирусы)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "scan",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it could be a virus - you need to run a security scan",
+    "translation": "сканирование, проверка",
+    "collocations": [],
+    "baseWord": "scan"
+  },
+  {
+    "word": "scanner",
+    "transcription": "ˈskænə(r)",
+    "pos": "noun",
+    "definition": "a scanner is a piece of equipment that is used for creating an electronic picture of something on a computer",
+    "example": "place the document on the scanner",
+    "translation": "сканер",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "select",
+    "transcription": "sɪˈlekt",
+    "pos": "verb",
+    "definition": "if you select something, you choose it from a group of things. If you select something on a computer screen, you choose it from a list of choices",
+    "example": "select ‘open’ and then ‘edit file’",
+    "translation": "выбирать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "social media campaign",
+    "transcription": "səʊʃəl ˈmiːdiə kæmˌpeɪn",
+    "pos": "noun",
+    "definition": "a campaign is a series of things you say or do because you want to persuade people about something. A social media campaign is a campaign that uses new technology like Facebook and Twitter to communicate this information",
+    "example": "my boss wants me to run our social media campaign",
+    "translation": "кампания в социальных сетях",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "socket",
+    "transcription": "ˈsɒkɪt",
+    "pos": "noun",
+    "definition": "a socket is a place with holes in a wall or machine where you can connect electrical equipment",
+    "example": "there’s a socket behind you on the wall",
+    "translation": "розетка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "trip",
+    "transcription": "trɪp",
+    "pos": "verb",
+    "definition": "if you trip, your foot hits something by accident and you fall or lose your balance",
+    "example": "it’s really slippery so be careful you don’t trip!",
+    "translation": "спотыкаться",
+    "collocations": [
+      "trip on/over something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "trip",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it was only a little trip but she broke her arm badly",
+    "translation": "спотыкание, падение",
+    "collocations": [],
+    "baseWord": "trip"
+  },
+  {
+    "word": "advance",
+    "transcription": "ədˈvɑːns",
+    "pos": "verb",
+    "definition": "to advance means to move forward and towards something or someone",
+    "example": "if you can match all the images, then you advance to the next level",
+    "translation": "продвигаться (вперед), переходить (на следующий уровень)",
+    "collocations": [
+      "advance on somewhere Collocates:  on the black market"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "clear",
+    "transcription": "klɪə(r)",
+    "pos": "verb",
+    "definition": "if you clear a place or clear something from it, you remove things that are not wanted there",
+    "example": "can you clear the glasses from the tables?",
+    "translation": "убирать, очищать (место)",
+    "collocations": [
+      "clear something from somewhere",
+      "clear somewhere of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "comfort",
+    "transcription": "ˈkʌmfə(r)t",
+    "pos": "noun",
+    "definition": "comfort is when you feel physically relaxed and happy because you are in a pleasant place",
+    "example": "you can shop from the comfort of your own home",
+    "translation": "комфорт, удобство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "comfortable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a warm and comfortable bed",
+    "translation": "удобный, комфортный",
+    "collocations": [],
+    "baseWord": "comfort"
+  },
+  {
+    "word": "discomfort",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "careful design is needed to minimise user discomfort",
+    "translation": "дискомфорт, неудобство",
+    "collocations": [],
+    "baseWord": "comfort"
+  },
+  {
+    "word": "uncomfortable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "these shoes are really uncomfortable",
+    "translation": "неудобный",
+    "collocations": [],
+    "baseWord": "comfort"
+  },
+  {
+    "word": "consumer",
+    "transcription": "kənˈsjuːmə(r)",
+    "pos": "noun",
+    "definition": "a consumer is a person who buys and uses goods and services",
+    "example": "consumer rights",
+    "translation": "потребитель",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "detail",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she explained the whole thing in great detail",
+    "translation": "подробность, деталь",
+    "collocations": [
+      "in detail"
+    ],
+    "baseWord": "consumer"
+  },
+  {
+    "word": "endless",
+    "transcription": "ˈendləs",
+    "pos": "adjective",
+    "definition": "if something is endless, it seems to have no end or limit",
+    "example": "the possibilities are endless",
+    "translation": "бесконечный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "endlessly",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "women have fought endlessly for equality and fair treatment",
+    "translation": "бесконечно, без конца",
+    "collocations": [],
+    "baseWord": "endless"
+  },
+  {
+    "word": "enemy",
+    "transcription": "ˈenəmi",
+    "pos": "noun",
+    "definition": "an enemy is someone who is opposed to you and may try to cause problems for you or harm you",
+    "example": "an enemy soldier",
+    "translation": "враг, противник",
+    "collocations": [
+      "an enemy of something",
+      "make enemies",
+      "make an enemy of someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "enhance",
+    "transcription": "ɪnˈhɑːns",
+    "pos": "verb",
+    "definition": "to enhance something means to improve it or make it look more attractive",
+    "example": "this skill will greatly enhance your musical creativity",
+    "translation": "улучшать, усиливать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "enhancement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "skill development and performance enhancement are difficult tasks",
+    "translation": "улучшение",
+    "collocations": [],
+    "baseWord": "enhance"
+  },
+  {
+    "word": "experience",
+    "transcription": "ɪkˈspɪəriəns",
+    "pos": "verb",
+    "definition": "if you experience a particular feeling, situation, or problem, it happens to you or affects you",
+    "example": "it allows you to experience the daily life of a farmer",
+    "translation": "испытывать, переживать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "experience",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a lot of people we’ve spoken to have had a similar experience",
+    "translation": "опыт",
+    "collocations": [
+      "have an experience",
+      "an experience of/with something"
+    ],
+    "baseWord": "experience"
+  },
+  {
+    "word": "fantasy",
+    "transcription": "ˈfæntəsi",
+    "pos": "noun",
+    "definition": "a fantasy is a pleasant state or situation that is not true or real",
+    "example": "the idea of living in a castle is just pure fantasy",
+    "translation": "фантазия, несбыточная мечта",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gaming",
+    "transcription": "ˈɡeɪmɪŋ",
+    "pos": "noun",
+    "definition": "gaming is the activity of playing computer games. Someone who plays computer games very regularly is a gamer",
+    "example": "do you have any hobbies outside of gaming?",
+    "translation": "видеоигры, геймерство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gamer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Tom has always been a keen gamer",
+    "translation": "геймер, игрок (в компьютерные игры)",
+    "collocations": [],
+    "baseWord": "gaming"
+  },
+  {
+    "word": "gather",
+    "transcription": "ˈɡæðə(r)",
+    "pos": "verb",
+    "definition": "if you gather things, you bring them together so that you can use them",
+    "example": "you gather resources to build your own city",
+    "translation": "собирать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "household",
+    "transcription": "ˈhaʊsˌhəʊld",
+    "pos": "adjective",
+    "definition": "household means connected with a house or flat and all the people living in it",
+    "example": "I’m working for a company that sells household goods",
+    "translation": "домашний, бытовой",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "interact",
+    "transcription": "ˌɪntərˈækt",
+    "pos": "verb",
+    "definition": "if two or more people interact, or if one person interacts with another, they communicate and react to each other while doing an activity together",
+    "example": "you can play on your own or interact with other players",
+    "translation": "взаимодействовать",
+    "collocations": [
+      "interact with someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "interaction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I enjoy the interaction with students from other courses",
+    "translation": "взаимодействие",
+    "collocations": [
+      "interaction between/with",
+      "social interaction"
+    ],
+    "baseWord": "interact"
+  },
+  {
+    "word": "interactive",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "teaching is done in small, interactive workshops",
+    "translation": "интерактивный",
+    "collocations": [
+      "interaction between/with",
+      "social interaction"
+    ],
+    "baseWord": "interact"
+  },
+  {
+    "word": "machinery",
+    "transcription": "məˈʃiːnəri",
+    "pos": "noun",
+    "definition": "a machine is a piece of equipment that does a particular kind of work. Machinery is a word used to refer to machines in general, especially in a factory or on a farm, etc",
+    "example": "modern machinery and advanced technology assures quality control",
+    "translation": "техника, оборудование, машины",
+    "collocations": [
+      "agricultural/industrial machinery",
+      "farm machinery",
+      "heavy machinery"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "machine",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a coffee machine",
+    "translation": "машина, аппарат",
+    "collocations": [
+      "by machine"
+    ],
+    "baseWord": "machinery"
+  },
+  {
+    "word": "mission",
+    "transcription": "ˈmɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "a mission is an important piece of work that a person or group of people is given to do, especially one that involves travelling",
+    "example": "he was sent on a diplomatic mission to South Africa",
+    "translation": "миссия, задание",
+    "collocations": [
+      "on a mission",
+      "a diplomatic/peace/rescue mission"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "modification",
+    "transcription": "ˌmɒdɪfɪˈkeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "a modification is a small change to something, especially in order to improve it",
+    "example": "modification of the engine is required",
+    "translation": "модификация, изменение",
+    "collocations": [
+      "modification of/to something",
+      "modification of/to something Collocates:  obsessed by/with something or someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "modify",
+    "transcription": "ˈmɒdɪfaɪ",
+    "pos": "verb",
+    "definition": "if you modify something, you change it slightly in order to improve it",
+    "example": "they’ve agreed to modify their returns policy to make exchanging goods easier",
+    "translation": "модифицировать, изменять (с целью улучшения)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "obsession",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "over something",
+    "example": "she had an obsession with cleanliness",
+    "translation": "одержимость, навязчивая идея",
+    "collocations": [
+      "an obsession with something or someone"
+    ],
+    "baseWord": "modify"
+  },
+  {
+    "word": "obsessive",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "over something",
+    "example": "she’s obsessive about the state of the house",
+    "translation": "одержимый, помешанный (на чем-то)",
+    "collocations": [
+      "obsessive about something or someone"
+    ],
+    "baseWord": "modify"
+  },
+  {
+    "word": "obsess",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "over something",
+    "example": "she had an obsession with cleanliness",
+    "translation": "быть одержимым (чем-то)",
+    "collocations": [
+      "obsess about/"
+    ],
+    "baseWord": "modify"
+  },
+  {
+    "word": "occupation",
+    "transcription": "ˌɒkjʊˈpeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "an occupation is a job. This word is used in forms and formal writing",
+    "example": "please supply your name, address and occupation",
+    "translation": "род занятий, профессия",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "opponent",
+    "transcription": "əˈpəʊnənt",
+    "pos": "noun",
+    "definition": "an opponent is someone who is competing against you",
+    "example": "he received a much greater percentage of the vote than his opponent",
+    "translation": "соперник, противник",
+    "collocations": [
+      "recover something from somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "recovery",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "recovery of stolen goods",
+    "translation": "возврат, возвращение (украденного)",
+    "collocations": [
+      "recovery of something"
+    ],
+    "baseWord": "opponent"
+  },
+  {
+    "word": "release",
+    "transcription": "rɪˈliːs",
+    "pos": "verb",
+    "definition": "if you release something or someone, you allow them to leave a place where they have been kept. If you release a film, book, game, song, etc, you make it available for people to see or buy for the first time",
+    "example": "the band have just released their third album",
+    "translation": "выпускать, издавать (альбом, фильм)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "release",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the film is on general release next Friday",
+    "translation": "выход, релиз (фильма, альбома)",
+    "collocations": [],
+    "baseWord": "release"
+  },
+  {
+    "word": "remarkable",
+    "transcription": "rɪˈmɑː(r)kəb(ə)l",
+    "pos": "adjective",
+    "definition": "something or someone that is remarkable is unusual in a way which makes people surprised or impressed",
+    "example": "the computer and video games industry has experienced remarkable growth",
+    "translation": "замечательный, выдающийся",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "remarkably",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "Mr Galvin was remarkably successful in the local elections",
+    "translation": "удивительно, поразительно",
+    "collocations": [],
+    "baseWord": "remarkable"
+  },
+  {
+    "word": "resource",
+    "transcription": "rɪˈzɔː(r)s",
+    "pos": "noun",
+    "definition": "a resource is something that you can use to help you achieve or create something",
+    "example": "the university library is a fantastic resource",
+    "translation": "ресурс",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "resourced",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the country’s hospitals are not adequately resourced",
+    "translation": "обеспеченный ресурсами, финансируемый",
+    "collocations": [],
+    "baseWord": "resource"
+  },
+  {
+    "word": "row",
+    "transcription": "rəʊ",
+    "pos": "noun",
+    "definition": "a row is a series of things or people in a straight line",
+    "example": "you need to have three bricks of the same colour in a row",
+    "translation": "ряд",
+    "collocations": [
+      "a row of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "safe",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "are these drugs safe?",
+    "translation": "безопасный",
+    "collocations": [],
+    "baseWord": "row"
+  },
+  {
+    "word": "safety",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "local campaigns to improve road safety",
+    "translation": "безопасность",
+    "collocations": [],
+    "baseWord": "row"
+  },
+  {
+    "word": "virtual",
+    "transcription": "ˈvɜː(r)tʃʊəl",
+    "pos": "adjective",
+    "definition": "virtual means created by computer software, and appearing on computers or the internet",
+    "example": "it’s a virtual world where you can create characters and stories",
+    "translation": "виртуальный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "app",
+    "transcription": "æp",
+    "pos": "noun",
+    "definition": "an app is a piece of software that is designed for a particular purpose, especially one used on a tablet computer or mobile phone. App is short for application",
+    "example": "a new dictionary app is now available",
+    "translation": "приложение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "attacker",
+    "transcription": "əˈtækə(r)",
+    "pos": "noun",
+    "definition": "to attack a person or a place means to try to hurt or damage them by using violence. An attacker is a person who attacks someone",
+    "example": "the identity of the attacker remains unclear",
+    "translation": "нападающий, злоумышленник",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "attack",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "a violent racist attack",
+    "translation": "атаковать, нападать",
+    "collocations": [
+      "come under attack",
+      "an attack on someone/ something"
+    ],
+    "baseWord": "attacker"
+  },
+  {
+    "word": "attack",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a violent racist attack",
+    "translation": "атака, нападение",
+    "collocations": [
+      "come under attack",
+      "an attack on someone/ something"
+    ],
+    "baseWord": "attacker"
+  },
+  {
+    "word": "automatically",
+    "transcription": "ˌɔːtəˈmætɪkli",
+    "pos": "adverb",
+    "definition": "if a machine does something automatically, it has no human help",
+    "example": "the machine does everything automatically",
+    "translation": "автоматически",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "automatic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the automatic doors opened",
+    "translation": "автоматический",
+    "collocations": [],
+    "baseWord": "automatically"
+  },
+  {
+    "word": "build in",
+    "transcription": "bɪld ˈɪn",
+    "pos": "phrasal verb",
+    "definition": "to build something in means to make it part of something else",
+    "example": "the suitcase has GPS built in, so you can track it wherever it is",
+    "translation": "встраивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "built-in",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a built-in wardrobe",
+    "translation": "встроенный",
+    "collocations": [],
+    "baseWord": "build in"
+  },
+  {
+    "word": "edit",
+    "transcription": "ˈedɪt",
+    "pos": "verb",
+    "definition": "if you edit a document, you correct mistakes and make changes so that it is ready to be published. If you edit a film or video, you arrange it in a particular order and take out the parts that you do not want",
+    "example": "the software allows you to record, edit and share videos",
+    "translation": "редактировать, монтировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "edit",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "only minor edits should be made to this page",
+    "translation": "правка, изменение",
+    "collocations": [],
+    "baseWord": "edit"
+  },
+  {
+    "word": "editing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "excellent typing and editing skills are necessary",
+    "translation": "редактирование, монтаж",
+    "collocations": [],
+    "baseWord": "edit"
+  },
+  {
+    "word": "editor",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a magazine/newspaper editor",
+    "translation": "редактор",
+    "collocations": [],
+    "baseWord": "edit"
+  },
+  {
+    "word": "editorial",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the author has retained editorial control",
+    "translation": "редакторский, издательский",
+    "collocations": [],
+    "baseWord": "edit"
+  },
+  {
+    "word": "gadget",
+    "transcription": "ˈɡædʒɪt",
+    "pos": "noun",
+    "definition": "a gadget is a small machine or device which helps you do something useful",
+    "example": "a clever kitchen gadget",
+    "translation": "гаджет, устройство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gadgetry",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it doesn’t rely solely on technical gadgetry",
+    "translation": "гаджеты, технические устройства (в совокупности)",
+    "collocations": [],
+    "baseWord": "gadget"
+  },
+  {
+    "word": "interface",
+    "transcription": "ˈɪntə(r)ˌfeɪs",
+    "pos": "noun",
+    "definition": "an interface is the point in a computer system where information passes from the computer to the person using it",
+    "example": "it’s got a very clear user interface",
+    "translation": "интерфейс",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "on earth",
+    "transcription": "ɒn ˈɜː(r)θ",
+    "pos": "phrase",
+    "definition": "used for adding emphasis to questions with what, why, where, etc, especially when the person asking the question is surprised, angry, or does not think there is an obvious answer",
+    "example": "why on earth would you want to do that?",
+    "translation": "черт возьми, вообще (усиление вопроса)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pillow",
+    "transcription": "ˈpɪləʊ",
+    "pos": "noun",
+    "definition": "a pillow is a soft object that you rest your head on when you are in bed",
+    "example": "this is a really comfy pillow",
+    "translation": "подушка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "random",
+    "transcription": "ˈrændəm",
+    "pos": "adjective",
+    "definition": "random means not following any particular method, pattern, or purpose",
+    "example": "my friends James and Jodie review random stuff chosen by listeners",
+    "translation": "случайный",
+    "collocations": [
+      "a random sample/selection"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "randomly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "participants were randomly selected",
+    "translation": "случайным образом",
+    "collocations": [
+      "randomly select"
+    ],
+    "baseWord": "random"
+  },
+  {
+    "word": "reminder",
+    "transcription": "rɪˈmaɪndə(r)",
+    "pos": "noun",
+    "definition": "if you remind someone about something or remind them to do it, you help them remember to do it. A reminder is a letter or note that reminds you about something you need to remember to do",
+    "example": "I’m bound to forget – can you send me a reminder?",
+    "translation": "напоминание",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "remind",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "can you remind me to phone dad?",
+    "translation": "напоминать",
+    "collocations": [
+      "remind someone about something",
+      "remind someone to do something"
+    ],
+    "baseWord": "reminder"
+  },
+  {
+    "word": "remote",
+    "transcription": "rɪˈməʊt",
+    "pos": "adjective",
+    "definition": "remote means capable of being operated from a distance, usually using an electronic link",
+    "example": "use the remote control to change channels",
+    "translation": "дистанционный",
+    "collocations": [
+      "a remote control"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "remotely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "a remotely controlled lighting system",
+    "translation": "дистанционно",
+    "collocations": [],
+    "baseWord": "remote"
+  },
+  {
+    "word": "run",
+    "transcription": "rʌn",
+    "pos": "verb",
+    "definition": "if a machine runs on or runs off a type of energy, it uses that type of energy",
+    "example": "we can run the lighting off the mains (the electricity that comes into the house from outside)",
+    "translation": "работать (на определенном виде энергии)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "scare off",
+    "transcription": "skeə(r) ˈɒf",
+    "pos": "phrasal verb",
+    "definition": "scared means frightened. If you scare someone off, you make them so frightened that they go away. You can also say scare someone away",
+    "example": "the cry for help is supposed to scare off attackers in the street",
+    "translation": "отпугивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sensor",
+    "transcription": "ˈsensə(r)",
+    "pos": "noun",
+    "definition": "a sensor is a piece of equipment that reacts to physical changes such as heat or light",
+    "example": "it has a built-in sensor that can read the temperature",
+    "translation": "датчик, сенсор",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "smash",
+    "transcription": "smæʃ",
+    "pos": "verb",
+    "definition": "if you smash something or it smashes, it breaks into many pieces by being dropped or hit",
+    "example": "the ball flew across the garden and smashed the window",
+    "translation": "разбивать(ся) вдребезги",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "solar",
+    "transcription": "ˈsəʊlə(r)",
+    "pos": "adjective",
+    "definition": "solar means coming from or relating to the sun",
+    "example": "the whole house runs on solar power",
+    "translation": "солнечный",
+    "collocations": [
+      "solar power/energy"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "timer",
+    "transcription": "ˈtaɪmə(r)",
+    "pos": "noun",
+    "definition": "a timer is a piece of equipment that measures time, especially one that makes a machine start or stop working at a particular time",
+    "example": "remember to set the timer so that the heating comes on",
+    "translation": "таймер",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "torch",
+    "transcription": "tɔː(r)tʃ",
+    "pos": "noun",
+    "definition": "a torch is a small electric light that is powered by batteries and which you hold in your hand. The American word is flashlight",
+    "example": "a powerful torch",
+    "translation": "фонарик",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "track",
+    "transcription": "træk",
+    "pos": "verb",
+    "definition": "if you track someone or something, you use a special device to follow their movements",
+    "example": "the suitcase has GPS built in, so you can track it wherever it is",
+    "translation": "отслеживать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "user-friendly",
+    "transcription": "juːzə(r)ˈfren(d)li",
+    "pos": "adjective",
+    "definition": "something that is user-friendly is easy for people to use or understand",
+    "example": "the website is very user-friendly",
+    "translation": "удобный для пользователя, простой в использовании",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "user-friendliness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the user-friendliness of the site will definitely appeal to many",
+    "translation": "удобство использования",
+    "collocations": [],
+    "baseWord": "user-friendly"
+  },
+  {
+    "word": "condition",
+    "transcription": "kənˈdɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "a condition is a long-term illness or health problem",
+    "example": "he’s got an incurable medical condition",
+    "translation": "заболевание, состояние здоровья",
+    "collocations": [
+      "a medical condition",
+      "a heart/skin/lung condition"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "data",
+    "transcription": "ˈdeɪtə",
+    "pos": "noun",
+    "definition": "data is facts or information that can be analysed and used for making calculations or decisions",
+    "example": "none of the personal data collected is ever passed on",
+    "translation": "данные",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lung",
+    "transcription": "lʌŋ",
+    "pos": "noun",
+    "definition": "your lungs are the two organs inside your chest that fill with air when you breathe",
+    "example": "one serious side effect is a collapsed lung",
+    "translation": "легкое",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "react",
+    "transcription": "riˈækt",
+    "pos": "verb",
+    "definition": "if someone or something reacts to something, they behave in a particular way because of it",
+    "example": "how did he react when you told him?",
+    "translation": "реагировать",
+    "collocations": [
+      "react to something Collocates:  a reaction to something",
+      "an immediate/initial reaction",
+      "a gut/knee-jerk reaction"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sample",
+    "transcription": "ˈsɑːmp(ə)l",
+    "pos": "noun",
+    "definition": "a sample is a small amount of a substance that is used for scientific analysis",
+    "example": "the GPS tracking system marks where each sample of air was taken",
+    "translation": "образец, проба",
+    "collocations": [
+      "a sample of something",
+      "collect/obtain a sample"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sample",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "they were carefully sampled for further analysis in a laboratory",
+    "translation": "брать пробу, анализировать образец",
+    "collocations": [],
+    "baseWord": "sample"
+  }
+]

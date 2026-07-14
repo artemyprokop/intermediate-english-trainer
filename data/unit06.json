@@ -1,0 +1,1147 @@
+[
+  {
+    "word": "battery",
+    "transcription": "ˈbæt(ə)ri",
+    "pos": "noun",
+    "definition": "a battery is a device that stores electricity and is used in equipment such as phones, tablets, torches, etc",
+    "example": "the battery only lasts a few hours",
+    "translation": "батарея, аккумулятор",
+    "collocations": [
+      "a flat/dead battery",
+      "recharge a battery",
+      "battery life"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "deal",
+    "transcription": "diːl",
+    "pos": "noun",
+    "definition": "a deal is a particular agreement between a customer and a company, especially one which gives the customer some benefits",
+    "example": "we’re offering a special deal if you buy before the end of the month",
+    "translation": "выгодное предложение, сделка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fold",
+    "transcription": "fəʊld",
+    "pos": "verb",
+    "definition": "if something folds, or if you fold it, it bends so that one part of it covers the other. If something folds out, then it bends the other way and becomes straighter",
+    "example": "the chair will fold down flat",
+    "translation": "складывать(ся)",
+    "collocations": [
+      "fold out",
+      "fold down",
+      "fold up"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "navigate",
+    "transcription": "ˈnævɪɡeɪt",
+    "pos": "verb",
+    "definition": "if you navigate a computer screen, you successfully find the part of it that you need. If you navigate a website, you find the page or pages that you want to see",
+    "example": "it’s really easy to navigate your way round the screen",
+    "translation": "ориентироваться, перемещаться (по экрану, сайту)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "navigation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the navigation menu is a great help",
+    "translation": "навигация",
+    "collocations": [],
+    "baseWord": "navigate"
+  },
+  {
+    "word": "password",
+    "transcription": "ˈpɑːsˌwɜː(r)d",
+    "pos": "noun",
+    "definition": "a password is a secret list of letters and numbers that you have to put into a computer or phone in order to be able to start using it",
+    "example": "these phones use a password, which is not so secure",
+    "translation": "пароль",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plug in",
+    "transcription": "ˌplʌɡ ˈɪn",
+    "pos": "phrasal verb",
+    "definition": "if you plug something in, you connect it to a supply of electricity or to another piece of equipment",
+    "example": "can I plug my phone in here?",
+    "translation": "включать в розетку, подключать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plug",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "put the plug into the socket",
+    "translation": "вилка, штепсель",
+    "collocations": [],
+    "baseWord": "plug in"
+  },
+  {
+    "word": "unplug",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "don’t unplug my phone, it’s still charging",
+    "translation": "отключать от сети, выключать из розетки",
+    "collocations": [],
+    "baseWord": "plug in"
+  },
+  {
+    "word": "powerful",
+    "transcription": "ˈpaʊə(r)f(ə)l",
+    "pos": "adjective",
+    "definition": "a piece of equipment that is powerful can do its job very well or quickly or to a very great degree",
+    "example": "the new camera is much more powerful than my old one",
+    "translation": "мощный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "power",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "how much processing power does your laptop have?",
+    "translation": "мощность",
+    "collocations": [],
+    "baseWord": "powerful"
+  },
+  {
+    "word": "secure",
+    "transcription": "sɪˈkjʊə(r)",
+    "pos": "adjective",
+    "definition": "if a computer system is secure, it can only be used by people who have permission to use it so information can be kept secret. If your password is secure, it is very difficult for someone to guess what it is",
+    "example": "these phones use a password, which is not so secure",
+    "translation": "защищенный, надежный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "securely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "personal details are securely stored on our servers in Germany",
+    "translation": "надежно, безопасно",
+    "collocations": [],
+    "baseWord": "secure"
+  },
+  {
+    "word": "security",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "access to the site was protected by security software",
+    "translation": "безопасность, защита",
+    "collocations": [],
+    "baseWord": "secure"
+  },
+  {
+    "word": "insecure",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the operating system had a bug and was highly insecure",
+    "translation": "незащищенный, ненадежный",
+    "collocations": [],
+    "baseWord": "secure"
+  },
+  {
+    "word": "speaker",
+    "transcription": "ˈspiːkə(r)",
+    "pos": "noun",
+    "definition": "a speaker is a piece of equipment that sound comes out of, for example in a phone or a TV or a radio",
+    "example": "the phone has a fairly large speaker built in on the back",
+    "translation": "динамик",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "store",
+    "transcription": "stɔː(r)",
+    "pos": "verb",
+    "definition": "if you store something, you keep it somewhere when you are not using it",
+    "example": "the phone can store up to 50 voicemails at a time",
+    "translation": "хранить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "storage",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s not much storage space in the attic",
+    "translation": "хранилище, место для хранения",
+    "collocations": [],
+    "baseWord": "store"
+  },
+  {
+    "word": "swipe",
+    "transcription": "swaɪp",
+    "pos": "verb",
+    "definition": "on a smartphone or tablet, if you swipe, you touch the screen and move your finger to the left, to the right, up, or down in order to make it display what you want",
+    "example": "just swipe your finger across the screen to unlock the phone",
+    "translation": "проводить пальцем (по экрану), свайпать",
+    "collocations": [
+      "swipe up/down",
+      "swipe left/right"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "swipe",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a downward swipe will close the app",
+    "translation": "свайп, проведение пальцем по экрану",
+    "collocations": [
+      "an up(ward)/down(ward) swipe",
+      "a left/right swipe"
+    ],
+    "baseWord": "swipe"
+  },
+  {
+    "word": "tempt",
+    "transcription": "tempt",
+    "pos": "verb",
+    "definition": "if something tempts you, or if you are tempted by it, it makes you want to do it or have it, although you think you shouldn’t",
+    "example": "can I tempt you to another piece of cake?",
+    "translation": "соблазнять, искушать",
+    "collocations": [
+      "be tempted to do something",
+      "tempt someone to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "tempting",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "we received a very tempting offer for the house",
+    "translation": "соблазнительный, заманчивый",
+    "collocations": [
+      "resist temptation"
+    ],
+    "baseWord": "tempt"
+  },
+  {
+    "word": "temptation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I managed to resist the temptation to buy another ice cream",
+    "translation": "соблазн, искушение",
+    "collocations": [
+      "resist temptation"
+    ],
+    "baseWord": "tempt"
+  },
+  {
+    "word": "tiny",
+    "transcription": "ˈtaɪni",
+    "pos": "adjective",
+    "definition": "something that is tiny is extremely small",
+    "example": "this battery lasts a tiny bit longer than the other one",
+    "translation": "крошечный, крохотный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "touch",
+    "transcription": "tʌtʃ",
+    "pos": "noun",
+    "definition": "if you touch something, you put part of your body on it. On a phone or tablet or computer screen, a touch system or a touch screen is one which works when you put your finger on the screen",
+    "example": "it uses a touch ID system so you don’t need a password",
+    "translation": "касание, прикосновение (сенсорный ввод)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "touch",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "touch the screen to start the program",
+    "translation": "касаться, трогать",
+    "collocations": [],
+    "baseWord": "touch"
+  },
+  {
+    "word": "unlock",
+    "transcription": "ʌnˈlɒk",
+    "pos": "verb",
+    "definition": "if you unlock a computer, tablet, or phone, you do something that proves you have permission to use the device, for example by entering your password",
+    "example": "just swipe your finger across the screen to unlock the phone",
+    "translation": "разблокировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lock",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the phone automatically locks itself after 10 minutes",
+    "translation": "блокировать(ся), запирать",
+    "collocations": [],
+    "baseWord": "unlock"
+  },
+  {
+    "word": "upgrade",
+    "transcription": "ʌpˈɡreɪd",
+    "pos": "verb",
+    "definition": "when you upgrade something, you get a better or more recent form of the same thing",
+    "example": "I want to upgrade my phone to the latest version",
+    "translation": "обновлять, улучшать (до более новой версии)",
+    "collocations": [
+      "upgrade something to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "upgrade",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "do you need help to install the upgrade?",
+    "translation": "обновление",
+    "collocations": [],
+    "baseWord": "upgrade"
+  },
+  {
+    "word": "version",
+    "transcription": "ˈvɜː(r)ʃ(ə)n",
+    "pos": "noun",
+    "definition": "a version of something is a form of it which is different from other forms",
+    "example": "I want to upgrade my phone to the latest version",
+    "translation": "версия",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "voice recognition",
+    "transcription": "ˌvɔɪs rekəɡˈnɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "voice recognition is the ability of a computer program to understand and react to human speech",
+    "example": "voice recognition software has improved over the last few years",
+    "translation": "распознавание речи, голосовое распознавание",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "zoom",
+    "transcription": "zuːm",
+    "pos": "noun",
+    "definition": "on a camera, the zoom is the feature which lets the camera take more detailed pictures",
+    "example": "the camera has an excellent digital zoom",
+    "translation": "зум, увеличение (изображения)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "zoom",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "can you zoom in on the cherry tree?",
+    "translation": "увеличивать (масштаб), приближать (изображение)",
+    "collocations": [
+      "zoom in"
+    ],
+    "baseWord": "zoom"
+  },
+  {
+    "word": "bright",
+    "transcription": "braɪt",
+    "pos": "adjective",
+    "definition": "bright colours are light and strong, not dark. If a room or house is bright, a lot of light comes in",
+    "example": "she wears a lot of bright colours",
+    "translation": "яркий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "brightly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "brightly-coloured flowers",
+    "translation": "ярко",
+    "collocations": [],
+    "baseWord": "bright"
+  },
+  {
+    "word": "chain",
+    "transcription": "tʃeɪn",
+    "pos": "noun",
+    "definition": "a chain is a set of metal rings, joined together in a line. You can wear a small chain as a decoration, for example round your neck or wrist",
+    "example": "she was wearing a delicate silver chain round her neck",
+    "translation": "цепочка, цепь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "debt",
+    "transcription": "det",
+    "pos": "noun",
+    "definition": "debt is the state of owing money to someone. A debt is an amount of money that you owe",
+    "example": "I hate being in debt",
+    "translation": "долг",
+    "collocations": [
+      "be in debt",
+      "get into debt",
+      "get out of debt",
+      "run up a debt",
+      "pay back/pay off/clear a debt"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "heel",
+    "transcription": "hiːl",
+    "pos": "noun",
+    "definition": "your heel is the back part of your foot. The heel of a shoe is the bottom of the shoe at the back. Women’s shoes with a very high heel are called high-heeled shoes, or high heels",
+    "example": "my heel was rubbing on the shoe",
+    "translation": "пятка; каблук",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "hole",
+    "transcription": "həʊl",
+    "pos": "noun",
+    "definition": "a hole is an empty space on the surface of something that goes all the way through",
+    "example": "I drilled a hole through the side of the bath",
+    "translation": "дыра, отверстие",
+    "collocations": [
+      "a hole in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "keen",
+    "transcription": "kiːn",
+    "pos": "adjective",
+    "definition": "if you are keen, you are very enthusiastic. If you are keen on something, you like it a lot",
+    "example": "how keen on shopping are you?",
+    "translation": "увлеченный, неравнодушный (к чему-то)",
+    "collocations": [
+      "be keen on something",
+      "be keen to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "label",
+    "transcription": "ˈleɪb(ə)l",
+    "pos": "noun",
+    "definition": "the label on something you buy is the part that has the name of the brand and other information on it",
+    "example": "he’ll only buy something if it’s got a designer label (made by a famous designer)",
+    "translation": "этикетка, ярлык",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "label",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "label your suitcase with your name",
+    "translation": "маркировать, наклеивать ярлык",
+    "collocations": [],
+    "baseWord": "label"
+  },
+  {
+    "word": "luggage",
+    "transcription": "ˈlʌɡɪdʒ",
+    "pos": "noun",
+    "definition": "your luggage is the bags and suitcases you take with you when you are travelling. Be careful: luggage is always singular. You cannot talk about luggages",
+    "example": "I made sure I left plenty of space in my luggage",
+    "translation": "багаж",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "occasion",
+    "transcription": "əˈkeɪʒ(ə)n",
+    "pos": "noun",
+    "definition": "an occasion is a time when a particular event happens. An occasion is also the event itself",
+    "example": "the funeral was a solemn occasion",
+    "translation": "событие, повод, случай",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "outfit",
+    "transcription": "ˈaʊtfɪt",
+    "pos": "noun",
+    "definition": "an outfit is a set of clothes that you wear together at the same time",
+    "example": "I have one outfit I only wear on special occasions",
+    "translation": "наряд, комплект одежды",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plain",
+    "transcription": "pleɪn",
+    "pos": "adjective",
+    "definition": "something that is plain is simple, with no unnecessary parts or decoration",
+    "example": "he wore a plain blue shirt",
+    "translation": "простой, однотонный, без узора",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plainly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "let me speak plainly: the answer is no",
+    "translation": "прямо, откровенно, ясно",
+    "collocations": [],
+    "baseWord": "plain"
+  },
+  {
+    "word": "purchase",
+    "transcription": "ˈpɜː(r)tʃəs",
+    "pos": "noun",
+    "definition": "a purchase is something you have just bought. Purchase is also the act of buying something",
+    "example": "he showed us his recent purchase: a huge sofa",
+    "translation": "покупка, приобретение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "purchase",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "tickets can be purchased in advance",
+    "translation": "покупать, приобретать",
+    "collocations": [],
+    "baseWord": "purchase"
+  },
+  {
+    "word": "rare",
+    "transcription": "reə(r)",
+    "pos": "adjective",
+    "definition": "if something is rare, it is not very common or it does not happen very often",
+    "example": "the museum houses a number of rare and valuable exhibits",
+    "translation": "редкий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rarely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he used to be keen, but he rarely plays the piano now",
+    "translation": "редко",
+    "collocations": [],
+    "baseWord": "rare"
+  },
+  {
+    "word": "rip-off",
+    "transcription": "ˈrɪp ɒf",
+    "pos": "noun",
+    "definition": "if you say that something is a rip-off, you mean that it is much more expensive than it should be because the people selling it are greedy or dishonest",
+    "example": "I never buy designer clothes; they’re just a rip-off",
+    "translation": "обдираловка, грабеж (переплата)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rip off",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we got ripped off by a taxi driver",
+    "translation": "обдирать, обманывать (переплачивать)",
+    "collocations": [],
+    "baseWord": "rip-off"
+  },
+  {
+    "word": "scruffy",
+    "transcription": "ˈskrʌfi",
+    "pos": "adjective",
+    "definition": "if someone looks scruffy, their clothes are not smart or clean and they look very untidy",
+    "example": "he always looks scruffy",
+    "translation": "неопрятный, неряшливый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "scruffily",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "they were both rather scruffily dressed",
+    "translation": "неряшливо, неопрятно",
+    "collocations": [],
+    "baseWord": "scruffy"
+  },
+  {
+    "word": "stripy",
+    "transcription": "ˈstraɪpi",
+    "pos": "adjective",
+    "definition": "on a piece of clothing, stripes are lines that go from top to bottom and are a different colour from the areas on either side. If a piece of clothing is stripy, it has stripes in its pattern",
+    "example": "a stripy pullover",
+    "translation": "полосатый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stripe",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "their skirts had red and blue stripes",
+    "translation": "полоса, полоска",
+    "collocations": [],
+    "baseWord": "stripy"
+  },
+  {
+    "word": "striped",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he wore a blue striped jacket",
+    "translation": "полосатый",
+    "collocations": [],
+    "baseWord": "stripy"
+  },
+  {
+    "word": "tag",
+    "transcription": "tæɡ",
+    "pos": "noun",
+    "definition": "a tag is a piece of paper or plastic that is fixed to something to give information about it",
+    "example": "your jacket has still got the price tag on",
+    "translation": "бирка, ярлык",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "thick",
+    "transcription": "θɪk",
+    "pos": "adjective",
+    "definition": "something that is thick is not thin",
+    "example": "a pair of thick socks",
+    "translation": "толстый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "thickness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the thickness of the walls was nearly one metre",
+    "translation": "толщина",
+    "collocations": [],
+    "baseWord": "thick"
+  },
+  {
+    "word": "tight",
+    "transcription": "taɪt",
+    "pos": "adjective",
+    "definition": "if your clothes are tight, they fit very close to your body",
+    "example": "tight jeans",
+    "translation": "тесный, облегающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "tightly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she wrapped the scarf tightly round her neck",
+    "translation": "туго, плотно",
+    "collocations": [],
+    "baseWord": "tight"
+  },
+  {
+    "word": "trendy",
+    "transcription": "ˈtrendi",
+    "pos": "adjective",
+    "definition": "something which is trendy is very fashionable. If a person is trendy, they wear fashionable clothes and go to fashionable places",
+    "example": "he looks quite trendy",
+    "translation": "модный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "trend",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "this hairstyle is the latest trend",
+    "translation": "тренд, тенденция",
+    "collocations": [],
+    "baseWord": "trendy"
+  },
+  {
+    "word": "carved",
+    "transcription": "kɑː(r)vd",
+    "pos": "adjective",
+    "definition": "if objects that are made of wood or stone are carved, they have patterns or pictures on them which someone has made by cutting into the surface",
+    "example": "a beautiful carved wooden mask",
+    "translation": "резной",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "carve",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "visitors have carved their names in the wood",
+    "translation": "вырезать (по дереву, камню)",
+    "collocations": [],
+    "baseWord": "carved"
+  },
+  {
+    "word": "carving",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the carving represented a large tree",
+    "translation": "резьба, резное изделие",
+    "collocations": [],
+    "baseWord": "carved"
+  },
+  {
+    "word": "clay",
+    "transcription": "kleɪ",
+    "pos": "noun",
+    "definition": "clay is a kind of soil which becomes very hard when it is dried and heated. It is used to make bowls, pots, etc",
+    "example": "people there often cook in clay pots",
+    "translation": "глина",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "consume",
+    "transcription": "kənˈsjuːm",
+    "pos": "verb",
+    "definition": "if you consume something, you eat it or drink it. In economics, to consume goods or energy means to use them and then replace them with more",
+    "example": "most people consume more meat than is healthy",
+    "translation": "потреблять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "consumption",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "energy consumption has been significantly reduced",
+    "translation": "потребление",
+    "collocations": [],
+    "baseWord": "consume"
+  },
+  {
+    "word": "consumer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the average consumer eats four chocolate bars a week",
+    "translation": "потребитель",
+    "collocations": [],
+    "baseWord": "consume"
+  },
+  {
+    "word": "cute",
+    "transcription": "kjuːt",
+    "pos": "adjective",
+    "definition": "in British English, something which is cute is small and attractive, in a slightly childish way. In American English, it can also mean someone is good-looking",
+    "example": "what a cute little dog",
+    "translation": "милый, симпатичный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "display",
+    "transcription": "dɪˈspleɪ",
+    "pos": "verb",
+    "definition": "to display something or a set of things means to show them clearly so that people can see them",
+    "example": "the program will display a drop-down menu",
+    "translation": "показывать, отображать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "display",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there were some lovely works of art on display (arranged for people to see)",
+    "translation": "показ, демонстрация, экспозиция",
+    "collocations": [
+      "on display",
+      "a display of something"
+    ],
+    "baseWord": "display"
+  },
+  {
+    "word": "doll",
+    "transcription": "dɒl",
+    "pos": "noun",
+    "definition": "a doll is a small figure of a person. Some dolls are made as toys for children, and other dolls are painted and used as decoration",
+    "example": "she was crying because she had lost her favourite doll",
+    "translation": "кукла",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "forever",
+    "transcription": "fərˈevə(r)",
+    "pos": "adverb",
+    "definition": "if something happens or continues forever, it never stops but carries on happening or existing",
+    "example": "it’ll last forever",
+    "translation": "навсегда, вечно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "genuine",
+    "transcription": "ˈdʒenjuɪn",
+    "pos": "adjective",
+    "definition": "something that is genuine is not a copy but is really what it seems to be",
+    "example": "this jacket is genuine leather",
+    "translation": "настоящий, подлинный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "glass",
+    "transcription": "ɡlɑːs",
+    "pos": "noun",
+    "definition": "glass is a solid material that lets light through it, and that is used to make windows, mirrors, and objects such as bottles and containers for drinking out of",
+    "example": "put the jam in a clean glass jar",
+    "translation": "стекло",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gorgeous",
+    "transcription": "ˈɡɔː(r)dʒəs",
+    "pos": "adjective",
+    "definition": "something that is gorgeous looks beautiful or tastes delicious",
+    "example": "you look gorgeous in that dress",
+    "translation": "великолепный, потрясающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "handmade",
+    "transcription": "ˌhæn(d)ˈmeɪd",
+    "pos": "adjective",
+    "definition": "if something is handmade, it has been made by someone using their hands and simple tools, and not by machines",
+    "example": "she sold handmade jewellery",
+    "translation": "ручной работы, сделанный вручную",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "insult",
+    "transcription": "ɪnˈsʌlt",
+    "pos": "verb",
+    "definition": "if you insult someone, you say something rude to them or about them",
+    "example": "how dare you insult me!",
+    "translation": "оскорблять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "insult",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "refusing to shake hands was a deliberate insult",
+    "translation": "оскорбление",
+    "collocations": [
+      "an insulting remark/comment"
+    ],
+    "baseWord": "insult"
+  },
+  {
+    "word": "insulting",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he sent me a rude and insulting email",
+    "translation": "оскорбительный",
+    "collocations": [
+      "an insulting remark/comment"
+    ],
+    "baseWord": "insult"
+  },
+  {
+    "word": "mask",
+    "transcription": "mɑːsk",
+    "pos": "noun",
+    "definition": "a mask is an object that covers your face and that has another face painted on it",
+    "example": "I bought a hand-carved wooden mask in Tanzania",
+    "translation": "маска",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "model",
+    "transcription": "ˈmɒd(ə)l",
+    "pos": "noun",
+    "definition": "a model is a smaller copy of a larger object",
+    "example": "a plastic model of the Eiffel Tower",
+    "translation": "модель, макет",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pot",
+    "transcription": "pɒt",
+    "pos": "noun",
+    "definition": "a pot is a container that is used for cooking, storing food, or growing plants in",
+    "example": "a large cooking pot with two handles",
+    "translation": "горшок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "print",
+    "transcription": "prɪnt",
+    "pos": "verb",
+    "definition": "to print something means to use a machine to put words or pictures onto paper or cloth, often when making many copies of something. Printed material, or print books, are made of paper, and contrast with electronic or digital material that you can only read on a computer screen",
+    "example": "we’re going to print 40,000 copies of the dictionary",
+    "translation": "печатать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "print",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I’ve got the e-book, but I’d like to buy a print copy too",
+    "translation": "печатный (в отличие от электронного)",
+    "collocations": [
+      "be/go out of print",
+      "be in print"
+    ],
+    "baseWord": "print"
+  },
+  {
+    "word": "print",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’ve got the e-book, but I’d like to buy a print copy too",
+    "translation": "печатное издание, печатная версия",
+    "collocations": [
+      "be/go out of print",
+      "be in print"
+    ],
+    "baseWord": "print"
+  },
+  {
+    "word": "printing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a printing and publishing company",
+    "translation": "печать, книгопечатание",
+    "collocations": [
+      "be/go out of print",
+      "be in print"
+    ],
+    "baseWord": "print"
+  },
+  {
+    "word": "rug",
+    "transcription": "rʌɡ",
+    "pos": "noun",
+    "definition": "a rug is a thick piece of cloth that is used to cover part of the floor in a room",
+    "example": "a beautiful Turkish rug",
+    "translation": "коврик, ковер",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "silk",
+    "transcription": "sɪlk",
+    "pos": "noun",
+    "definition": "silk is a fine, smooth cloth which is made from thread that is produced by an insect called a silkworm. It is usually expensive",
+    "example": "a beautiful silk scarf",
+    "translation": "шелк",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "straw",
+    "transcription": "strɔː",
+    "pos": "noun",
+    "definition": "straw is the dried stems of plants such as wheat. It is used for animals to sleep on, and also for making bags, hats, or furniture",
+    "example": "a straw hat",
+    "translation": "солома",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "throw away",
+    "transcription": "ˌθrəʊ əˈweɪ",
+    "pos": "phrasal verb",
+    "definition": "if you throw something away, you get rid of it because you do not want it or need it any more",
+    "example": "my wife refuses to throw them away even though we don’t want them",
+    "translation": "выбрасывать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ungrateful",
+    "transcription": "ʌnˈɡreɪtf(ə)l",
+    "pos": "adjective",
+    "definition": "if you are ungrateful, you deliberately do not say thank you or show any thanks to someone who has done something kind to you",
+    "example": "I don’t want to sound ungrateful, but I don’t want any presents",
+    "translation": "неблагодарный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "aggressive",
+    "transcription": "əˈɡresɪv",
+    "pos": "adjective",
+    "definition": "if a person or animal is aggressive, they behave in a very determined, angry, or violent way towards people",
+    "example": "you have to be quite aggressive when you are negotiating over the price",
+    "translation": "агрессивный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "aggressively",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "several people reacted aggressively to the announcement",
+    "translation": "агрессивно",
+    "collocations": [],
+    "baseWord": "aggressive"
+  },
+  {
+    "word": "aggression",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was accused of both physical and verbal aggression (being violent and also being deliberately rude and insulting)",
+    "translation": "агрессия",
+    "collocations": [],
+    "baseWord": "aggressive"
+  },
+  {
+    "word": "disciplined",
+    "transcription": "ˈdɪsəplɪnd",
+    "pos": "adjective",
+    "definition": "someone or something that is disciplined behaves or is organised in a very carefully controlled way",
+    "example": "the display was well organised and disciplined",
+    "translation": "дисциплинированный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "discipline",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she lacks self-discipline (the ability to control her own behaviour properly)",
+    "translation": "дисциплина",
+    "collocations": [],
+    "baseWord": "disciplined"
+  },
+  {
+    "word": "frame",
+    "transcription": "freɪm",
+    "pos": "noun",
+    "definition": "a frame is an object made of something rigid that goes around the edge of a picture, door, window etc and keeps the picture, door, or window in place",
+    "example": "a carved wooden picture frame",
+    "translation": "рама, рамка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "framed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a framed photograph of her grandchildren",
+    "translation": "в рамке, обрамленный",
+    "collocations": [],
+    "baseWord": "frame"
+  },
+  {
+    "word": "garbage",
+    "transcription": "ˈɡɑː(r)bɪdʒ",
+    "pos": "noun",
+    "definition": "garbage is rubbish that you throw away. You can also refer to things that are useless or that have no value as garbage",
+    "example": "don’t try and sell things that are broken or garbage",
+    "translation": "мусор, хлам",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "shoot",
+    "transcription": "ʃuːt",
+    "pos": "verb",
+    "definition": "to shoot or to shoot a gun means to make a bullet come out of it",
+    "example": "someone turned it into a target and started shooting at it",
+    "translation": "стрелять",
+    "collocations": [
+      "shoot at someone or something",
+      "shoot someone dead"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "shooting",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "six people died in the shooting",
+    "translation": "стрельба",
+    "collocations": [],
+    "baseWord": "shoot"
+  },
+  {
+    "word": "target",
+    "transcription": "ˈtɑː(r)ɡɪt",
+    "pos": "noun",
+    "definition": "a target is an object that you try and hit when you are shooting as a sport. A target is also a particular thing you are trying to achieve in your job",
+    "example": "someone turned it into a target and started shooting at it",
+    "translation": "мишень",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "turn into",
+    "transcription": "ˈtɜː(r)n ˌɪntuː",
+    "pos": "phrasal verb",
+    "definition": "if one thing turns into another thing, it changes completely and stops being what it was and becomes the other thing",
+    "example": "someone turned it into a target and started shooting at it",
+    "translation": "превращаться в",
+    "collocations": [],
+    "baseWord": null
+  }
+]

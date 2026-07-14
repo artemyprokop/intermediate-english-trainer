@@ -1,0 +1,1264 @@
+[
+  {
+    "word": "adverse",
+    "transcription": "ˈædvɜː(r)s",
+    "pos": "adjective",
+    "definition": "adverse means negative, bad, or harmful",
+    "example": "he had an adverse reaction to the drug",
+    "translation": "неблагоприятный, вредный",
+    "collocations": [
+      "an adverse effect"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "adversely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "this may adversely affect her performance in school",
+    "translation": "неблагоприятно, отрицательно",
+    "collocations": [
+      "adversely affect"
+    ],
+    "baseWord": "adverse"
+  },
+  {
+    "word": "allergy",
+    "transcription": "ˈælə(r)dʒi",
+    "pos": "noun",
+    "definition": "an allergy is a medical condition in which you become ill or your skin becomes covered with red marks when you eat, breathe, or touch a particular thing",
+    "example": "a dust allergy",
+    "translation": "аллергия",
+    "collocations": [
+      "an allergy to something",
+      "a food/nut allergy"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "allergic",
+    "transcription": "əˈlɜː(r)dʒɪk",
+    "pos": "adjective",
+    "definition": "an allergy is a medical condition in which you become ill or your skin becomes covered with red marks when you eat, breathe, or touch a particular thing. If you are allergic to something, you are affected by an allergy",
+    "example": "I can’t eat prawns, I’m allergic",
+    "translation": "страдающий аллергией, аллергичный",
+    "collocations": [
+      "allergic to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "antibiotics",
+    "transcription": "ˌæntibaɪˈɒtɪks",
+    "pos": "noun",
+    "definition": "antibiotics are drugs that are given to people to cure infections and to kill bacteria",
+    "example": "the infection should clear up with antibiotics",
+    "translation": "антибиотики",
+    "collocations": [
+      "be on antibiotics",
+      "take antibiotics",
+      "a course of antibiotics"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "antibiotic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an antibiotic drug",
+    "translation": "антибиотический",
+    "collocations": [],
+    "baseWord": "antibiotics"
+  },
+  {
+    "word": "bruise",
+    "transcription": "bruːz",
+    "pos": "noun",
+    "definition": "a bruise is a dark mark you get on your body if you are hit",
+    "example": "she had a nasty bruise on her face",
+    "translation": "синяк, ушиб",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bruise",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I fell and bruised my leg",
+    "translation": "ушибить, набить синяк",
+    "collocations": [],
+    "baseWord": "bruise"
+  },
+  {
+    "word": "bruised",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I fell and bruised my leg",
+    "translation": "в синяках, ушибленный",
+    "collocations": [],
+    "baseWord": "bruise"
+  },
+  {
+    "word": "clear up",
+    "transcription": "klɪə(r) ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if an illness clears up, or if something clears it up, it becomes better",
+    "example": "the rash should clear up in a day or two",
+    "translation": "проходить, излечиваться (о болезни)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "consciousness",
+    "transcription": "ˈkɒnʃəsnəs",
+    "pos": "noun",
+    "definition": "consciousness is the condition of being awake and being aware of what is happening around you. The adjective is conscious",
+    "example": "did you actually lose consciousness?",
+    "translation": "сознание",
+    "collocations": [
+      "lose/regain consciousness"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "conscious",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was fully conscious during the operation",
+    "translation": "находящийся в сознании",
+    "collocations": [],
+    "baseWord": "consciousness"
+  },
+  {
+    "word": "unconscious",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she was knocked unconscious when she fell",
+    "translation": "без сознания",
+    "collocations": [],
+    "baseWord": "consciousness"
+  },
+  {
+    "word": "diarrhoea",
+    "transcription": "ˌdaɪəˈriːə",
+    "pos": "noun",
+    "definition": "if you have diarrhoea, a lot of liquid waste comes out of your bottom because you are ill",
+    "example": "have you had any diarrhoea at all?",
+    "translation": "диарея, понос",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "dizzy",
+    "transcription": "ˈdɪzi",
+    "pos": "adjective",
+    "definition": "if you feel dizzy, you feel as if things around you are spinning and you are going to fall over",
+    "example": "I feel dizzy – my head is spinning",
+    "translation": "испытывающий головокружение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "dizziness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "have you had any dizziness at all?",
+    "translation": "головокружение",
+    "collocations": [],
+    "baseWord": "dizzy"
+  },
+  {
+    "word": "dust",
+    "transcription": "dʌst",
+    "pos": "noun",
+    "definition": "dust is the very small pieces of dry dirt that cover surfaces",
+    "example": "the dust is making me sneeze",
+    "translation": "пыль",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "dusty",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the road was hot and dusty",
+    "translation": "пыльный",
+    "collocations": [],
+    "baseWord": "dust"
+  },
+  {
+    "word": "dust",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "you need to dust those shelves",
+    "translation": "вытирать пыль",
+    "collocations": [],
+    "baseWord": "dust"
+  },
+  {
+    "word": "fluid",
+    "transcription": "ˈfluːɪd",
+    "pos": "noun",
+    "definition": "a fluid is a liquid",
+    "example": "bodily fluid",
+    "translation": "жидкость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "heal",
+    "transcription": "hiːl",
+    "pos": "verb",
+    "definition": "if an injury heals, or if something heals it, it recovers and becomes well again",
+    "example": "it’s quite a nasty cut. It’ll take a while to heal",
+    "translation": "заживать, исцелять(ся)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "infected",
+    "transcription": "ɪnˈfektɪd",
+    "pos": "adjective",
+    "definition": "if you have an infection, there is a bacteria or virus in part of your body that is making you ill. You can also say that a part of your body is infected.",
+    "example": "your throat is very sore, but it doesn’t look infected",
+    "translation": "инфицированный, зараженный",
+    "collocations": [
+      "be infected by/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "infection",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I had a nasty chest infection",
+    "translation": "инфекция",
+    "collocations": [
+      "be infected by/with something"
+    ],
+    "baseWord": "infected"
+  },
+  {
+    "word": "infect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it’s important not to infect other people",
+    "translation": "заражать, инфицировать",
+    "collocations": [
+      "be infected by/with something"
+    ],
+    "baseWord": "infected"
+  },
+  {
+    "word": "infectious",
+    "transcription": "ɪnˈfekʃəs",
+    "pos": "adjective",
+    "definition": "if an illness or disease is infectious, it can move from one person to another",
+    "example": "it’s a highly infectious illness",
+    "translation": "заразный, инфекционный",
+    "collocations": [
+      "be infected by/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "medication",
+    "transcription": "ˌmedɪˈkeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "medication is a drug that you take to cure an illness",
+    "example": "are you on any medication?",
+    "translation": "лекарство, медикамент",
+    "collocations": [
+      "on medication"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "medicate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "patients in hospice care are heavily medicated",
+    "translation": "давать лекарство, лечить медикаментозно",
+    "collocations": [],
+    "baseWord": "medication"
+  },
+  {
+    "word": "medicated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "patients in hospice care are heavily medicated",
+    "translation": "находящийся под действием лекарств",
+    "collocations": [],
+    "baseWord": "medication"
+  },
+  {
+    "word": "mend",
+    "transcription": "mend",
+    "pos": "verb",
+    "definition": "if a person or a part of the body mends, or if someone or something mends them, they become healthy again after an injury or illness",
+    "example": "she has a small break in her wrist but it will soon mend",
+    "translation": "заживать, срастаться, поправляться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "be on the mend",
+    "transcription": "",
+    "pos": "phrase",
+    "definition": "",
+    "example": "if you take the doctor’s advice you’ll soon be on the mend",
+    "translation": "идти на поправку",
+    "collocations": [],
+    "baseWord": "mend"
+  },
+  {
+    "word": "nasty",
+    "transcription": "ˈnɑːsti",
+    "pos": "adjective",
+    "definition": "if an illness or injury is nasty, it is very bad and unpleasant",
+    "example": "you’ve got a nasty cough",
+    "translation": "неприятный, скверный, сильный (о болезни)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "reaction",
+    "transcription": "riˈækʃ(ə)n",
+    "pos": "noun",
+    "definition": "a reaction to something is a particular effect that happens as a result of it",
+    "example": "she had an allergic reaction to the prawns",
+    "translation": "реакция",
+    "collocations": [
+      "have/suffer a reaction",
+      "a reaction to something",
+      "an allergic reaction"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "react",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "some patients react badly to the medication",
+    "translation": "реагировать",
+    "collocations": [
+      "react to something"
+    ],
+    "baseWord": "reaction"
+  },
+  {
+    "word": "sore",
+    "transcription": "sɔː(r)",
+    "pos": "adjective",
+    "definition": "if a part of your body is sore, it is painful and uncomfortable",
+    "example": "I’ve got a blocked nose and a horrible sore throat",
+    "translation": "больной, воспаленный, болезненный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "soreness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the soreness should only last for a few days",
+    "translation": "боль, болезненность",
+    "collocations": [],
+    "baseWord": "sore"
+  },
+  {
+    "word": "sprain",
+    "transcription": "spreɪn",
+    "pos": "verb",
+    "definition": "if you sprain a joint in your body, you hurt it by turning it too much",
+    "example": "I think you’ve sprained your ankle",
+    "translation": "растянуть, вывихнуть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sprained",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s probably just sprained, but we’ll do an X-ray to check",
+    "translation": "растянутый, вывихнутый",
+    "collocations": [],
+    "baseWord": "sprain"
+  },
+  {
+    "word": "sprain",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’ve hurt my ankle but I think it’s only a sprain",
+    "translation": "растяжение",
+    "collocations": [],
+    "baseWord": "sprain"
+  },
+  {
+    "word": "stick out",
+    "transcription": "stɪk ˈaʊt",
+    "pos": "phrasal verb",
+    "definition": "if you stick out a part of your body, you push it out and away from the rest of your body",
+    "example": "stick out your hand, I want to give you something",
+    "translation": "высовывать, выставлять вперед (часть тела)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stitch",
+    "transcription": "stɪtʃ",
+    "pos": "noun",
+    "definition": "a stitch is a short piece of thread sewn in a piece of cloth. In medicine, stitches are short pieces of thread used for joining someone’s skin together after it has been cut or injured",
+    "example": "I think you’re going to need stitches",
+    "translation": "шов, стежок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stitch",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the surgeon managed to stitch Joel’s finger back together",
+    "translation": "зашивать, накладывать шов",
+    "collocations": [],
+    "baseWord": "stitch"
+  },
+  {
+    "word": "stitch up",
+    "transcription": "",
+    "pos": "phrasal verb",
+    "definition": "",
+    "example": "the surgeon managed to stitch Joel’s finger back together",
+    "translation": "зашить (рану)",
+    "collocations": [],
+    "baseWord": "stitch"
+  },
+  {
+    "word": "swallow",
+    "transcription": "ˈswɒləʊ",
+    "pos": "verb",
+    "definition": "if you swallow something, it moves from your mouth into your stomach",
+    "example": "you shouldn’t swallow chewing gum",
+    "translation": "глотать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "swallow",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she gobbled up the whole cake in just a couple of swallows",
+    "translation": "глоток",
+    "collocations": [],
+    "baseWord": "swallow"
+  },
+  {
+    "word": "swollen",
+    "transcription": "ˈswəʊlən",
+    "pos": "adjective",
+    "definition": "if a part of your body is swollen, it is bigger than usual because of an injury or illness",
+    "example": "his knee was painful and swollen",
+    "translation": "опухший, отекший",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "swell (up)",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "my arm had swollen up from the bee sting",
+    "translation": "опухать, отекать",
+    "collocations": [],
+    "baseWord": "swollen"
+  },
+  {
+    "word": "swelling",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "put some ice on it to reduce the swelling",
+    "translation": "опухоль, отек",
+    "collocations": [],
+    "baseWord": "swollen"
+  },
+  {
+    "word": "symptom",
+    "transcription": "ˈsɪmptəm",
+    "pos": "noun",
+    "definition": "symptoms are signs in your body that show you have an illness",
+    "example": "apart from a headache, do you have any other symptoms?",
+    "translation": "симптом",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "throat",
+    "transcription": "θrəʊt",
+    "pos": "noun",
+    "definition": "your throat is the area at the back of your mouth and inside your neck",
+    "example": "initial symptoms include fever and a mild sore throat",
+    "translation": "горло",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "throw up",
+    "transcription": "θrəʊ ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you throw up or throw something up, food or drink comes up from your stomach and out of your mouth. Throw up is informal, and a more polite word is vomit",
+    "example": "I think I’m going to throw up",
+    "translation": "рвать, тошнить (разг.)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "virus",
+    "transcription": "ˈvaɪrəs",
+    "pos": "noun",
+    "definition": "a virus is a very small living thing that can enter your body and cause a disease or illness",
+    "example": "he picked up a nasty  virus",
+    "translation": "вирус",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "viral",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "flu is a highly contagious viral infection",
+    "translation": "вирусный",
+    "collocations": [
+      "a viral illness/infection"
+    ],
+    "baseWord": "virus"
+  },
+  {
+    "word": "weight",
+    "transcription": "weɪt",
+    "pos": "noun",
+    "definition": "weight is a measurement of how heavy a person or thing is",
+    "example": "he’s been trying to lose weight",
+    "translation": "вес",
+    "collocations": [
+      "lose weight",
+      "put on weight",
+      "gain weight",
+      "watch your weight"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "weigh",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’m not sure how much I weigh at the moment",
+    "translation": "весить",
+    "collocations": [],
+    "baseWord": "weight"
+  },
+  {
+    "word": "addictive",
+    "transcription": "əˈdɪktɪv",
+    "pos": "adjective",
+    "definition": "if something is addictive, you cannot stop taking it or doing it once you start. You become addicted to it. A person who is addicted is an addict",
+    "example": "coffee is very addictive",
+    "translation": "вызывающий привыкание, вызывающий зависимость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "addicted",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I’m completely addicted to those new chocolate bars",
+    "translation": "зависимый, пристрастившийся (к чему-то)",
+    "collocations": [
+      "addicted to something"
+    ],
+    "baseWord": "addictive"
+  },
+  {
+    "word": "addict",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he became a drug addict",
+    "translation": "наркоман, зависимый человек",
+    "collocations": [
+      "addicted to something",
+      "an addiction to something"
+    ],
+    "baseWord": "addictive"
+  },
+  {
+    "word": "addiction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "an addiction to sleeping pills",
+    "translation": "зависимость, пристрастие",
+    "collocations": [
+      "an addiction to something"
+    ],
+    "baseWord": "addictive"
+  },
+  {
+    "word": "adjust",
+    "transcription": "əˈdʒʌst",
+    "pos": "verb",
+    "definition": "to adjust something means to change it slightly in order to make it better or more effective",
+    "example": "you’ll probably need to adjust the seatbelt",
+    "translation": "регулировать, настраивать, приспосабливать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "adjustable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "these seats are adjustable",
+    "translation": "регулируемый",
+    "collocations": [
+      "an adjustable seatbelt/ strap"
+    ],
+    "baseWord": "adjust"
+  },
+  {
+    "word": "adjustment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "no cost of living adjustment is included",
+    "translation": "регулировка, корректировка, поправка",
+    "collocations": [
+      "make an adjustment"
+    ],
+    "baseWord": "adjust"
+  },
+  {
+    "word": "balance",
+    "transcription": "ˈbæləns",
+    "pos": "verb",
+    "definition": "if you balance two contrasting things or parts of something, you give each one an equal level of importance or strength",
+    "example": "we have to balance Jill’s needs against the needs of the rest of the group",
+    "translation": "уравновешивать, соотносить",
+    "collocations": [
+      "balance something against/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "balance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "imbalance between something",
+    "example": "it can be hard to find the right balance between work and leisure",
+    "translation": "баланс, равновесие",
+    "collocations": [
+      "a/the balance between something",
+      "strike a balance"
+    ],
+    "baseWord": "balance"
+  },
+  {
+    "word": "imbalance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "imbalance between something",
+    "example": "an imbalance of political power",
+    "translation": "дисбаланс, несоответствие",
+    "collocations": [
+      "a/the imbalance in/of something"
+    ],
+    "baseWord": "balance"
+  },
+  {
+    "word": "basis",
+    "transcription": "ˈbeɪsɪs",
+    "pos": "noun",
+    "definition": "a basis for something is an important fact or idea that supports it and that it can develop from",
+    "example": "these stories have no basis in fact",
+    "translation": "основа, основание",
+    "collocations": [
+      "a/the basis for/of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "block",
+    "transcription": "blɒk",
+    "pos": "verb",
+    "definition": "to block something means to put an object across or in it which stops something else from moving through or along it",
+    "example": "eating too much fat can block your arteries",
+    "translation": "блокировать, закупоривать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "blockage",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he’s trying to fix a blockage in the drains",
+    "translation": "закупорка, засор",
+    "collocations": [],
+    "baseWord": "block"
+  },
+  {
+    "word": "block",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there must be a block somewhere in the pipeline",
+    "translation": "затор, закупорка",
+    "collocations": [],
+    "baseWord": "block"
+  },
+  {
+    "word": "bug",
+    "transcription": "bʌɡ",
+    "pos": "noun",
+    "definition": "a bug is an illness caused by bacteria and which is not usually serious. Bug is an informal word",
+    "example": "a sickness/stomach bug",
+    "translation": "вирус, зараза (разг., о несерьезной болезни)",
+    "collocations": [
+      "get/pick up a bug"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "crack",
+    "transcription": "kræk",
+    "pos": "verb",
+    "definition": "if you crack the joints in your hands, you pull or bend your fingers so that they make a loud sound",
+    "example": "don’t crack your knuckles – it’s horrible!",
+    "translation": "хрустеть (суставами)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "curable",
+    "transcription": "ˈkjʊərəb(ə)l",
+    "pos": "adjective",
+    "definition": "to cure someone, or cure their illness, means to stop them from being affected by an illness. An illness that can be cured is curable",
+    "example": "if the disease is caught early it is often curable",
+    "translation": "излечимый",
+    "collocations": [
+      "a cure for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "cure",
+    "transcription": "kjʊə(r)",
+    "pos": "verb",
+    "definition": "to cure someone, or cure their illness, means to stop them from being affected by an illness. A disease that cannot be cured is incurable",
+    "example": "antibiotics can’t cure a common cold",
+    "translation": "вылечить, излечить",
+    "collocations": [
+      "a cure for something",
+      "be cured of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "cure",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "antibiotics can’t cure a common cold",
+    "translation": "лекарство, средство (от болезни)",
+    "collocations": [
+      "a cure for something"
+    ],
+    "baseWord": "curable"
+  },
+  {
+    "word": "incurable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he’s got an incurable medical condition",
+    "translation": "неизлечимый",
+    "collocations": [
+      "be cured of something",
+      "a cure for something"
+    ],
+    "baseWord": "curable"
+  },
+  {
+    "word": "gently",
+    "transcription": "ˈdʒentli",
+    "pos": "adverb",
+    "definition": "if you do something gently, you do it carefully and without a lot of force",
+    "example": "wash your face gently twice a day",
+    "translation": "осторожно, бережно, мягко",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gentle",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "apply the cream in gentle circular movements",
+    "translation": "мягкий, осторожный, бережный",
+    "collocations": [],
+    "baseWord": "gently"
+  },
+  {
+    "word": "incidentally",
+    "transcription": "ˌɪnsɪˈdent(ə)li",
+    "pos": "adverb",
+    "definition": "incidentally is a word used for adding information which is useful but not directly related to what has just been said, or for suddenly introducing a new subject",
+    "example": "research has failed to find any connection between eating fatty foods and acne. Incidentally, washing too much can make the condition worse",
+    "translation": "кстати, между прочим",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "irritable",
+    "transcription": "ˈɪrɪtəb(ə)l",
+    "pos": "adjective",
+    "definition": "if a person is irritable, they become angry or annoyed very easily",
+    "example": "the longer he had to wait, the more irritable he became",
+    "translation": "раздражительный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "irritability",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she also developed unpleasant symptoms of agitation and irritability",
+    "translation": "раздражительность",
+    "collocations": [],
+    "baseWord": "irritable"
+  },
+  {
+    "word": "irritably",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "‘there’s no sugar in this coffee,’ she said irritably",
+    "translation": "раздраженно",
+    "collocations": [],
+    "baseWord": "irritable"
+  },
+  {
+    "word": "issue",
+    "transcription": "ˈɪsjuː",
+    "pos": "noun",
+    "definition": "an issue is an important subject affecting society that people discuss",
+    "example": "abortion has always been a rather controversial issue",
+    "translation": "вопрос, проблема (общественно значимая)",
+    "collocations": [
+      "a contentious/controversial issue",
+      "a big/key/ major issue",
+      "raise an issue"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "joint",
+    "transcription": "dʒɔɪnt",
+    "pos": "noun",
+    "definition": "your joints are the parts of your body where two bones meet and can move together, for example your knee",
+    "example": "a swollen elbow joint",
+    "translation": "сустав",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "link",
+    "transcription": "lɪŋk",
+    "pos": "verb",
+    "definition": "if someone or something links two things, or if the two things are linked, there is a connection between them, for example because one thing causes the other",
+    "example": "scientists now link such illnesses to the amount of sugary or fatty food we consume",
+    "translation": "связывать, устанавливать связь",
+    "collocations": [
+      "link something to something",
+      "be linked to something",
+      "closely/inextricably linked"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "link",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s no link between intelligence and social status",
+    "translation": "связь",
+    "collocations": [
+      "a link between",
+      "establish/find a link"
+    ],
+    "baseWord": "link"
+  },
+  {
+    "word": "modernise",
+    "transcription": "ˈmɒdə(r)naɪz",
+    "pos": "verb",
+    "definition": "if something modernises, or if you modernise it, it changes because methods, equipment, ideas, etc are replaced by new ones",
+    "example": "they’ve got plans to modernise the old factory",
+    "translation": "модернизировать, осовременивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "modernisation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a modernisation plan was started in early 1940",
+    "translation": "модернизация",
+    "collocations": [],
+    "baseWord": "modernise"
+  },
+  {
+    "word": "moderniser",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he is considered a moderniser who is interested in embracing new cultures and ideas",
+    "translation": "модернизатор, реформатор",
+    "collocations": [],
+    "baseWord": "modernise"
+  },
+  {
+    "word": "myth",
+    "transcription": "mɪθ",
+    "pos": "noun",
+    "definition": "a myth is an idea or fact that many people believe but that is actually not true",
+    "example": "contrary to popular myth, women do not have a longer life expectancy than men",
+    "translation": "миф, заблуждение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mythical",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "have you ever seen this mythical girlfriend of his?",
+    "translation": "мифический, вымышленный",
+    "collocations": [],
+    "baseWord": "myth"
+  },
+  {
+    "word": "question",
+    "transcription": "ˈkwestʃ(ə)n",
+    "pos": "verb",
+    "definition": "if you question something, you say that you have doubts about it and think it might be wrong",
+    "example": "some doctors have even questioned if there is any link between cholesterol levels and heart disease",
+    "translation": "подвергать сомнению, ставить под вопрос",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "regular",
+    "transcription": "ˈreɡjʊlə(r)",
+    "pos": "adjective",
+    "definition": "regular describes something that happens or is done often",
+    "example": "if you want to stay healthy you should take regular exercise",
+    "translation": "регулярный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "regularly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "if you want to stay healthy you should eat well and exercise regularly",
+    "translation": "регулярно",
+    "collocations": [
+      "with regularity"
+    ],
+    "baseWord": "regular"
+  },
+  {
+    "word": "regularity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she was travelling by train with increasing regularity",
+    "translation": "регулярность",
+    "collocations": [
+      "with regularity"
+    ],
+    "baseWord": "regular"
+  },
+  {
+    "word": "rub",
+    "transcription": "rʌb",
+    "pos": "verb",
+    "definition": "to rub something means to press and move your hands or an object over its surface. If you rub a part of your body, you press and move your hands over it",
+    "example": "wash your face without soap and don’t rub the skin too hard",
+    "translation": "тереть, растирать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rub",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "sit down and I’ll give your back a rub",
+    "translation": "растирание, потирание",
+    "collocations": [],
+    "baseWord": "rub"
+  },
+  {
+    "word": "speed up",
+    "transcription": "spiːd ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if something speeds up, or if you speed it up, it moves or happens more quickly",
+    "example": "what can I do to speed up my computer?",
+    "translation": "ускорять(ся)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "suffer",
+    "transcription": "ˈsʌfə(r)",
+    "pos": "verb",
+    "definition": "if you suffer pain, you feel it in your body or mind. If you suffer from an illness, you are badly affected by it",
+    "example": "you shouldn’t suffer too much discomfort",
+    "translation": "страдать (от чего-то)",
+    "collocations": [
+      "suffer from something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sufferer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the high pollen count is very bad news for allergy sufferers",
+    "translation": "страдающий (человек, больной)",
+    "collocations": [],
+    "baseWord": "suffer"
+  },
+  {
+    "word": "vitamin",
+    "transcription": "ˈvɪtəmɪn",
+    "pos": "noun",
+    "definition": "vitamins are substances which are necessary to keep your body healthy and can be found naturally in food or eaten in the form of pills. Each vitamin is given a name using a letter of the alphabet",
+    "example": "vitamin C tablets",
+    "translation": "витамин",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "wrap up",
+    "transcription": "ræp ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you wrap up, you wear enough clothes to keep you warm",
+    "example": "wrap up warm – it’s freezing outside!",
+    "translation": "тепло одеваться, кутаться",
+    "collocations": [
+      "wrap up warm"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bang",
+    "transcription": "bæŋ",
+    "pos": "noun",
+    "definition": "a bang is a sudden, short, loud noise",
+    "example": "the horse got scared by a loud bang from across the fields",
+    "translation": "громкий стук, хлопок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bang",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "minutes later we heard the front gate bang shut",
+    "translation": "громко хлопнуть, стукнуть",
+    "collocations": [],
+    "baseWord": "bang"
+  },
+  {
+    "word": "faint",
+    "transcription": "feɪnt",
+    "pos": "verb",
+    "definition": "if you faint, you suddenly become unconscious for a short period of time",
+    "example": "I felt dizzy and just fainted",
+    "translation": "падать в обморок, терять сознание",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "faint",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I suddenly felt faint and had to sit down",
+    "translation": "слабый, на грани обморока",
+    "collocations": [
+      "feel faint"
+    ],
+    "baseWord": "faint"
+  },
+  {
+    "word": "frame",
+    "transcription": "freɪm",
+    "pos": "noun",
+    "definition": "a frame is an object made of something rigid that goes around the edge of a picture, door, window etc and keeps the picture, door, or window in place",
+    "example": "the house had been built with a modern timber frame",
+    "translation": "рама, каркас",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "go off",
+    "transcription": "ˌɡəʊ ˈɒf",
+    "pos": "phrasal verb",
+    "definition": "if you go off the road, you lose control of a vehicle and cannot stay on the road",
+    "example": "the road was icy and there was a risk we’d go off the road",
+    "translation": "съехать (с дороги), потерять управление",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "poisoning",
+    "transcription": "ˈpɔɪz(ə)nɪŋ",
+    "pos": "noun",
+    "definition": "poison is a substance that can make you ill or kill you if you eat, drink, or breathe it. Poisoning is when a person is affected by poison",
+    "example": "I ate a hot dog from a stand and I think it gave me food poisoning",
+    "translation": "отравление",
+    "collocations": [
+      "food poisoning"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "poison",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "rat poison",
+    "translation": "яд",
+    "collocations": [],
+    "baseWord": "poisoning"
+  },
+  {
+    "word": "poison",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "rat poison",
+    "translation": "отравить",
+    "collocations": [],
+    "baseWord": "poisoning"
+  },
+  {
+    "word": "poisonous",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "some types of mushroom are poisonous",
+    "translation": "ядовитый",
+    "collocations": [],
+    "baseWord": "poisoning"
+  },
+  {
+    "word": "steep",
+    "transcription": "stiːp",
+    "pos": "adjective",
+    "definition": "a steep hill, slope, etc rises very quickly and so is difficult to go up or down",
+    "example": "be careful how you walk, the steps are pretty steep just here",
+    "translation": "крутой",
+    "collocations": [
+      "a steep hill/path/road/slope"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "steeply",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the path climbs steeply, but walkers are rewarded with spectacular views",
+    "translation": "круто",
+    "collocations": [],
+    "baseWord": "steep"
+  },
+  {
+    "word": "sting",
+    "transcription": "stɪŋ",
+    "pos": "verb",
+    "definition": "if an insect stings you, it sticks a sharp part of its body into you and hurts you",
+    "example": "this bee stung me and my whole arm swelled up",
+    "translation": "жалить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sting",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it gave me a painful sting",
+    "translation": "укус, ужаление (насекомого)",
+    "collocations": [
+      "a bee/wasp sting"
+    ],
+    "baseWord": "sting"
+  },
+  {
+    "word": "test",
+    "transcription": "test",
+    "pos": "noun",
+    "definition": "a test is an examination of someone’s body to check that they are healthy or find out if they have an illness",
+    "example": "a test for diabetes",
+    "translation": "анализ, обследование (медицинское)",
+    "collocations": [
+      "a test for something",
+      "an eye/hearing/sight test"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "test",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she’s being tested for diabetes",
+    "translation": "проверять, обследовать",
+    "collocations": [
+      "test someone for something"
+    ],
+    "baseWord": "test"
+  }
+]

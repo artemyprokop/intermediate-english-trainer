@@ -1,0 +1,1489 @@
+[
+  {
+    "word": "attached",
+    "transcription": "əˈtætʃt",
+    "pos": "adjective",
+    "definition": "someone who is attached to an organisation or group of people is working with them",
+    "example": "Emma is a researcher attached to the University of Manchester",
+    "translation": "прикрепленный, приписанный (к организации)",
+    "collocations": [
+      "be attached to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "attend",
+    "transcription": "əˈtend",
+    "pos": "verb",
+    "definition": "if you attend an event, you go to it and are present there",
+    "example": "all students are welcome to attend",
+    "translation": "посещать (мероприятие)",
+    "collocations": [
+      "attend a meeting/funeral/conference",
+      "attend college/school/ university"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "attendance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "school attendance is above the national average",
+    "translation": "посещаемость",
+    "collocations": [
+      "a rise/drop in attendance"
+    ],
+    "baseWord": "attend"
+  },
+  {
+    "word": "based",
+    "transcription": "beɪst",
+    "pos": "adjective",
+    "definition": "if you are based in a particular place, you work and/or live there",
+    "example": "I’ll be based in Newcastle until March",
+    "translation": "базироваться, находиться, работать (в определенном месте)",
+    "collocations": [
+      "be based in/at something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "be into",
+    "transcription": "ˌbiː ˈɪntuː",
+    "pos": "phrase",
+    "definition": "if you are into something, you are interested in it and enjoy it very much",
+    "example": "what kind of music are you into?",
+    "translation": "увлекаться (чем-то), быть без ума от",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "civil servant",
+    "transcription": "ˌsɪv(ə) l ˈsɜː(r)v(ə)nt",
+    "pos": "noun",
+    "definition": "a civil servant is someone who works for a government department. All the people and departments together are called the civil service",
+    "example": "she’s a senior civil servant in London",
+    "translation": "государственный служащий, чиновник",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "civil service",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’ve applied for a job in the civil service",
+    "translation": "государственная служба",
+    "collocations": [],
+    "baseWord": "civil servant"
+  },
+  {
+    "word": "current",
+    "transcription": "ˈkʌrənt",
+    "pos": "adjective",
+    "definition": "a current situation, job, home, etc is the situation, job, home, etc that is happening, being done, or being used now",
+    "example": "when did you move to your current home?",
+    "translation": "нынешний, текущий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "currently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the road is currently being repaired",
+    "translation": "в настоящее время, сейчас",
+    "collocations": [
+      "currently available/unavailable"
+    ],
+    "baseWord": "current"
+  },
+  {
+    "word": "involve",
+    "transcription": "ɪnˈvɒlv",
+    "pos": "verb",
+    "definition": "if a situation or activity involves something, it includes it as a necessary part",
+    "example": "the job may involve working at weekends",
+    "translation": "включать в себя, подразумевать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "official",
+    "transcription": "əˈfɪʃ(ə)l",
+    "pos": "adjective",
+    "definition": "something that is official is approved by the government or someone in authority",
+    "example": "French is an official language in Cameroon",
+    "translation": "официальный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "officially",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the club is now officially open",
+    "translation": "официально",
+    "collocations": [
+      "officially accepted/recognised"
+    ],
+    "baseWord": "official"
+  },
+  {
+    "word": "only child",
+    "transcription": "ˌəʊnli ˈtʃaɪld",
+    "pos": "noun",
+    "definition": "an only child is someone who doesn’t have any brothers or sisters",
+    "example": "he was an only child of wealthy parents",
+    "translation": "единственный ребенок (в семье)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "patient",
+    "transcription": "ˈpeɪʃ(ə)nt",
+    "pos": "adjective",
+    "definition": "someone who is patient is able to do something that takes a long time without losing interest or becoming angry or upset",
+    "example": "thanks for waiting, you’ve been very patient",
+    "translation": "терпеливый",
+    "collocations": [
+      "be patient with someone or something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "patience",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "sorry, but I’m beginning to lose my patience",
+    "translation": "терпение",
+    "collocations": [
+      "lose your patience",
+      "test/try/exhaust someone’s patience",
+      "have/require patience"
+    ],
+    "baseWord": "patient"
+  },
+  {
+    "word": "patiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "they waited patiently until the judge arrived",
+    "translation": "терпеливо",
+    "collocations": [
+      "lose your patience",
+      "test/try/exhaust someone’s patience",
+      "have/require patience"
+    ],
+    "baseWord": "patient"
+  },
+  {
+    "word": "impatient",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "as time passed, he became more and more impatient",
+    "translation": "нетерпеливый",
+    "collocations": [
+      "lose your patience",
+      "test/try/exhaust someone’s patience",
+      "have/require patience"
+    ],
+    "baseWord": "patient"
+  },
+  {
+    "word": "impatiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the captain shook his head impatiently",
+    "translation": "нетерпеливо",
+    "collocations": [
+      "lose your patience",
+      "test/try/exhaust someone’s patience",
+      "have/require patience"
+    ],
+    "baseWord": "patient"
+  },
+  {
+    "word": "present",
+    "transcription": "prɪˈzent",
+    "pos": "verb",
+    "definition": "if you present information, you describe it to other people in a formal way. If you are presenting at a conference, workshop, etc, you are giving a talk there",
+    "example": "which conferences are you presenting at?",
+    "translation": "представлять, излагать; выступать с докладом",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "presentation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he gave a really interesting presentation on new words",
+    "translation": "презентация, доклад",
+    "collocations": [
+      "give a presentation",
+      "presentation skills",
+      "an audio-visual/PowerPoint presentation"
+    ],
+    "baseWord": "present"
+  },
+  {
+    "word": "presenter",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the first presenter spoke so quietly we could hardly hear him",
+    "translation": "докладчик, ведущий (презентации)",
+    "collocations": [
+      "give a presentation",
+      "presentation skills",
+      "an audio-visual/PowerPoint presentation"
+    ],
+    "baseWord": "present"
+  },
+  {
+    "word": "separated",
+    "transcription": "ˈsepəˌreɪtɪd",
+    "pos": "adjective",
+    "definition": "if two people are separated, they are married but no longer live with each other",
+    "example": "my parents are separated",
+    "translation": "живущий раздельно (о супругах)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "separate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "they decided to separate, and Alan moved out last weekend",
+    "translation": "расставаться, разъезжаться (о супругах)",
+    "collocations": [],
+    "baseWord": "separated"
+  },
+  {
+    "word": "separation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "within two years he’d been though marriage, separation and divorce",
+    "translation": "раздельное проживание, расставание",
+    "collocations": [],
+    "baseWord": "separated"
+  },
+  {
+    "word": "session",
+    "transcription": "ˈseʃ(ə)n",
+    "pos": "noun",
+    "definition": "a session is a period of time during which a class or meeting takes place",
+    "example": "each session lasts about 45 minutes",
+    "translation": "занятие, сеанс",
+    "collocations": [
+      "a coaching/training session"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "software",
+    "transcription": "ˈsɒf(t)ˌweə(r)",
+    "pos": "noun",
+    "definition": "software is programs used by computers. Computer equipment is called hardware computer software",
+    "example": "it takes a few hours to download the software",
+    "translation": "программное обеспечение",
+    "collocations": [
+      "download/install/update software",
+      "a software engineer",
+      "a software /licence/package/update"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "strength",
+    "transcription": "streŋθ",
+    "pos": "noun",
+    "definition": "someone’s strengths are the qualities and abilities that they have which make them successful",
+    "example": "her strengths include good IT and communication skills",
+    "translation": "сильная сторона, достоинство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "strong",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she’s always been strong at music and drama",
+    "translation": "сильный (в чем-либо), успешный",
+    "collocations": [
+      "be strong at something"
+    ],
+    "baseWord": "strength"
+  },
+  {
+    "word": "translator",
+    "transcription": "trænsˈleɪtə(r)",
+    "pos": "noun",
+    "definition": "a translator is a person who changes spoken or written words into another language, especially as their job",
+    "example": "the only way we could communicate was through a translator",
+    "translation": "переводчик",
+    "collocations": [
+      "a freelance/professional translator",
+      "an English /French/Greek translator"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "translate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "his book has been translated into 50 different languages",
+    "translation": "переводить (с одного языка на другой)",
+    "collocations": [
+      "translate from/into something"
+    ],
+    "baseWord": "translator"
+  },
+  {
+    "word": "translation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the original translation was completed in 1609",
+    "translation": "перевод",
+    "collocations": [
+      "an accurate/ literal translation"
+    ],
+    "baseWord": "translator"
+  },
+  {
+    "word": "warehouse",
+    "transcription": "ˈweə(r)ˌhaʊs",
+    "pos": "noun",
+    "definition": "a warehouse is a large building where goods are stored before they are sold or moved to the shops",
+    "example": "we’ll need to pick it up from the warehouse",
+    "translation": "склад",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "weakness",
+    "transcription": "ˈwiːknəs",
+    "pos": "noun",
+    "definition": "someone’s weaknesses are the things that they are not very good at",
+    "example": "her lack of patience is a major weakness",
+    "translation": "слабая сторона, недостаток",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "weak",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I hated science and was particularly weak at chemistry",
+    "translation": "слабый (в чем-либо)",
+    "collocations": [
+      "be weak at something"
+    ],
+    "baseWord": "weakness"
+  },
+  {
+    "word": "accent",
+    "transcription": "ˈæks(ə)nt",
+    "pos": "noun",
+    "definition": "an accent is the way someone says words and shows what country or region they come from",
+    "example": "she speaks with an American accent",
+    "translation": "акцент",
+    "collocations": [
+      "a slight/strong/heavy accent",
+      "a foreign accent"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "accurate",
+    "transcription": "ˈækjʊrət",
+    "pos": "adjective",
+    "definition": "something that is accurate is correct or true in every detail",
+    "example": "this is a more accurate translation",
+    "translation": "точный",
+    "collocations": [
+      "an accurate calculation/estimate/prediction"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "accurately",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "adjective:  inaccurate",
+    "example": "he accurately calculated the distance from the Earth to the Sun",
+    "translation": "точно",
+    "collocations": [],
+    "baseWord": "accurate"
+  },
+  {
+    "word": "accuracy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "adjective:  inaccurate",
+    "example": "the teacher monitors both fluency and accuracy",
+    "translation": "точность",
+    "collocations": [],
+    "baseWord": "accurate"
+  },
+  {
+    "word": "achievement",
+    "transcription": "əˈtʃiːvmənt",
+    "pos": "noun",
+    "definition": "an achievement is something good that you have done, usually after a lot of time and effort",
+    "example": "congratulations, it’s a remarkable achievement",
+    "translation": "достижение",
+    "collocations": [
+      "a sense of achievement",
+      "an impressive/ remarkable/outstanding achievement"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "achieve",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it’s remarkable what we’ve managed to achieve",
+    "translation": "достигать, добиваться",
+    "collocations": [],
+    "baseWord": "achievement"
+  },
+  {
+    "word": "ambition",
+    "transcription": "æmˈbɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "your ambition is your strong wish to become successful at what you do, or to achieve a particular thing",
+    "example": "her ambition was to become a doctor",
+    "translation": "амбиция, стремление, цель",
+    "collocations": [
+      "an ambition to do something",
+      "realise/fulfil an ambition",
+      "have high ambitions"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "ambitious",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a highly ambitious junior doctor",
+    "translation": "амбициозный, целеустремленный",
+    "collocations": [
+      "highly ambitious"
+    ],
+    "baseWord": "ambition"
+  },
+  {
+    "word": "ambitiously",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he ambitiously attempted to walk across the continent",
+    "translation": "амбициозно, с большим размахом",
+    "collocations": [
+      "highly ambitious"
+    ],
+    "baseWord": "ambition"
+  },
+  {
+    "word": "unambitious",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he led a quiet and unambitious life",
+    "translation": "лишенный амбиций, нечестолюбивый",
+    "collocations": [
+      "highly ambitious"
+    ],
+    "baseWord": "ambition"
+  },
+  {
+    "word": "appreciate",
+    "transcription": "əˈpriːʃiˌeɪt",
+    "pos": "verb",
+    "definition": "if you appreciate something, you understand why it is good or special",
+    "example": "students should be taught to appreciate the benefits of learning a language",
+    "translation": "ценить, понимать значимость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "appreciation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "an appreciation for/of something",
+    "example": "Felix had a deep appreciation for scientific research",
+    "translation": "признательность, понимание ценности",
+    "collocations": [],
+    "baseWord": "appreciate"
+  },
+  {
+    "word": "basics",
+    "transcription": "ˈbeɪsɪks",
+    "pos": "noun",
+    "definition": "the basics are the most important parts of something that you should learn",
+    "example": "an introduction to the basics of computer programming",
+    "translation": "основы, азы",
+    "collocations": [
+      "the basics of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "basic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "you can pick up the basic skills from watching online videos",
+    "translation": "базовый, основной",
+    "collocations": [],
+    "baseWord": "basics"
+  },
+  {
+    "word": "central",
+    "transcription": "ˈsentrəl",
+    "pos": "adjective",
+    "definition": "a central question, idea, aspect, etc is one of the most important questions, ideas, aspects, etc that is used or needed",
+    "example": "a central question of the book is whether these skills can be acquired over time",
+    "translation": "центральный, ключевой",
+    "collocations": [
+      "central to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "efficient",
+    "transcription": "ɪˈfɪʃ(ə)nt",
+    "pos": "adjective",
+    "definition": "someone or something that is efficient produces good results without wasting time or effort",
+    "example": "the new system is far more efficient than the old one",
+    "translation": "эффективный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "efficiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the whole system is now operating more efficiently",
+    "translation": "эффективно",
+    "collocations": [],
+    "baseWord": "efficient"
+  },
+  {
+    "word": "efficiency",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they adopted new measures to improve efficiency",
+    "translation": "эффективность",
+    "collocations": [],
+    "baseWord": "efficient"
+  },
+  {
+    "word": "inefficient",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the old farming methods were increasingly inefficient",
+    "translation": "неэффективный",
+    "collocations": [],
+    "baseWord": "efficient"
+  },
+  {
+    "word": "inefficiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we can’t afford to run the business inefficiently",
+    "translation": "неэффективно",
+    "collocations": [],
+    "baseWord": "efficient"
+  },
+  {
+    "word": "inefficiency",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the government was accused of inefficiency and corruption",
+    "translation": "неэффективность",
+    "collocations": [],
+    "baseWord": "efficient"
+  },
+  {
+    "word": "embarrassed",
+    "transcription": "ɪmˈbærəst",
+    "pos": "adjective",
+    "definition": "someone who is embarrassed is ashamed of something and worried about what other people will think of them",
+    "example": "we were embarrassed about the lack of food",
+    "translation": "смущенный, испытывающий неловкость",
+    "collocations": [
+      "embarrassed by/about something",
+      "(too) embarrassed to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "embarrass",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "they were embarrassed by the entire incident",
+    "translation": "смущать, ставить в неловкое положение",
+    "collocations": [
+      "be embarrassed by something",
+      "an embarrassment to someone",
+      "in/with embarrassment"
+    ],
+    "baseWord": "embarrassed"
+  },
+  {
+    "word": "embarrassing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "can you stop asking embarrassing questions?",
+    "translation": "неловкий, смущающий",
+    "collocations": [
+      "be embarrassed by something",
+      "an embarrassment to someone",
+      "in/with embarrassment"
+    ],
+    "baseWord": "embarrassed"
+  },
+  {
+    "word": "embarrassment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she is such an embarrassment to her parents",
+    "translation": "смущение, неловкость",
+    "collocations": [
+      "an embarrassment to someone",
+      "in/with embarrassment"
+    ],
+    "baseWord": "embarrassed"
+  },
+  {
+    "word": "evidence",
+    "transcription": "ˈevɪd(ə)ns",
+    "pos": "noun",
+    "definition": "evidence is facts that show if something is true",
+    "example": "no evidence of criminal activity has ever been found",
+    "translation": "доказательство, свидетельство",
+    "collocations": [
+      "evidence of something",
+      "evidence that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "exaggerate",
+    "transcription": "ɪɡˈzædʒəreɪt",
+    "pos": "verb",
+    "definition": "if you exaggerate, you say that something is bigger, better or more extreme than it really is",
+    "example": "these newspaper reports are always grossly exaggerated",
+    "translation": "преувеличивать",
+    "collocations": [
+      "greatly/grossly/wildly exaggerate something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "exaggeration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "OK, I admit, that was a slight exaggeration",
+    "translation": "преувеличение",
+    "collocations": [
+      "a gross/slight exaggeration"
+    ],
+    "baseWord": "exaggerate"
+  },
+  {
+    "word": "fluently",
+    "transcription": "ˈfluːəntli",
+    "pos": "adverb",
+    "definition": "if you can speak a language fluently, you can speak it very well",
+    "example": "the owners are German and speak English fluently",
+    "translation": "свободно, бегло (о языке)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fluent",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I am fluent in spoken and written English",
+    "translation": "свободно владеющий (языком), беглый",
+    "collocations": [
+      "be fluent in something",
+      "a fluent speaker (of something)"
+    ],
+    "baseWord": "fluently"
+  },
+  {
+    "word": "fluency",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the teacher monitors both fluency and accuracy",
+    "translation": "беглость, свободное владение (языком)",
+    "collocations": [
+      "be fluent in something",
+      "a fluent speaker (of something)"
+    ],
+    "baseWord": "fluently"
+  },
+  {
+    "word": "frustrated",
+    "transcription": "frʌˈstreɪtɪd",
+    "pos": "adjective",
+    "definition": "someone who is frustrated feels angry or upset because they are being prevented from achieving something",
+    "example": "she gets frustrated when she can’t express herself",
+    "translation": "разочарованный, раздраженный (от бессилия)",
+    "collocations": [
+      "frustrated at/about/with something",
+      "feel frustrated",
+      "become/get frustrated"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "frustrate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "his constant questions frustrated me",
+    "translation": "расстраивать, вызывать раздражение",
+    "collocations": [
+      "be frustrated by something",
+      "extremely/ incredibly frustrating",
+      "frustration at something"
+    ],
+    "baseWord": "frustrated"
+  },
+  {
+    "word": "frustrating",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "having to wait so long is incredibly frustrating",
+    "translation": "разочаровывающий, раздражающий",
+    "collocations": [
+      "extremely/ incredibly frustrating"
+    ],
+    "baseWord": "frustrated"
+  },
+  {
+    "word": "frustration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I understand your frustration at this situation",
+    "translation": "разочарование, раздражение (от бессилия)",
+    "collocations": [
+      "frustration at something"
+    ],
+    "baseWord": "frustrated"
+  },
+  {
+    "word": "gene",
+    "transcription": "dʒiːn",
+    "pos": "noun",
+    "definition": "genes are the parts of a cell that control physical growth, development, etc",
+    "example": "no single gene is responsible for the cancer",
+    "translation": "ген",
+    "collocations": [
+      "in the genes",
+      "genetically engineered/modified"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "genetic",
+    "transcription": "dʒəˈnetɪk",
+    "pos": "adjective",
+    "definition": "genes are the parts of a cell that control physical growth, development, etc. A disease or medical condition that is genetic is connected to someone’s genes",
+    "example": "the illness is caused by a genetic defect",
+    "translation": "генетический",
+    "collocations": [
+      "genetic engineering"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "genetically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "they don’t grow genetically modified crops",
+    "translation": "генетически",
+    "collocations": [
+      "genetically engineered/modified"
+    ],
+    "baseWord": "gene"
+  },
+  {
+    "word": "genetics",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he studied genetics in his first year of college",
+    "translation": "генетика",
+    "collocations": [
+      "genetic engineering",
+      "genetically engineered/modified",
+      "in the genes"
+    ],
+    "baseWord": "gene"
+  },
+  {
+    "word": "get by",
+    "transcription": "ˌɡet ˈbaɪ",
+    "pos": "phrasal verb",
+    "definition": "if you can get by, you have just enough of something, for example knowledge or money, so that you can do what you need to do",
+    "example": "I’m not fluent in Spanish, but I can get by",
+    "translation": "справляться, обходиться (тем, что есть)",
+    "collocations": [
+      "get by on/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "give up",
+    "transcription": "ˌɡɪv ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you give up, you stop trying to do something because you think it is too difficult",
+    "example": "there’s only another week to go, you can’t give up now",
+    "translation": "сдаваться, бросать (попытки)",
+    "collocations": [
+      "give up doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "globalisation",
+    "transcription": "ˌɡləʊbəlaɪˈzeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "global means including or affecting the whole world. Globalisation is the idea that improved technology and communications are causing the world to develop a single culture and economy",
+    "example": "globalisation has transformed the way we do business",
+    "translation": "глобализация",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "global",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the global economic crisis",
+    "translation": "глобальный, мировой",
+    "collocations": [],
+    "baseWord": "globalisation"
+  },
+  {
+    "word": "growing",
+    "transcription": "ˈɡrəʊɪŋ",
+    "pos": "adjective",
+    "definition": "to grow means to get larger. A growing amount is an amount that is increasing. A growing situation, feeling, etc is a situation, feeling, etc that is starting to exist more often, and is becoming more important or serious",
+    "example": "a growing number of pupils are choosing not to learn a foreign language",
+    "translation": "растущий",
+    "collocations": [
+      "a growing concern/number/trend"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "lack",
+    "transcription": "læk",
+    "pos": "verb",
+    "definition": "if you lack something, you do not have it, or do not have enough of it, although it would be useful if you did",
+    "example": "she lacked the necessary skills",
+    "translation": "испытывать нехватку, не иметь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lack",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there was a lack of evidence",
+    "translation": "нехватка, недостаток",
+    "collocations": [
+      "a lack of something"
+    ],
+    "baseWord": "lack"
+  },
+  {
+    "word": "lacking",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "his manager was lacking in any personal skills",
+    "translation": "лишенный (чего-либо), испытывающий недостаток",
+    "collocations": [
+      "be lacking in something"
+    ],
+    "baseWord": "lack"
+  },
+  {
+    "word": "legend",
+    "transcription": "ˈledʒ(ə)nd",
+    "pos": "noun",
+    "definition": "a legend is a famous person who many people admire",
+    "example": "the Italian priest, Cardinal Mezzofanti, is a legend among linguists",
+    "translation": "легенда (выдающийся человек)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "legendary",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the legendary rock band Queen",
+    "translation": "легендарный",
+    "collocations": [],
+    "baseWord": "legend"
+  },
+  {
+    "word": "limit",
+    "transcription": "ˈlɪmɪt",
+    "pos": "verb",
+    "definition": "if something is limited, there is not very much of it, or it is not as good as it might be",
+    "example": "they have very limited ambitions",
+    "translation": "ограничивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "limitation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the report has strengths as well as limitations (parts which are not clear or correct)",
+    "translation": "ограничение, недостаток",
+    "collocations": [],
+    "baseWord": "limit"
+  },
+  {
+    "word": "master",
+    "transcription": "ˈmɑːstə(r)",
+    "pos": "verb",
+    "definition": "if you master something, you learn it thoroughly so that you can do it very well",
+    "example": "when you’ve mastered this you can try something more difficult",
+    "translation": "овладевать (в совершенстве), осваивать",
+    "collocations": [
+      "master the art (of something)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "performer",
+    "transcription": "pə(r)ˈfɔː(r)mə(r)",
+    "pos": "noun",
+    "definition": "if someone does their job well or badly, you can say they are a good or bad performer",
+    "example": "our top performers can expect a big pay rise this year",
+    "translation": "работник (по результатам работы), исполнитель",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "perform",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she was able to perform well under pressure",
+    "translation": "справляться (с работой), действовать",
+    "collocations": [],
+    "baseWord": "performer"
+  },
+  {
+    "word": "performance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "poor job performance is a typical result of stress",
+    "translation": "результаты работы, показатели (эффективности)",
+    "collocations": [],
+    "baseWord": "performer"
+  },
+  {
+    "word": "pick up",
+    "transcription": "ˌpɪk ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you pick up something or pick something up, you learn a new skill over a period of time and without a lot of effort",
+    "example": "she picked up some Spanish when she was living in Madrid",
+    "translation": "осваивать, перенимать (навык, между делом)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "possess",
+    "transcription": "pəˈzes",
+    "pos": "verb",
+    "definition": "if you possess a quality or ability, you have it",
+    "example": "an effective leader can possess many different character traits",
+    "translation": "обладать (качеством, способностью)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "process",
+    "transcription": "ˈprəʊses",
+    "pos": "verb",
+    "definition": "when a computer processes information, it uses the information in order to do a particular task. When your brain processes information, it takes in sound, speech or other information and organises it so that you understand it",
+    "example": "humans have a limited ability to process information",
+    "translation": "обрабатывать (информацию)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "processing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my thought processing was much slower when I was hungry",
+    "translation": "обработка (информации)",
+    "collocations": [],
+    "baseWord": "process"
+  },
+  {
+    "word": "struggle",
+    "transcription": "ˈstrʌɡ(ə)l",
+    "pos": "verb",
+    "definition": "if you struggle, you try hard to do something you find difficult",
+    "example": "Anna has always struggled with maths",
+    "translation": "бороться, испытывать трудности",
+    "collocations": [
+      "struggle with something",
+      "struggle to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "struggle",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it was a struggle to understand her when she spoke so fast",
+    "translation": "трудность, борьба, тяжелая задача",
+    "collocations": [
+      "a struggle to do something"
+    ],
+    "baseWord": "struggle"
+  },
+  {
+    "word": "sufficient",
+    "transcription": "səˈfɪʃ(ə)nt",
+    "pos": "adjective",
+    "definition": "something that is sufficient is as much as is needed for a particular purpose",
+    "example": "there is sufficient evidence to believe he could speak many languages",
+    "translation": "достаточный",
+    "collocations": [
+      "be sufficient to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sufficiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she had sufficiently recovered to make the trip to Australia",
+    "translation": "достаточно",
+    "collocations": [],
+    "baseWord": "sufficient"
+  },
+  {
+    "word": "insufficient",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the project was cancelled due to insufficient funds",
+    "translation": "недостаточный",
+    "collocations": [],
+    "baseWord": "sufficient"
+  },
+  {
+    "word": "top",
+    "transcription": "tɒp",
+    "pos": "adjective",
+    "definition": "the top person or thing is the most important or best one of their kind",
+    "example": "she was a top performer",
+    "translation": "лучший, ведущий, топовый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "act",
+    "transcription": "ækt",
+    "pos": "verb",
+    "definition": "if someone acts as a particular sort of person, they do what that sort of person is expected to do for a while",
+    "example": "we often need local people to act as guides",
+    "translation": "выступать в роли, исполнять роль",
+    "collocations": [
+      "act as something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "acting",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he is the acting governor (not the real one, but doing the job until the real one returns)",
+    "translation": "исполняющий обязанности, временный",
+    "collocations": [],
+    "baseWord": "act"
+  },
+  {
+    "word": "behaviour",
+    "transcription": "bɪˈheɪvjə(r)",
+    "pos": "noun",
+    "definition": "someone’s behaviour is the way they normally do and say things",
+    "example": "they changed their behaviour as a result of the experience",
+    "translation": "поведение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "behave",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he’s been behaving very strangely this week",
+    "translation": "вести себя",
+    "collocations": [],
+    "baseWord": "behaviour"
+  },
+  {
+    "word": "cabin",
+    "transcription": "ˈkæbɪn",
+    "pos": "noun",
+    "definition": "on a ship, the cabins are the rooms where the passengers and the members of the crew live and sleep during a journey",
+    "example": "she worked as a cabin cleaner",
+    "translation": "каюта",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "catch",
+    "transcription": "kætʃ",
+    "pos": "verb",
+    "definition": "if you catch what someone is saying, you hear it and understand it. If you don’t catch what they are saying, you don’t hear it properly and do not understand what they mean",
+    "example": "they spoke so fast I didn’t catch anything at all",
+    "translation": "уловить, разобрать (на слух)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "come up",
+    "transcription": "ˌkʌm ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "to come up to someone means to come towards them",
+    "example": "two Chinese guys came up to me",
+    "translation": "подходить (к кому-либо)",
+    "collocations": [
+      "come up to someone or something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "crew",
+    "transcription": "kruː",
+    "pos": "noun",
+    "definition": "a crew is a group of people with special skills who all work together doing the same job",
+    "example": "a member of the film crew",
+    "translation": "команда, экипаж",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "engine",
+    "transcription": "ˈendʒɪn",
+    "pos": "noun",
+    "definition": "the engine of a vehicle is the part that produces the power and that makes the vehicle move",
+    "example": "he worked in the engine room of a cruise ship",
+    "translation": "двигатель",
+    "collocations": [
+      "start/switch on an engine",
+      "turn off/switch off an engine"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "film",
+    "transcription": "fɪlm",
+    "pos": "verb",
+    "definition": "when people are filming, they are using cameras and recording equipment to make a film for television or the cinema",
+    "example": "we were filming in Sumatra",
+    "translation": "снимать (фильм)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gesture",
+    "transcription": "ˈdʒestʃə(r)",
+    "pos": "noun",
+    "definition": "a gesture is a movement of your hand or arm which you do in order to help make yourself understood, often at the same time as you are speaking",
+    "example": "using mostly gesture, I explained that they were in the wrong street",
+    "translation": "жест",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gesture",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she gestured to me to come in",
+    "translation": "жестикулировать, показывать жестом",
+    "collocations": [
+      "gesture to someone (to do something)"
+    ],
+    "baseWord": "gesture"
+  },
+  {
+    "word": "misunderstanding",
+    "transcription": "ˌmɪsʌndə(r)ˈstændɪŋ",
+    "pos": "noun",
+    "definition": "a misunderstanding happens when someone doesn’t understand something properly, often causing some confusion",
+    "example": "it was all a complete misunderstanding",
+    "translation": "недопонимание, недоразумение",
+    "collocations": [
+      "a total/complete/slight/common/genuine misunderstanding",
+      "a misunderstanding arises"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "misunderstand",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "don’t misunderstand me – I didn’t mean it was wrong",
+    "translation": "неправильно понимать",
+    "collocations": [],
+    "baseWord": "misunderstanding"
+  },
+  {
+    "word": "mixture",
+    "transcription": "ˈmɪkstʃə(r)",
+    "pos": "noun",
+    "definition": "a mixture is a number of different things all together in the same place",
+    "example": "I communicated with a mixture of Chinese and gesture",
+    "translation": "смесь, сочетание",
+    "collocations": [
+      "a mixture of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "mix",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if you mix yellow and blue you get green",
+    "translation": "смешивать",
+    "collocations": [
+      "a mix of something"
+    ],
+    "baseWord": "mixture"
+  },
+  {
+    "word": "mix",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "if you mix yellow and blue you get green",
+    "translation": "смесь, сочетание",
+    "collocations": [
+      "a mix of something"
+    ],
+    "baseWord": "mixture"
+  },
+  {
+    "word": "motivate",
+    "transcription": "ˈməʊtɪveɪt",
+    "pos": "verb",
+    "definition": "if something motivates you, it gives you the enthusiasm and determination you need to do something",
+    "example": "their teacher really knows how to motivate them",
+    "translation": "мотивировать",
+    "collocations": [
+      "motivate someone to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "motivated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "children are highly motivated learners of language",
+    "translation": "мотивированный",
+    "collocations": [
+      "a lack of motivation"
+    ],
+    "baseWord": "motivate"
+  },
+  {
+    "word": "motivating",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "greed was a motivating factor in his decision",
+    "translation": "мотивирующий",
+    "collocations": [
+      "a lack of motivation"
+    ],
+    "baseWord": "motivate"
+  },
+  {
+    "word": "motivation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he has no motivation to study",
+    "translation": "мотивация",
+    "collocations": [
+      "a lack of motivation"
+    ],
+    "baseWord": "motivate"
+  },
+  {
+    "word": "motive",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the motive behind the attack is unclear",
+    "translation": "мотив, побуждение",
+    "collocations": [
+      "a lack of motivation"
+    ],
+    "baseWord": "motivate"
+  },
+  {
+    "word": "overnight",
+    "transcription": "ˌəʊvə(r)ˈnaɪt",
+    "pos": "adjective",
+    "definition": "an overnight activity is one that starts in the evening and continues through the night until the next morning",
+    "example": "my dad took an overnight train to Prague",
+    "translation": "ночной (о поездке и т.п.)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overnight",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we flew overnight to New York",
+    "translation": "ночью, за ночь",
+    "collocations": [],
+    "baseWord": "overnight"
+  },
+  {
+    "word": "papers",
+    "transcription": "ˈpeɪpə(r)z",
+    "pos": "noun",
+    "definition": "someone’s papers are official documents such as a passport or identity card that prove who they are",
+    "example": "a policeman asked him for his papers",
+    "translation": "документы (удостоверяющие личность)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rush",
+    "transcription": "rʌʃ",
+    "pos": "verb",
+    "definition": "if you rush, you do something or go somewhere quickly because you are in a hurry",
+    "example": "we had to rush her to the doctor (take her to the doctor very quickly)",
+    "translation": "спешить, торопиться; срочно доставить",
+    "collocations": [
+      "rush to do something",
+      "rush someone somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "rush",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’m in a rush (I don’t have much time)",
+    "translation": "спешка",
+    "collocations": [
+      "be in a rush",
+      "a rush for something"
+    ],
+    "baseWord": "rush"
+  },
+  {
+    "word": "search",
+    "transcription": "sɜː(r)tʃ",
+    "pos": "noun",
+    "definition": "a search is an attempt to find something. If you go in search of something, you look for it and try to find it search",
+    "example": "we go all over the place in search of unusual wild animals",
+    "translation": "поиск",
+    "collocations": [
+      "go in search of someone or something",
+      "a search for someone or something",
+      "conduct/carry out a"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "search",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "they searched my bag at the airport",
+    "translation": "искать, обыскивать",
+    "collocations": [
+      "search for someone or something"
+    ],
+    "baseWord": "search"
+  },
+  {
+    "word": "settle",
+    "transcription": "ˈset(ə)l",
+    "pos": "verb",
+    "definition": "if you settle somewhere, you start to live there permanently",
+    "example": "they chose to settle in Rio",
+    "translation": "поселиться, обосноваться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "settler",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "European settlers started to arrive in 1793",
+    "translation": "поселенец",
+    "collocations": [],
+    "baseWord": "settle"
+  }
+]

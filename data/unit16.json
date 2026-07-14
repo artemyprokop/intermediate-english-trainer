@@ -1,0 +1,1546 @@
+[
+  {
+    "word": "affairs",
+    "transcription": "əˈfeə(r)z",
+    "pos": "noun",
+    "definition": "affairs are important facts, events and activities relating to the government, economy, etc of a particular place",
+    "example": "he’s an expert in foreign affairs (political/economic events in other countries)",
+    "translation": "(государственные, международные) дела, вопросы",
+    "collocations": [
+      "foreign affairs"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "celebrity",
+    "transcription": "səˈlebrəti",
+    "pos": "noun",
+    "definition": "a celebrity is a famous person in entertainment or sport",
+    "example": "he became an international celebrity",
+    "translation": "знаменитость, известная личность",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "justice",
+    "transcription": "ˈdʒʌstɪs",
+    "pos": "noun",
+    "definition": "justice is the treatment of people in a fair and morally correct way",
+    "example": "Washington has long been regarded as a national leader in criminal justice",
+    "translation": "правосудие, справедливость",
+    "collocations": [
+      "criminal/social justice"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "accuse",
+    "transcription": "əˈkjuːz",
+    "pos": "verb",
+    "definition": "if you accuse someone of doing something, you say that they have done something bad or illegal",
+    "example": "opposition leaders regularly accuse the government of failure",
+    "translation": "обвинять",
+    "collocations": [
+      "accuse someone of (doing) something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "accusation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she made a serious accusation against her boss",
+    "translation": "обвинение",
+    "collocations": [
+      "make an accusation",
+      "a serious accusation",
+      "a wild accusation"
+    ],
+    "baseWord": "accuse"
+  },
+  {
+    "word": "accuser",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she made a serious accusation against her boss",
+    "translation": "обвинитель",
+    "collocations": [
+      "make an accusation",
+      "a serious accusation",
+      "a wild accusation"
+    ],
+    "baseWord": "accuse"
+  },
+  {
+    "word": "admit",
+    "transcription": "ədˈmɪt",
+    "pos": "verb",
+    "definition": "if you admit something, you say that you have done something wrong or something that people will not approve of",
+    "example": "they’ll never openly admit being wrong",
+    "translation": "признавать(ся) (в чем-то плохом)",
+    "collocations": [
+      "admit doing something",
+      "admit to (doing) something",
+      "admit that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "admission",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "an admission of guilt",
+    "translation": "признание",
+    "collocations": [],
+    "baseWord": "admit"
+  },
+  {
+    "word": "affair",
+    "transcription": "əˈfeə(r)",
+    "pos": "noun",
+    "definition": "if someone has an affair, they develop a sexual relationship with someone who is not their long-term partner",
+    "example": "my husband had an affair 20 years ago",
+    "translation": "любовная связь, роман (измена)",
+    "collocations": [
+      "have an affair (with someone)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "agreement",
+    "transcription": "əˈɡriːmənt",
+    "pos": "noun",
+    "definition": "an agreement is an official arrangement in which two or more people, organisations, or countries decide what should happen",
+    "example": "despite the peace agreement, fighting continued for another week",
+    "translation": "соглашение, договор",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "announce",
+    "transcription": "əˈnaʊns",
+    "pos": "verb",
+    "definition": "if you announce something, you officially make a statement about it, or tell people something that you think is very important",
+    "example": "she’s just announced they’re splitting up",
+    "translation": "объявлять, заявлять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "announcement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they decided not to make an official announcement",
+    "translation": "объявление, заявление",
+    "collocations": [
+      "make an announcement"
+    ],
+    "baseWord": "announce"
+  },
+  {
+    "word": "bankrupt",
+    "transcription": "ˈbæŋkrʌpt",
+    "pos": "adjective",
+    "definition": "if a company is bankrupt, it does not have enough money to pay all its debts and so cannot continue to exist. People who are bankrupt cannot pay their debts",
+    "example": "a lot of companies have gone bankrupt recently",
+    "translation": "обанкротившийся, банкрот",
+    "collocations": [
+      "go bankrupt",
+      "be declared bankrupt"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bankrupt",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "just one more major accident will bankrupt the company",
+    "translation": "доводить до банкротства, разорять",
+    "collocations": [],
+    "baseWord": "bankrupt"
+  },
+  {
+    "word": "bankruptcy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the firm later fell into bankruptcy",
+    "translation": "банкротство",
+    "collocations": [],
+    "baseWord": "bankrupt"
+  },
+  {
+    "word": "bankrupt",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "just one more major accident will bankrupt the company",
+    "translation": "банкрот",
+    "collocations": [],
+    "baseWord": "bankrupt"
+  },
+  {
+    "word": "ceasefire",
+    "transcription": "ˈsiːsˌfaɪə(r)",
+    "pos": "noun",
+    "definition": "if there is a ceasefire, the two sides in a war agree to stop fighting for a period of time",
+    "example": "the two sides have agreed a ceasefire",
+    "translation": "прекращение огня, перемирие",
+    "collocations": [
+      "negotiate/agree a ceasefire",
+      "break a ceasefire",
+      "declare a ceasefire"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "deputy",
+    "transcription": "ˈdepjʊti",
+    "pos": "noun",
+    "definition": "a deputy is someone who does their boss’s job when their boss is not present",
+    "example": "the mayor and deputy mayor are elected annually by councillors",
+    "translation": "заместитель",
+    "collocations": [
+      "a deputy mayor/director/chairman etc Collocates:  deputise for someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "elect",
+    "transcription": "ɪˈlekt",
+    "pos": "verb",
+    "definition": "an election is the process in which people vote to choose someone who will hold an official position. If someone is elected, they get enough votes to be chosen",
+    "example": "he was elected to parliament in 2014",
+    "translation": "избирать",
+    "collocations": [
+      "be elected to something",
+      "be elected something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "election",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the economy was the most important factor in the election campaign",
+    "translation": "выборы",
+    "collocations": [
+      "hold an election",
+      "win/lose an election",
+      "a general election",
+      "an election campaign"
+    ],
+    "baseWord": "elect"
+  },
+  {
+    "word": "elected",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "there’ll probably be a change of government after the general election (an election when everyone in the country can vote to choose the national government) \\ the council has 36 elected members",
+    "translation": "избранный",
+    "collocations": [
+      "hold an election",
+      "win/lose an election",
+      "a general election",
+      "an election campaign"
+    ],
+    "baseWord": "elect"
+  },
+  {
+    "word": "expand",
+    "transcription": "ɪkˈspænd",
+    "pos": "verb",
+    "definition": "to expand means to increase in size. If a business expands, it starts to produce a bigger range of goods or opens new factories, shops, offices etc",
+    "example": "the company expanded, and now has offices in Europe as well as Asia",
+    "translation": "расширяться, увеличиваться (о бизнесе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "expansion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the planned expansion will bring the total number of shops to 25",
+    "translation": "расширение",
+    "collocations": [],
+    "baseWord": "expand"
+  },
+  {
+    "word": "investigate",
+    "transcription": "ɪnˈvestɪɡeɪt",
+    "pos": "verb",
+    "definition": "if someone investigates a situation or event, they examine all the facts that they can find about it in order to decide exactly what happened, if anyone is to blame, and what action they need to take",
+    "example": "specialists were called in to investigate the causes of the explosion",
+    "translation": "расследовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "investigation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Sussex police are conducting a detailed investigation",
+    "translation": "расследование",
+    "collocations": [
+      "an investigation into something",
+      "conduct/ launch/carry out an investigation",
+      "be under investigation"
+    ],
+    "baseWord": "investigate"
+  },
+  {
+    "word": "investigator",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Sussex police are conducting a detailed investigation",
+    "translation": "следователь",
+    "collocations": [
+      "an investigation into something",
+      "conduct/ launch/carry out an investigation",
+      "be under investigation"
+    ],
+    "baseWord": "investigate"
+  },
+  {
+    "word": "mayor",
+    "transcription": "meə(r)",
+    "pos": "noun",
+    "definition": "a mayor is someone who has been elected to be in charge of the government of a town or city",
+    "example": "the mayor and deputy mayor are elected annually by councillors",
+    "translation": "мэр",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mayoral",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the next mayoral election will be two years from now",
+    "translation": "относящийся к мэру, мэрским выборам",
+    "collocations": [],
+    "baseWord": "mayor"
+  },
+  {
+    "word": "payment",
+    "transcription": "ˈpeɪmənt",
+    "pos": "noun",
+    "definition": "a payment is an amount of money that you give to someone when you buy goods or services",
+    "example": "our monthly mortgage payment is £900",
+    "translation": "платеж, оплата",
+    "collocations": [
+      "make a payment"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "pay",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we paid £60 for lunch",
+    "translation": "платить",
+    "collocations": [
+      "pay (something) for something"
+    ],
+    "baseWord": "payment"
+  },
+  {
+    "word": "premiere",
+    "transcription": "ˈpremieə(r)",
+    "pos": "noun",
+    "definition": "a premiere is the first public performance of a play, film, TV show, etc",
+    "example": "hundreds of celebrities will attend the premiere",
+    "translation": "премьера",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "premiere",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the movie was premiered worldwide in October 2012",
+    "translation": "показывать впервые, устраивать премьеру",
+    "collocations": [],
+    "baseWord": "premiere"
+  },
+  {
+    "word": "production",
+    "transcription": "prəˈdʌkʃ(ə)n",
+    "pos": "noun",
+    "definition": "production is the process and activity of making things in a factory. Production is also the amount of things that have been made",
+    "example": "they’re moving production abroad",
+    "translation": "производство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "product",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "these products were manufactured mainly in Belgium",
+    "translation": "продукт, товар",
+    "collocations": [],
+    "baseWord": "production"
+  },
+  {
+    "word": "produce",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "these products were manufactured mainly in Belgium",
+    "translation": "производить, выпускать",
+    "collocations": [],
+    "baseWord": "production"
+  },
+  {
+    "word": "producer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "this company is still the major producer of glass in the state",
+    "translation": "производитель",
+    "collocations": [],
+    "baseWord": "production"
+  },
+  {
+    "word": "replace",
+    "transcription": "rɪˈpleɪs",
+    "pos": "verb",
+    "definition": "if someone or something replaces another, they start to act or be used instead of the original person or thing",
+    "example": "who can replace him?",
+    "translation": "заменять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "replacement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they gave him a replacement for his watch",
+    "translation": "замена",
+    "collocations": [
+      "a replacement for something"
+    ],
+    "baseWord": "replace"
+  },
+  {
+    "word": "resign",
+    "transcription": "rɪˈzaɪn",
+    "pos": "verb",
+    "definition": "if you resign, you say officially that you are leaving your job",
+    "example": "he may be forced to resign as prime minister",
+    "translation": "уходить в отставку",
+    "collocations": [
+      "resign from something",
+      "resign as something",
+      "resign something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "resignation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Farage submitted his resignation on the same day",
+    "translation": "отставка",
+    "collocations": [
+      "tender/offer/submit your resignation",
+      "accept someone’s resignation",
+      "reject someone’s resignation"
+    ],
+    "baseWord": "resign"
+  },
+  {
+    "word": "retweet",
+    "transcription": "ˌriːˈtwiːt",
+    "pos": "verb",
+    "definition": "if you retweet something, you send a message on Twitter that was already sent by someone else",
+    "example": "you could retweet his tweets in exchange for him retweeting yours",
+    "translation": "ретвитнуть, репостить (в Твиттере)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "retweet",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "her retweet was not appreciated by her ex-husband",
+    "translation": "ретвит",
+    "collocations": [],
+    "baseWord": "retweet"
+  },
+  {
+    "word": "season",
+    "transcription": "ˈsiːz(ə)n",
+    "pos": "noun",
+    "definition": "a season is the months of the year when a particular activity happens. For example, the football season is the time of year when football is played; the holiday season is when most people take their holidays",
+    "example": "the football season used to start in mid-September; now it starts in early August",
+    "translation": "сезон",
+    "collocations": [
+      "the football/cricket/baseball etc season"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "share price",
+    "transcription": "ˈˌʃeə(r) ˌpraɪs",
+    "pos": "noun",
+    "definition": "a company’s share price is the current value of a single share in the company which you can buy on the stock market",
+    "example": "their share price fell by half during October",
+    "translation": "цена акции, курс акций",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sign",
+    "transcription": "saɪn",
+    "pos": "verb",
+    "definition": "if a company, especially a sports club or a music company, signs someone, they make a legal written agreement for that person to work for them. When this happens, you can also say that the player or musician signs for the club or music company",
+    "example": "one of the big music companies wants to sign them",
+    "translation": "подписывать контракт (с игроком, музыкантом)",
+    "collocations": [
+      "sign for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "signing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "at £85m, Gareth Bale was the club’s most expensive signing",
+    "translation": "подписание контракта (с новым игроком, музыкантом)",
+    "collocations": [],
+    "baseWord": "sign"
+  },
+  {
+    "word": "stab",
+    "transcription": "stæb",
+    "pos": "verb",
+    "definition": "to stab someone means to attack and hurt them by pushing a knife or other sharp object into them",
+    "example": "he was stabbed outside the nightclub",
+    "translation": "наносить удар ножом, ударить ножом",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stab",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "in one incident a man suffered stab wounds",
+    "translation": "удар ножом, колотая рана",
+    "collocations": [],
+    "baseWord": "stab"
+  },
+  {
+    "word": "stabbing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was arrested five hours after the stabbing",
+    "translation": "ножевое ранение, нападение с ножом",
+    "collocations": [],
+    "baseWord": "stab"
+  },
+  {
+    "word": "steel",
+    "transcription": "stiːl",
+    "pos": "noun",
+    "definition": "steel is a strong metal, made from iron and carbon",
+    "example": "they’re going to close the local steel plant (factory where steel is made)",
+    "translation": "сталь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "summit",
+    "transcription": "ˈsʌmɪt",
+    "pos": "noun",
+    "definition": "a summit or a summit meeting is a meeting of the leaders of several different countries who come together to discuss important issues",
+    "example": "protestors gathered outside the summit meeting",
+    "translation": "саммит, встреча на высшем уровне",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "take over",
+    "transcription": "ˌteɪk ˈəʊvə(r)",
+    "pos": "phrasal verb",
+    "definition": "when one company takes over another company, it becomes the new owner and the two companies combine to become one company",
+    "example": "it was their third attempt to take over the rival company",
+    "translation": "поглощать (компанию), становиться владельцем",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "takeover",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Murdoch launched a takeover bid in early December",
+    "translation": "поглощение (компании)",
+    "collocations": [
+      "a takeover bid",
+      "a hostile takeover"
+    ],
+    "baseWord": "take over"
+  },
+  {
+    "word": "victim",
+    "transcription": "ˈvɪktɪm",
+    "pos": "noun",
+    "definition": "a victim is someone who suffers as a result of a crime committed against them or as a result of an event that they cannot control",
+    "example": "I’ve been a victim of three burglaries",
+    "translation": "жертва",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "activist",
+    "transcription": "ˈæktɪvɪst",
+    "pos": "noun",
+    "definition": "an activist is someone who does things to try to change the political or social situation, often as part of an organisation",
+    "example": "a civil rights activist",
+    "translation": "активист",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "campaign",
+    "transcription": "kæmˈpeɪn",
+    "pos": "verb",
+    "definition": "when people campaign, they carry out a series of actions because they want to win something, change a situation, or persuade people about something",
+    "example": "we must campaign strongly to ensure that our rights are preserved",
+    "translation": "проводить кампанию, агитировать, бороться (за/против чего-либо)",
+    "collocations": [
+      "campaign for something",
+      "campaign against something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "campaign",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they are starting a new campaign against poverty",
+    "translation": "кампания",
+    "collocations": [
+      "a campaign against something"
+    ],
+    "baseWord": "campaign"
+  },
+  {
+    "word": "charity",
+    "transcription": "ˈtʃærəti",
+    "pos": "noun",
+    "definition": "a charity is an organisation which collects money to help people or to provide information, but which does not try to make a profit",
+    "example": "he set up a charity to help poor children",
+    "translation": "благотворительная организация, благотворительность",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "charitable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she founded several charitable organisations",
+    "translation": "благотворительный",
+    "collocations": [],
+    "baseWord": "charity"
+  },
+  {
+    "word": "consider",
+    "transcription": "kənˈsɪdə(r)",
+    "pos": "verb",
+    "definition": "if you consider something, you think about it carefully. If someone or something is considered to be a particular thing or to have a particular quality, then that is what lots of different people think",
+    "example": "Euclid is considered to be the father of geometry",
+    "translation": "считать, полагать; обдумывать",
+    "collocations": [
+      "consider someone to be something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "dominate",
+    "transcription": "ˈdɒmɪneɪt",
+    "pos": "verb",
+    "definition": "if someone dominates a situation or activity, they are more successful or more active than any other people involved",
+    "example": "Navratilova dominated women’s tennis for over ten years",
+    "translation": "доминировать, преобладать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "dominant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she had a dominant personality",
+    "translation": "доминирующий, преобладающий",
+    "collocations": [],
+    "baseWord": "dominate"
+  },
+  {
+    "word": "dominance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Taylor continued his dominance in the sport throughout 2014",
+    "translation": "доминирование, господство",
+    "collocations": [],
+    "baseWord": "dominate"
+  },
+  {
+    "word": "founder",
+    "transcription": "ˈfaʊndə(r)",
+    "pos": "noun",
+    "definition": "the founder of an institution or important organisation is the person who starts it and makes it possible for it to continue",
+    "example": "Kemal Atatürk was the founder of the Turkish Republic",
+    "translation": "основатель",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "found",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the RSPCA was founded in 1824",
+    "translation": "основывать, учреждать",
+    "collocations": [],
+    "baseWord": "founder"
+  },
+  {
+    "word": "genius",
+    "transcription": "ˈdʒiːniəs",
+    "pos": "noun",
+    "definition": "a genius is someone who is extremely intelligent or clever, and much cleverer or more intelligent than almost everyone else. You can refer to someone’s great skill or ability as their genius",
+    "example": "Euclid was a genius",
+    "translation": "гений",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "grant",
+    "transcription": "ɡrɑːnt",
+    "pos": "noun",
+    "definition": "a grant is an amount of money that a government or organisation gives someone to help them do something",
+    "example": "an Arts Council grant was obtained for printing the catalogue",
+    "translation": "грант, субсидия",
+    "collocations": [
+      "get/obtain/receive a grant",
+      "give/award (someone) a grant",
+      "apply for a grant"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "hero",
+    "transcription": "ˈhɪərəʊ",
+    "pos": "noun",
+    "definition": "a hero is someone who does something very brave or very useful and is admired by a lot of people. Hero is usually used about men, although nowadays the word is used about women too. In the past, the word heroine was usually used about women",
+    "example": "he became a national hero",
+    "translation": "герой",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "influential",
+    "transcription": "ˌɪnfluˈenʃ(ə)l",
+    "pos": "adjective",
+    "definition": "influence is the power to make people do what you want or to make situations develop in the way that you want. People or things that have influence are influential",
+    "example": "a writer whose ideas were very influential",
+    "translation": "влиятельный",
+    "collocations": [
+      "highly/hugely/enormously influential"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "influence",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he has had considerable influence on British literary culture",
+    "translation": "влияние",
+    "collocations": [
+      "have (an) influence on something or someone"
+    ],
+    "baseWord": "influential"
+  },
+  {
+    "word": "influence",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he has had considerable influence on British literary culture",
+    "translation": "влиять",
+    "collocations": [
+      "have (an) influence on something or someone"
+    ],
+    "baseWord": "influential"
+  },
+  {
+    "word": "inspire",
+    "transcription": "ɪnˈspaɪə(r)",
+    "pos": "verb",
+    "definition": "if you inspire someone, you make them believe in something very strongly, especially in their own ability to achieve things",
+    "example": "his strength and skill inspired millions around the world",
+    "translation": "вдохновлять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "inspiring",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an inspiring teacher",
+    "translation": "вдохновляющий",
+    "collocations": [],
+    "baseWord": "inspire"
+  },
+  {
+    "word": "lead",
+    "transcription": "liːd",
+    "pos": "verb",
+    "definition": "a person who leads a group of people is the person who is in charge, who makes all the important decisions, and tells others what to do",
+    "example": "managers must lead, motivate, and stand up for their staff",
+    "translation": "руководить, возглавлять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "leader",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "what we need is a strong leader to rebuild the company",
+    "translation": "лидер, руководитель",
+    "collocations": [],
+    "baseWord": "lead"
+  },
+  {
+    "word": "leadership",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "our senior managers demonstrate strong leadership skills",
+    "translation": "лидерство, руководство",
+    "collocations": [],
+    "baseWord": "lead"
+  },
+  {
+    "word": "liberation",
+    "transcription": "ˌlɪbəˈreɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "liberation is when a person or a country is made free after a period of being under someone else’s control",
+    "example": "Atatürk led the liberation struggle in Turkey",
+    "translation": "освобождение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "liberate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "over 100 prisoners were liberated",
+    "translation": "освобождать",
+    "collocations": [],
+    "baseWord": "liberation"
+  },
+  {
+    "word": "military",
+    "transcription": "ˈmɪlɪt(ə)ri",
+    "pos": "adjective",
+    "definition": "military means relating to the army and other armed forces of a country",
+    "example": "he was a military leader in the nineteenth century",
+    "translation": "военный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "military",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he joined the military when he was just 17",
+    "translation": "армия, вооруженные силы",
+    "collocations": [],
+    "baseWord": "military"
+  },
+  {
+    "word": "name",
+    "transcription": "neɪm",
+    "pos": "verb",
+    "definition": "if you name someone or something, you choose the name that they will have. If you name someone or something after a person, you give them the same name as that person in order to remind you of the person or show respect. In American English, you name someone or something for a person",
+    "example": "they named a metro station after him",
+    "translation": "называть, давать имя (в честь кого-то)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "radiation",
+    "transcription": "ˌreɪdiˈeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "radiation is the form of energy that is sent out from nuclear reactions, and from substances such as uranium",
+    "example": "Marie Curie studied radiation and discovered polonium",
+    "translation": "радиация, излучение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "radioactive",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a highly radioactive substance",
+    "translation": "радиоактивный",
+    "collocations": [],
+    "baseWord": "radiation"
+  },
+  {
+    "word": "radical",
+    "transcription": "ˈrædɪk(ə)l",
+    "pos": "adjective",
+    "definition": "things which are radical are extreme or involve a big change in the way something is done",
+    "example": "his ideas were very radical",
+    "translation": "радикальный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "radically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the situation changed radically after the election",
+    "translation": "радикально, коренным образом",
+    "collocations": [],
+    "baseWord": "radical"
+  },
+  {
+    "word": "rite",
+    "transcription": "raɪt",
+    "pos": "noun",
+    "definition": "a rite is a traditional ceremony that is carried out, often for religious purposes",
+    "example": "getting a tattoo is a modern rite of passage (an activity that marks a new stage in someone’s life)",
+    "translation": "обряд, ритуал",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ritual",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the entire ritual lasted for 30 minutes",
+    "translation": "ритуал, обряд",
+    "collocations": [],
+    "baseWord": "rite"
+  },
+  {
+    "word": "scheme",
+    "transcription": "skiːm",
+    "pos": "noun",
+    "definition": "a scheme is a plan or programme of action by an organisation to help people do something",
+    "example": "it’s a European Union scheme to provide grants for teachers",
+    "translation": "программа, план, схема (государственная или организационная)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "struggle",
+    "transcription": "ˈstrʌɡ(ə)l",
+    "pos": "noun",
+    "definition": "if something is a struggle, you have to try very hard to succeed because it is very difficult to achieve",
+    "example": "Atatürk led the liberation struggle in Turkey",
+    "translation": "борьба",
+    "collocations": [
+      "a struggle to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "struggle",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "Anna has always struggled with maths",
+    "translation": "бороться, с трудом справляться",
+    "collocations": [
+      "struggle to do something"
+    ],
+    "baseWord": "struggle"
+  },
+  {
+    "word": "unify",
+    "transcription": "ˈjuːnɪfaɪ",
+    "pos": "verb",
+    "definition": "to unify the different parts of a country or group means to join the separate parts together to make one single country or group",
+    "example": "he was a military leader who helped unify Italy in the nineteenth century",
+    "translation": "объединять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "vaccine",
+    "transcription": "ˈvæksiːn",
+    "pos": "noun",
+    "definition": "a vaccine is a kind of medicine that stops you getting a particular disease in the future",
+    "example": "a vaccine against malaria",
+    "translation": "вакцина",
+    "collocations": [
+      "a vaccine against something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "vaccinate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "all children should be vaccinated against measles",
+    "translation": "вакцинировать, делать прививку",
+    "collocations": [
+      "be vaccinated against something"
+    ],
+    "baseWord": "vaccine"
+  },
+  {
+    "word": "vaccination",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "some parents are still refusing vaccination for their children",
+    "translation": "вакцинация, прививка",
+    "collocations": [
+      "be vaccinated against something"
+    ],
+    "baseWord": "vaccine"
+  },
+  {
+    "word": "act",
+    "transcription": "ækt",
+    "pos": "noun",
+    "definition": "an act is something that someone does",
+    "example": "it was an act of great generosity",
+    "translation": "поступок, действие",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "act",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "every day we see how children have to be taught to act and behave",
+    "translation": "действовать, вести себя",
+    "collocations": [],
+    "baseWord": "act"
+  },
+  {
+    "word": "action",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "one person acting alone can cause a lot of damage",
+    "translation": "действие",
+    "collocations": [],
+    "baseWord": "act"
+  },
+  {
+    "word": "appear",
+    "transcription": "əˈpɪə(r)",
+    "pos": "verb",
+    "definition": "if someone or something appears, they start to be visible. If someone appears on TV or radio, they take part in a programme that is broadcast and can be seen or heard",
+    "example": "they appeared on TV regularly",
+    "translation": "появляться (в т.ч. на ТВ, радио)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bomb",
+    "transcription": "bɒm",
+    "pos": "noun",
+    "definition": "a bomb is a weapon that explodes and causes death and damage. Bombs can be left in public places or dropped from a plane",
+    "example": "he became a hero when he removed a bomb from a bus he was driving",
+    "translation": "бомба",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bravery",
+    "transcription": "ˈbreɪvəri",
+    "pos": "noun",
+    "definition": "bravery is the quality and behaviour involved in doing dangerous or difficult things without showing fear",
+    "example": "it was an act of great bravery",
+    "translation": "храбрость, смелость",
+    "collocations": [
+      "show/display bravery"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "brave",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it was an incredibly brave thing to do",
+    "translation": "храбрый, смелый",
+    "collocations": [],
+    "baseWord": "bravery"
+  },
+  {
+    "word": "bravely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "they fought bravely, but without success",
+    "translation": "храбро, смело",
+    "collocations": [],
+    "baseWord": "bravery"
+  },
+  {
+    "word": "clip",
+    "transcription": "klɪp",
+    "pos": "noun",
+    "definition": "a clip is a short film, usually a short part taken out of a longer film",
+    "example": "the clip is the fourth most-watched film on YouTube",
+    "translation": "видеоролик, клип (отрывок из фильма)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "contestant",
+    "transcription": "kənˈtestənt",
+    "pos": "noun",
+    "definition": "a contestant is someone who competes in a game, quiz, or competition",
+    "example": "a contestant on a reality TV show",
+    "translation": "участник (конкурса, соревнования)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "courage",
+    "transcription": "ˈkʌrɪdʒ",
+    "pos": "noun",
+    "definition": "courage is the quality of being very brave in difficult or dangerous situations",
+    "example": "Mr Singh was widely praised for his courage",
+    "translation": "мужество, смелость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "courageous",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "Walters praised his courageous team",
+    "translation": "мужественный, смелый",
+    "collocations": [],
+    "baseWord": "courage"
+  },
+  {
+    "word": "courageously",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the crew acted courageously in helping all the passengers off the ship",
+    "translation": "мужественно, смело",
+    "collocations": [],
+    "baseWord": "courage"
+  },
+  {
+    "word": "discourage",
+    "transcription": "dɪsˈkʌrɪdʒ",
+    "pos": "verb",
+    "definition": "if something discourages you, it makes you decide not to do something",
+    "example": "these problems don’t seem to discourage anyone",
+    "translation": "отбивать желание, обескураживать",
+    "collocations": [
+      "discourage someone from doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "discouraging",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he gave a long and rather discouraging speech",
+    "translation": "обескураживающий, разочаровывающий",
+    "collocations": [],
+    "baseWord": "discourage"
+  },
+  {
+    "word": "elderly",
+    "transcription": "ˈeldə(r)li",
+    "pos": "noun",
+    "definition": "if you describe someone as elderly, you are saying they are old in a polite way. The elderly are people who are old",
+    "example": "a film-maker who was interested in the experiences of the elderly",
+    "translation": "пожилые люди",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "elderly",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an elderly lady sat opposite me on the train",
+    "translation": "пожилой",
+    "collocations": [],
+    "baseWord": "elderly"
+  },
+  {
+    "word": "emotional",
+    "transcription": "ɪˈməʊʃ(ə)nəl",
+    "pos": "adjective",
+    "definition": "something that is emotional involves someone’s feelings rather than reason and facts",
+    "example": "it’s difficult to cope with the emotional stress of being famous",
+    "translation": "эмоциональный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "emotionally",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I was exhausted, both emotionally and physically",
+    "translation": "эмоционально",
+    "collocations": [],
+    "baseWord": "emotional"
+  },
+  {
+    "word": "emotion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I was exhausted, both emotionally and physically",
+    "translation": "эмоция, чувство",
+    "collocations": [],
+    "baseWord": "emotional"
+  },
+  {
+    "word": "footstep",
+    "transcription": "ˈfʊtˌstep",
+    "pos": "noun",
+    "definition": "someone’s footsteps are the sounds or marks that their feet make on the ground when they walk or run somewhere. If you follow in someone’s footsteps, you do the same things as they do and have the same success that they had",
+    "example": "if you can sing, you could follow in Kurt’s footsteps",
+    "translation": "шаг, след (follow in footsteps - идти по чьим-то стопам)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "front page",
+    "transcription": "ˈfrʌnt peɪdʒ",
+    "pos": "noun",
+    "definition": "the front page of a newspaper or magazine is the one which people see first because it is the page that faces you when you pick it up. If something is front page news, it is considered to be the most important story in the whole newspaper or magazine",
+    "example": "I wouldn’t want to be on the front page of a gossip magazine",
+    "translation": "первая полоса (газеты)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "generosity",
+    "transcription": "ˌdʒenəˈrɒsəti",
+    "pos": "noun",
+    "definition": "generosity is willingness to give money or help people without expecting anything in return",
+    "example": "an act of great generosity",
+    "translation": "щедрость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "generous",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she can be very generous when she wants to be",
+    "translation": "щедрый",
+    "collocations": [],
+    "baseWord": "generosity"
+  },
+  {
+    "word": "generously",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she gives generously to charity every Christmas",
+    "translation": "щедро",
+    "collocations": [],
+    "baseWord": "generosity"
+  },
+  {
+    "word": "go on",
+    "transcription": "ˌɡəʊ ˈɒn",
+    "pos": "phrasal verb",
+    "definition": "if you go on to do something, you do it after you have done something else",
+    "example": "he then went on to win the whole competition",
+    "translation": "впоследствии сделать что-либо, в итоге прийти к",
+    "collocations": [
+      "go on to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "instant",
+    "transcription": "ˈɪnstənt",
+    "pos": "adjective",
+    "definition": "something that is instant happens immediately, with no delay at all",
+    "example": "these shows have brought instant fame to hundreds of people",
+    "translation": "мгновенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "instantly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I had a glass of water and instantly felt better",
+    "translation": "мгновенно, сразу",
+    "collocations": [],
+    "baseWord": "instant"
+  },
+  {
+    "word": "instant",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he woke up in an instant (immediately)",
+    "translation": "мгновение, момент",
+    "collocations": [],
+    "baseWord": "instant"
+  },
+  {
+    "word": "out of control",
+    "transcription": "ˌaʊt əv kənˈtrəʊl",
+    "pos": "phrase",
+    "definition": "if a situation is out of control, no one is able to stop or change what is happening. If someone is in control, they are able to control what is happening. If a situation is under control, it is safe, because someone is in control of it",
+    "example": "before long, things start getting out of control",
+    "translation": "выходящий из-под контроля, неуправляемый",
+    "collocations": [
+      "get out of control"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "in control",
+    "transcription": "",
+    "pos": "phrase",
+    "definition": "",
+    "example": "he was always in control and relaxed",
+    "translation": "владеющий ситуацией, контролирующий положение",
+    "collocations": [
+      "be in control of something"
+    ],
+    "baseWord": "out of control"
+  },
+  {
+    "word": "under control",
+    "transcription": "",
+    "pos": "phrase",
+    "definition": "",
+    "example": "by morning, the situation was under control",
+    "translation": "под контролем",
+    "collocations": [
+      "be in control of something"
+    ],
+    "baseWord": "out of control"
+  },
+  {
+    "word": "out-of-tune",
+    "transcription": "aʊt əv ˈtjuːn",
+    "pos": "adjective",
+    "definition": "if someone’s singing or a musical instrument is out of tune, they are not producing the right musical notes. If they are producing the right musical notes, then they are in tune",
+    "example": "that sort of out-of-tune singing has no place on national TV",
+    "translation": "фальшивый, расстроенный (о пении, инструменте)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "in tune",
+    "transcription": "",
+    "pos": "phrase",
+    "definition": "",
+    "example": "is your guitar in tune?",
+    "translation": "верно настроенный, без фальши",
+    "collocations": [],
+    "baseWord": "out-of-tune"
+  },
+  {
+    "word": "praise",
+    "transcription": "preɪz",
+    "pos": "verb",
+    "definition": "if you praise someone or something, you say how good you think they are",
+    "example": "it is a good idea to praise employees whenever possible",
+    "translation": "хвалить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "praise",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was full of praise for our work",
+    "translation": "похвала",
+    "collocations": [],
+    "baseWord": "praise"
+  },
+  {
+    "word": "problematic",
+    "transcription": "ˌprɒbləˈmætɪk",
+    "pos": "adjective",
+    "definition": "if something is problematic, it is not easy to deal with because there are some problems involved",
+    "example": "being a celebrity can be problematic",
+    "translation": "проблематичный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "problem",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "alcohol became a major problem in his life",
+    "translation": "проблема",
+    "collocations": [],
+    "baseWord": "problematic"
+  },
+  {
+    "word": "repay",
+    "transcription": "rɪˈpeɪ",
+    "pos": "verb",
+    "definition": "if you repay someone, you give back money that they gave you, or you do something to thank them for something kind that they did for you",
+    "example": "he can’t afford to repay his debts",
+    "translation": "возвращать (долг), отплачивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "repayment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the repayment period was 25 years",
+    "translation": "выплата, погашение (долга)",
+    "collocations": [],
+    "baseWord": "repay"
+  },
+  {
+    "word": "require",
+    "transcription": "rɪˈkwaɪə(r)",
+    "pos": "verb",
+    "definition": "if one thing requires another, then it must have that other thing",
+    "example": "these reality shows require no talent at all from the competitors",
+    "translation": "требовать(ся), нуждаться в",
+    "collocations": [
+      "require someone to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "requirement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the minimum requirement to enter the profession is a degree",
+    "translation": "требование",
+    "collocations": [],
+    "baseWord": "require"
+  },
+  {
+    "word": "will",
+    "transcription": "wɪl",
+    "pos": "noun",
+    "definition": "your will is a legal document in which you say who should receive your money and property when you die",
+    "example": "she repaid their kindness by leaving them £2m in her will",
+    "translation": "завещание",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cell",
+    "transcription": "sel",
+    "pos": "noun",
+    "definition": "a cell is the smallest part of an animal or plant that can exist on its own",
+    "example": "white blood cells",
+    "translation": "клетка (биологическая)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "harmful",
+    "transcription": "ˈhɑː(r)mf(ə)l",
+    "pos": "adjective",
+    "definition": "something that is harmful can cause harm or damage to someone or something",
+    "example": "the white blood cells help destroy harmful substances",
+    "translation": "вредный, вредоносный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "harm",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "looking directly at the sun can harm your eyes",
+    "translation": "вредить, наносить вред",
+    "collocations": [],
+    "baseWord": "harmful"
+  },
+  {
+    "word": "harm",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "looking directly at the sun can harm your eyes",
+    "translation": "вред",
+    "collocations": [],
+    "baseWord": "harmful"
+  },
+  {
+    "word": "needle",
+    "transcription": "ˈniːd(ə)l",
+    "pos": "noun",
+    "definition": "a needle is a thin pointed piece of metal that you put a thread through and use for sewing things. A needle is also a thin pointed piece of metal that is pushed into someone’s body during acupuncture (a way of treating illness)",
+    "example": "acupuncture involves placing needles into particular points on the body",
+    "translation": "игла, иголка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "substance",
+    "transcription": "ˈsʌbstəns",
+    "pos": "noun",
+    "definition": "a substance is something such as wood, water, or gas that has particular qualities",
+    "example": "onions contain a chemical substance that can make you cry",
+    "translation": "вещество",
+    "collocations": [],
+    "baseWord": null
+  }
+]

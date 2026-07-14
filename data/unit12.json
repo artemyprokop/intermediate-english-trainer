@@ -1,0 +1,1284 @@
+[
+  {
+    "word": "charming",
+    "transcription": "ˈtʃɑː(r)mɪŋ",
+    "pos": "adjective",
+    "definition": "someone who is charming has very good manners and always behaves in a way that makes other people like them",
+    "example": "he’s a very charming man",
+    "translation": "обаятельный, очаровательный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "charm",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he had great personal charm",
+    "translation": "обаяние, шарм",
+    "collocations": [],
+    "baseWord": "charming"
+  },
+  {
+    "word": "criticism",
+    "transcription": "ˈkrɪtɪˌsɪz(ə)m",
+    "pos": "noun",
+    "definition": "criticism is a statement that expresses disapproval of someone or of something they have done. Criticism is also the activity of making statements like this",
+    "example": "I got plenty of criticism for my first exhibition",
+    "translation": "критика",
+    "collocations": [
+      "draw/attract criticism",
+      "come in for criticism"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "criticise",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he refused to openly criticise the government",
+    "translation": "критиковать",
+    "collocations": [
+      "criticise someone for (doing) something"
+    ],
+    "baseWord": "criticism"
+  },
+  {
+    "word": "critic",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the new theatre was criticised for being ugly",
+    "translation": "критик",
+    "collocations": [
+      "criticise someone for (doing) something"
+    ],
+    "baseWord": "criticism"
+  },
+  {
+    "word": "critical",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she’s always making critical comments about my piano playing",
+    "translation": "критический, неодобрительный",
+    "collocations": [
+      "criticise someone for (doing) something"
+    ],
+    "baseWord": "criticism"
+  },
+  {
+    "word": "critically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he spoke critically of the company’s failure to recruit good staff",
+    "translation": "критически, неодобрительно",
+    "collocations": [
+      "criticise someone for (doing) something"
+    ],
+    "baseWord": "criticism"
+  },
+  {
+    "word": "diplomatic",
+    "transcription": "ˌdɪpləˈmætɪk",
+    "pos": "adjective",
+    "definition": "someone who is diplomatic is always careful about what they say, making sure that they do not offend anyone",
+    "example": "she’s always very diplomatic",
+    "translation": "дипломатичный, тактичный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "diplomatically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he answered all her questions diplomatically, if not truthfully",
+    "translation": "дипломатично, тактично",
+    "collocations": [],
+    "baseWord": "diplomatic"
+  },
+  {
+    "word": "direct",
+    "transcription": "dɪˈrekt",
+    "pos": "adjective",
+    "definition": "someone who is direct always says exactly what they think, even if it might upset or offend people",
+    "example": "she’s always very direct and says what she means",
+    "translation": "прямой, откровенный (в высказываниях)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "go off",
+    "transcription": "ˌɡəʊ ˈɒf",
+    "pos": "phrasal verb",
+    "definition": "if you go off somewhere, you leave where you are and go somewhere else for a while",
+    "example": "I could go off and have a coffee and she’d still be talking when I got back",
+    "translation": "уходить, отлучаться (ненадолго)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "intense",
+    "transcription": "ɪnˈtens",
+    "pos": "adjective",
+    "definition": "if someone is intense, they are very serious in the way they talk and behave",
+    "example": "she’s very focused, very intense",
+    "translation": "напряженный, серьезный (по характеру)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "intensity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she looked at me with real intensity",
+    "translation": "напряженность, интенсивность",
+    "collocations": [],
+    "baseWord": "intense"
+  },
+  {
+    "word": "loyal",
+    "transcription": "ˈlɔɪəl",
+    "pos": "adjective",
+    "definition": "someone who is loyal supports someone or something reliably and without changing",
+    "example": "he’s very loyal — always there for you when you need him",
+    "translation": "верный, преданный",
+    "collocations": [
+      "fiercely loyal",
+      "loyal support",
+      "remain loyal (to someone or something)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "loyally",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "despite the setbacks, they loyally supported him",
+    "translation": "верно, преданно",
+    "collocations": [
+      "fierce/great loyalty",
+      "blind loyalty",
+      "inspire loyalty",
+      "show loyalty",
+      "demand/expect loyalty"
+    ],
+    "baseWord": "loyal"
+  },
+  {
+    "word": "loyalty",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the servants showed great loyalty even when times were difficult",
+    "translation": "верность, преданность",
+    "collocations": [
+      "fierce/great loyalty",
+      "blind loyalty",
+      "inspire loyalty",
+      "show loyalty",
+      "demand/expect loyalty"
+    ],
+    "baseWord": "loyal"
+  },
+  {
+    "word": "disloyal",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "after 20 years with the company, it felt disloyal to leave and work for a competitor",
+    "translation": "неверный, предательский, непреданный",
+    "collocations": [
+      "fierce/great loyalty",
+      "blind loyalty",
+      "inspire loyalty",
+      "show loyalty",
+      "demand/expect loyalty"
+    ],
+    "baseWord": "loyal"
+  },
+  {
+    "word": "modest",
+    "transcription": "ˈmɒdɪst",
+    "pos": "adjective",
+    "definition": "someone who is modest does not like to talk about their successes or abilities",
+    "example": "he’s very successful, but also incredibly modest",
+    "translation": "скромный",
+    "collocations": [
+      "be modest about something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "modestly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "“I was just one of the team,” he said modestly",
+    "translation": "скромно",
+    "collocations": [],
+    "baseWord": "modest"
+  },
+  {
+    "word": "modesty",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he described the achievement with great modesty",
+    "translation": "скромность",
+    "collocations": [],
+    "baseWord": "modest"
+  },
+  {
+    "word": "naughty",
+    "transcription": "ˈnɔːti",
+    "pos": "adjective",
+    "definition": "if children are naughty, they behave badly and do things they are not supposed to do",
+    "example": "his children are really naughty",
+    "translation": "непослушный, шаловливый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "personally",
+    "transcription": "ˈpɜː(r)s(ə)nəli",
+    "pos": "adverb",
+    "definition": "if you take something personally that someone has said to you, you are offended by it because you feel they are criticising you and not anyone else. If you criticise someone personally, you deliberately say something critical about them",
+    "example": "he gets upset easily and takes things very personally",
+    "translation": "лично, на свой счет",
+    "collocations": [
+      "take something personally"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "personal",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s nothing personal – I just meant you need to practise more",
+    "translation": "личный",
+    "collocations": [],
+    "baseWord": "personally"
+  },
+  {
+    "word": "push",
+    "transcription": "pʊʃ",
+    "pos": "verb",
+    "definition": "if you push yourself, you make yourself work hard because you want to achieve something important or significant. If you push someone else to do something, you make them do it by encouraging them very firmly or forcing them to do it",
+    "example": "they really push pupils to achieve high marks",
+    "translation": "подталкивать, заставлять стараться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "push",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he’s clever enough, but lazy. He needs a bit of a push",
+    "translation": "толчок, стимул",
+    "collocations": [],
+    "baseWord": "push"
+  },
+  {
+    "word": "scholarship",
+    "transcription": "ˈskɒlə(r)ʃɪp",
+    "pos": "noun",
+    "definition": "a scholarship is money that is given to someone by an organisation so that they can afford to go to school or university",
+    "example": "he won a scholarship to study physics at Cambridge",
+    "translation": "стипендия",
+    "collocations": [
+      "win a scholarship"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sensitive",
+    "transcription": "ˈsensətɪv",
+    "pos": "adjective",
+    "definition": "someone who is sensitive is easily affected by what other people say about them and gets offended very easily",
+    "example": "he’s very sensitive and gets upset very easily",
+    "translation": "чувствительный, ранимый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sensitivity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "you need to consider her sensitivities more",
+    "translation": "чувствительность, ранимость",
+    "collocations": [],
+    "baseWord": "sensitive"
+  },
+  {
+    "word": "show off",
+    "transcription": "ˈʃəʊ ˌɒf",
+    "pos": "phrasal verb",
+    "definition": "if someone is showing off, they are trying to impress people by talking about their achievements or possessions in a very annoying way",
+    "example": "he never shows off or boasts about anything",
+    "translation": "хвастаться, красоваться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "show-off",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was a show-off and worse, a liar",
+    "translation": "хвастун",
+    "collocations": [],
+    "baseWord": "show off"
+  },
+  {
+    "word": "shy",
+    "transcription": "ʃaɪ",
+    "pos": "adjective",
+    "definition": "someone who is shy feels nervous when they are with other people and finds it difficult to talk, especially with people they do not know",
+    "example": "she’s very quiet and shy",
+    "translation": "застенчивый, робкий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "shyly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the brothers looked shyly at their mother’s friend",
+    "translation": "застенчиво, робко",
+    "collocations": [],
+    "baseWord": "shy"
+  },
+  {
+    "word": "sweet",
+    "transcription": "swiːt",
+    "pos": "adjective",
+    "definition": "if someone is sweet, they are pleasant, kind, and nice to other people",
+    "example": "he’s very sweet and affectionate",
+    "translation": "милый, добрый, приятный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sweetly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she smiled sweetly and sat down",
+    "translation": "мило, ласково",
+    "collocations": [],
+    "baseWord": "sweet"
+  },
+  {
+    "word": "active",
+    "transcription": "ˈæktɪv",
+    "pos": "adjective",
+    "definition": "if someone is active in a role or organisation, they take part and do things rather than just saying they support it",
+    "example": "we can play an active role in helping with childcare",
+    "translation": "активный, деятельный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "actively",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he is actively involved in his local church",
+    "translation": "активно",
+    "collocations": [],
+    "baseWord": "active"
+  },
+  {
+    "word": "childcare",
+    "transcription": "ˈtʃaɪldˌkeə(r)",
+    "pos": "noun",
+    "definition": "childcare is all the activity involved in looking after children. Childcare also refers to the arrangements that working people make for someone to look after their children while they are at work",
+    "example": "we can play an active role in helping with childcare",
+    "translation": "уход за детьми",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "complication",
+    "transcription": "ˌkɒmplɪˈkeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "complications are problems that make a situation or task more difficult to deal with",
+    "example": "one further complication was that my passport had expired",
+    "translation": "осложнение, сложность",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "contrary",
+    "transcription": "ˈkɒntrəri",
+    "pos": "adjective",
+    "definition": "if something is true contrary to what people think, it really is true although most people do not realise it and think the situation is different",
+    "example": "contrary to common belief, the average age of becoming a grandparent is 51",
+    "translation": "вопреки, противоположный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "contribute",
+    "transcription": "kənˈtrɪbjuːt",
+    "pos": "verb",
+    "definition": "if you contribute to something, you provide something useful either by what you say or what you do",
+    "example": "grandchildren contribute to the relationship by helping their grandparents stay up-to-date",
+    "translation": "вносить вклад, способствовать",
+    "collocations": [
+      "contribute (something) to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "contribution",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his book was a valuable contribution to modern literature",
+    "translation": "вклад",
+    "collocations": [
+      "make a contribution"
+    ],
+    "baseWord": "contribute"
+  },
+  {
+    "word": "estimate",
+    "transcription": "ˈestɪmeɪt",
+    "pos": "verb",
+    "definition": "if you estimate something, you try to work out its approximate amount, value, or strength",
+    "example": "experts estimate it will take 1,000 tons of rock to fill the hole",
+    "translation": "оценивать, подсчитывать приблизительно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "estimate",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "at a rough estimate, it will cost between two and three thousand pounds",
+    "translation": "оценка, приблизительный подсчет",
+    "collocations": [
+      "a rough estimate"
+    ],
+    "baseWord": "estimate"
+  },
+  {
+    "word": "estimation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a rough estimation of the Sun’s temperature",
+    "translation": "оценка, приблизительный расчет",
+    "collocations": [
+      "a rough estimate"
+    ],
+    "baseWord": "estimate"
+  },
+  {
+    "word": "estimated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an estimated 300 soldiers were killed or wounded",
+    "translation": "примерный, приблизительный (оценочный)",
+    "collocations": [
+      "a rough estimate"
+    ],
+    "baseWord": "estimate"
+  },
+  {
+    "word": "fond",
+    "transcription": "fɒnd",
+    "pos": "adjective",
+    "definition": "if you have fond memories of someone or something, it always gives you pleasure when you think about them or remember them",
+    "example": "I have fond memories of my grandmother",
+    "translation": "теплый, нежный (о воспоминаниях)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fondly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I’ll always fondly remember those summers spent in Ireland",
+    "translation": "тепло, с нежностью",
+    "collocations": [],
+    "baseWord": "fond"
+  },
+  {
+    "word": "fondness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she remembers her grandparents with fondness",
+    "translation": "нежность, теплое чувство",
+    "collocations": [],
+    "baseWord": "fond"
+  },
+  {
+    "word": "interfere",
+    "transcription": "ˌɪntə(r)ˈfɪə(r)",
+    "pos": "verb",
+    "definition": "if you interfere, you become involved in a situation when your help or advice is not wanted",
+    "example": "grandparents should not interfere with their children’s parenting",
+    "translation": "вмешиваться",
+    "collocations": [
+      "interfere in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "interference",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we cannot accept any interference in our internal procedures",
+    "translation": "вмешательство",
+    "collocations": [
+      "interference in/with something"
+    ],
+    "baseWord": "interfere"
+  },
+  {
+    "word": "interfering",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an interfering neighbour",
+    "translation": "назойливый, вмешивающийся не в свои дела",
+    "collocations": [
+      "interference in/with something"
+    ],
+    "baseWord": "interfere"
+  },
+  {
+    "word": "leisure",
+    "transcription": "ˈleʒə(r)",
+    "pos": "noun",
+    "definition": "leisure is time when people are not working and can do activities that they enjoy",
+    "example": "we’ll have to spend less on leisure and travel",
+    "translation": "досуг, свободное время",
+    "collocations": [
+      "leisure time",
+      "leisure pursuits/activities"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "notion",
+    "transcription": "ˈnəʊʃ(ə)n",
+    "pos": "noun",
+    "definition": "a notion is an idea or belief or opinion about something",
+    "example": "my notion of the role of grandparents is problematic",
+    "translation": "понятие, представление, идея",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pose",
+    "transcription": "pəʊz",
+    "pos": "verb",
+    "definition": "if something poses some kind of danger or problem, it causes it",
+    "example": "bare wires pose a risk of electric shock",
+    "translation": "представлять (опасность, проблему)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "potentially",
+    "transcription": "pəˈtenʃəli",
+    "pos": "adverb",
+    "definition": "you use potentially to say that something might happen or become possible in the future",
+    "example": "we can potentially play a more active role in helping with childcare",
+    "translation": "потенциально, возможно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "potential",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he has the potential to become a great golfer",
+    "translation": "потенциал",
+    "collocations": [],
+    "baseWord": "potentially"
+  },
+  {
+    "word": "potential",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he has the potential to become a great golfer",
+    "translation": "потенциальный, возможный",
+    "collocations": [],
+    "baseWord": "potentially"
+  },
+  {
+    "word": "reluctant",
+    "transcription": "rɪˈlʌktənt",
+    "pos": "adjective",
+    "definition": "if you are reluctant to do something, you do not really want to do it",
+    "example": "I was reluctant to give up my job",
+    "translation": "не желающий, делающий неохотно",
+    "collocations": [
+      "be reluctant to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "reluctantly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he came with us rather reluctantly",
+    "translation": "неохотно",
+    "collocations": [
+      "reluctantly agree (to do something)",
+      "reluctantly accept something"
+    ],
+    "baseWord": "reluctant"
+  },
+  {
+    "word": "reluctance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I couldn’t understand his reluctance to go on the trip",
+    "translation": "нежелание, неохота",
+    "collocations": [
+      "with reluctance"
+    ],
+    "baseWord": "reluctant"
+  },
+  {
+    "word": "role",
+    "transcription": "rəʊl",
+    "pos": "noun",
+    "definition": "your role is the purpose or position that you have in a particular situation",
+    "example": "we can potentially play a more active role in helping with childcare",
+    "translation": "роль",
+    "collocations": [
+      "play a role",
+      "a major role",
+      "an important role"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "rule",
+    "transcription": "ruːl",
+    "pos": "verb",
+    "definition": "if someone rules in a situation, their influence and power is greater than anyone else’s, and they control what happens",
+    "example": "a lack of discipline can produce spoilt children who rule the house",
+    "translation": "властвовать, командовать, заправлять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sacrifice",
+    "transcription": "ˈsækrɪfaɪs",
+    "pos": "noun",
+    "definition": "if you make a sacrifice, you give something up in order to be able to do or have something else instead",
+    "example": "being president demands a lot of sacrifice",
+    "translation": "жертва",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sacrifice",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we need to increase productivity without sacrificing quality",
+    "translation": "жертвовать",
+    "collocations": [],
+    "baseWord": "sacrifice"
+  },
+  {
+    "word": "spoil",
+    "transcription": "spɔɪl",
+    "pos": "verb",
+    "definition": "if parents spoil a child, they always allow the child to have whatever he or she wants, which can have a bad effect on the way the child behaves and develops",
+    "example": "my grandmother would spoil us the whole time we were there",
+    "translation": "баловать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "spoilt or spoiled",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she acted like a spoiled child, doing whatever she wanted",
+    "translation": "избалованный",
+    "collocations": [],
+    "baseWord": "spoil"
+  },
+  {
+    "word": "status",
+    "transcription": "ˈsteɪtəs",
+    "pos": "noun",
+    "definition": "someone’s status is the role or position that they have in society, as seen by other people",
+    "example": "I’m not yet comfortable with my new status as a grandmother",
+    "translation": "статус, положение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stereotype",
+    "transcription": "ˈsteriəˌtaɪp",
+    "pos": "noun",
+    "definition": "a stereotype is something that people think is typical of a particular person, place, or thing, especially when this belief is unfair or untrue",
+    "example": "the stereotype of a granny is an old lady with white hair and glasses",
+    "translation": "стереотип",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stereotypical",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she spoke with a stereotypical Liverpool accent",
+    "translation": "стереотипный",
+    "collocations": [],
+    "baseWord": "stereotype"
+  },
+  {
+    "word": "stereotypically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "women are stereotypically more emotional than men",
+    "translation": "стереотипно",
+    "collocations": [],
+    "baseWord": "stereotype"
+  },
+  {
+    "word": "stereotype",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she spoke with a stereotypical Liverpool accent",
+    "translation": "воспринимать стереотипно, судить по стереотипу",
+    "collocations": [],
+    "baseWord": "stereotype"
+  },
+  {
+    "word": "turn",
+    "transcription": "tɜː(r)n",
+    "pos": "verb",
+    "definition": "if you turn a particular age, you become that old",
+    "example": "I only recently turned 50",
+    "translation": "исполняться (о возрасте)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "typical",
+    "transcription": "ˈtɪpɪk(ə)l",
+    "pos": "adjective",
+    "definition": "something that is typical is normal and has all the same features as most of the other things of the same sort",
+    "example": "she looked like my idea of a typical granny",
+    "translation": "типичный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "typically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "typically, each exam is taken by about 2,000 students",
+    "translation": "обычно, как правило",
+    "collocations": [],
+    "baseWord": "typical"
+  },
+  {
+    "word": "vague",
+    "transcription": "veɪɡ",
+    "pos": "adjective",
+    "definition": "something that is vague is not clear or definite",
+    "example": "I had only vague memories of my own grandparents",
+    "translation": "смутный, неясный, расплывчатый",
+    "collocations": [
+      "a vague idea/memory",
+      "a vague impression",
+      "a vague feeling"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "vaguely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I can vaguely remember my first day at school",
+    "translation": "смутно, неясно",
+    "collocations": [],
+    "baseWord": "vague"
+  },
+  {
+    "word": "apologise",
+    "transcription": "əˈpɒlədʒaɪz",
+    "pos": "verb",
+    "definition": "if you apologise, you say that you are sorry for something bad or wrong that have done or said",
+    "example": "we’re both very stubborn and I didn’t want to be the first to apologise",
+    "translation": "извиняться",
+    "collocations": [
+      "apologise for (doing) something",
+      "apologise to someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "apology",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "please accept my sincere apology for not replying earlier",
+    "translation": "извинение",
+    "collocations": [
+      "an apology for something",
+      "demand an apology",
+      "owe someone an apology",
+      "accept an apology"
+    ],
+    "baseWord": "apologise"
+  },
+  {
+    "word": "apologetic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was very apologetic and said he would never drink again",
+    "translation": "извиняющийся, виноватый",
+    "collocations": [
+      "an apology for something",
+      "demand an apology",
+      "owe someone an apology",
+      "accept an apology"
+    ],
+    "baseWord": "apologise"
+  },
+  {
+    "word": "apologetically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the waiter apologetically explained that they had no more steak",
+    "translation": "извиняющимся тоном",
+    "collocations": [
+      "an apology for something",
+      "demand an apology",
+      "owe someone an apology",
+      "accept an apology"
+    ],
+    "baseWord": "apologise"
+  },
+  {
+    "word": "awkward",
+    "transcription": "ˈɔːkwə(r)d",
+    "pos": "adjective",
+    "definition": "an awkward situation is one in which people feel slightly embarrassed",
+    "example": "it was quite awkward meeting her again after all that time",
+    "translation": "неловкий, неудобный (о ситуации)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "awkwardly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we shook hands a little awkwardly, then left",
+    "translation": "неловко",
+    "collocations": [],
+    "baseWord": "awkward"
+  },
+  {
+    "word": "bump into",
+    "transcription": "ˌbʌmp ˈɪntuː",
+    "pos": "phrasal verb",
+    "definition": "if you bump into someone you know, you meet them unexpectedly somewhere because you are both there at the same time",
+    "example": "a few years later, I bumped into her at a conference",
+    "translation": "случайно встретить, столкнуться (с кем-то)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "date",
+    "transcription": "deɪt",
+    "pos": "verb",
+    "definition": "if you are dating someone, you see them regularly because you are starting a romantic relationship with them",
+    "example": "we dated for two years before we got engaged",
+    "translation": "встречаться (романтически)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "date",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they went to the cinema on their first date",
+    "translation": "свидание",
+    "collocations": [],
+    "baseWord": "date"
+  },
+  {
+    "word": "drift",
+    "transcription": "drɪft",
+    "pos": "verb",
+    "definition": "if things are drifting, no one is controlling events or planning what should happen. If two people drift apart, they gradually become less friendly or their relationship gradually ends because neither of them does anything to keep the friendship alive",
+    "example": "people drift apart because they don’t have enough in common",
+    "translation": "отдаляться (друг от друга), расходиться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fall out",
+    "transcription": "ˌfɔːl ˈaʊt",
+    "pos": "phrasal verb",
+    "definition": "if you fall out with someone, you have an argument with them and you both stop talking to each other",
+    "example": "look – I don’t want to fall out with you about this",
+    "translation": "поссориться, разругаться",
+    "collocations": [
+      "fall out with someone",
+      "fall out over something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "falling-out",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we had a big falling-out a few years ago",
+    "translation": "ссора, размолвка",
+    "collocations": [],
+    "baseWord": "fall out"
+  },
+  {
+    "word": "glad",
+    "transcription": "ɡlæd",
+    "pos": "adjective",
+    "definition": "if you are glad about something, you are happy about it. If you are glad to do something, you are very willing to do it",
+    "example": "I’m glad we split up",
+    "translation": "рад, довольный",
+    "collocations": [
+      "glad that",
+      "be glad to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "gladly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "our support team will gladly help you",
+    "translation": "охотно, с радостью",
+    "collocations": [],
+    "baseWord": "glad"
+  },
+  {
+    "word": "hang out",
+    "transcription": "ˌhæŋ ˈaʊt",
+    "pos": "phrasal verb",
+    "definition": "if you hang out with someone, you spend a lot of your free time with them. If you hang out somewhere, you spend a lot of your free time there",
+    "example": "we used to hang out together all the time",
+    "translation": "проводить время (вместе), тусоваться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "idiot",
+    "transcription": "ˈɪdiət",
+    "pos": "noun",
+    "definition": "if you say that someone is an idiot, you mean they are very foolish or stupid",
+    "example": "our boss was a bit of an idiot",
+    "translation": "идиот, дурак",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "idiotic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "that was an idiotic thing to do",
+    "translation": "идиотский, глупый",
+    "collocations": [],
+    "baseWord": "idiot"
+  },
+  {
+    "word": "in touch",
+    "transcription": "ɪn ˈtʌtʃ",
+    "pos": "phrase",
+    "definition": "if you are in touch with someone, you still see them and talk to them sometimes. If you lose touch, you stop seeing them or talking to them, especially when they move to a different town",
+    "example": "we still keep in touch via Facebook",
+    "translation": "на связи, поддерживать связь",
+    "collocations": [
+      "keep in touch",
+      "stay in touch",
+      "lose touch"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "meet up",
+    "transcription": "ˌmiːt ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if two or more people meet up, they go somewhere they have arranged to go to in order to do something together socially",
+    "example": "let’s meet up in the main square at 7 tonight",
+    "translation": "встречаться (договорившись заранее)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "move",
+    "transcription": "muːv",
+    "pos": "noun",
+    "definition": "a move is something that you do as part of an attempt to achieve something",
+    "example": "she made the first move in their relationship",
+    "translation": "шаг, действие (для достижения цели)",
+    "collocations": [
+      "make a move",
+      "a wise move"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "outgoing",
+    "transcription": "ˈaʊtɡəʊɪŋ",
+    "pos": "adjective",
+    "definition": "someone who is outgoing is friendly and lively, and likes meeting new people",
+    "example": "Sandra remembers him as a very outgoing person",
+    "translation": "общительный, открытый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "personality",
+    "transcription": "ˌpɜː(r)səˈnæləti",
+    "pos": "noun",
+    "definition": "someone’s personality is their character and how they usually appear to other people",
+    "example": "she has a very outgoing personality",
+    "translation": "личность, характер",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "regret",
+    "transcription": "rɪˈɡret",
+    "pos": "verb",
+    "definition": "if you regret something you have done, you feel bad about it and wish you hadn’t done it",
+    "example": "I deeply regret what happened that day in Rome",
+    "translation": "сожалеть",
+    "collocations": [
+      "bitterly/deeply regret something",
+      "regret doing something",
+      "regret that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "regret",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he has finally expressed regret for his unacceptable behaviour",
+    "translation": "сожаление",
+    "collocations": [
+      "regret for something"
+    ],
+    "baseWord": "regret"
+  },
+  {
+    "word": "remain",
+    "transcription": "rɪˈmeɪn",
+    "pos": "verb",
+    "definition": "to remain in a particular state or condition means to stay that way without changing",
+    "example": "we’ve remained friends ever since primary school",
+    "translation": "оставаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stubborn",
+    "transcription": "ˈstʌbə(r)n",
+    "pos": "adjective",
+    "definition": "someone who is stubborn does not like to change their mind about anything and does not listen to people who try to persuade them to change",
+    "example": "we’re both very stubborn and I didn’t want to be the first to apologise",
+    "translation": "упрямый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stubbornly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "Patrick shook his head stubbornly",
+    "translation": "упрямо",
+    "collocations": [],
+    "baseWord": "stubborn"
+  },
+  {
+    "word": "stubbornness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my father used to get so angry at her stubbornness via  /ˈvaɪə/ Preposition via something means by using that thing or by going through that place we kept in touch via email and social media",
+    "translation": "упрямство",
+    "collocations": [],
+    "baseWord": "stubborn"
+  },
+  {
+    "word": "wish",
+    "transcription": "wɪʃ",
+    "pos": "verb",
+    "definition": "if you wish something, you want it to be true although you know it is impossible",
+    "example": "I wish I hadn’t left school when I was still so young",
+    "translation": "желать (о несбыточном), жаль что",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "adaptable",
+    "transcription": "əˈdæptəb(ə)l",
+    "pos": "adjective",
+    "definition": "someone or something that is adaptable can change when necessary in order to succeed at something",
+    "example": "these plants are highly adaptable to most environments",
+    "translation": "приспособляемый, гибкий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "adapt",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we need to adapt to living with climate change",
+    "translation": "приспосабливаться, адаптироваться",
+    "collocations": [],
+    "baseWord": "adaptable"
+  },
+  {
+    "word": "adaptation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "plants have evolved many adaptations to cope with fire",
+    "translation": "приспособление, адаптация",
+    "collocations": [],
+    "baseWord": "adaptable"
+  },
+  {
+    "word": "ancestor",
+    "transcription": "ˈænsestə(r)",
+    "pos": "noun",
+    "definition": "your ancestors are all the members of your family who lived before you, your grandparents, their parents, and so on into the past",
+    "example": "my ancestors came over with William the Conqueror in 1066",
+    "translation": "предок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ancestry",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’m English, but I have some Spanish ancestry through my great-grandfather",
+    "translation": "происхождение, родословная",
+    "collocations": [],
+    "baseWord": "ancestor"
+  },
+  {
+    "word": "blade",
+    "transcription": "bleɪd",
+    "pos": "noun",
+    "definition": "on a knife, sword, axe etc the blade is the flat part with a sharp edge",
+    "example": "make sure you keep the blade sharp and clean",
+    "translation": "лезвие",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cultivation",
+    "transcription": "ˌkʌltɪˈveɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "cultivation is the preparation of land and the growing of plants on it, usually for food",
+    "example": "cultivation of crops has been going on here for three thousand years",
+    "translation": "возделывание, выращивание, культивация",
+    "collocations": [
+      "be under cultivation"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "cultivate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "rice and other crops are cultivated in the valleys",
+    "translation": "возделывать, выращивать",
+    "collocations": [],
+    "baseWord": "cultivation"
+  },
+  {
+    "word": "reveal",
+    "transcription": "rɪˈviːl",
+    "pos": "verb",
+    "definition": "to reveal something means to make it known, especially when it was something that was previously unknown or secret",
+    "example": "this newspaper can exclusively reveal the date of the next election",
+    "translation": "раскрывать, обнаруживать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "revelation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the revelation came as a surprise to his friends, and even to his family",
+    "translation": "разоблачение, откровение",
+    "collocations": [],
+    "baseWord": "reveal"
+  },
+  {
+    "word": "sample",
+    "transcription": "ˈsɑːmp(ə)l",
+    "pos": "noun",
+    "definition": "a sample of something is a small piece of it which can be used to provide information about the whole thing",
+    "example": "he was sent a sample issue of the magazine",
+    "translation": "образец, проба",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "trace",
+    "transcription": "treɪs",
+    "pos": "verb",
+    "definition": "if you trace the beginning and development of something, you find out how it started and what happened as it developed through time",
+    "example": "the project aims to trace the route taken by our ancestors from Africa",
+    "translation": "прослеживать, отслеживать (историю, происхождение)",
+    "collocations": [],
+    "baseWord": null
+  }
+]

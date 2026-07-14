@@ -1,0 +1,1477 @@
+[
+  {
+    "word": "accountant",
+    "transcription": "əˈkaʊntənt",
+    "pos": "noun",
+    "definition": "an accountant is someone whose job is to organise the financial records for a company or for a person",
+    "example": "he’s an accountant for a big law firm",
+    "translation": "бухгалтер",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "accounts",
+    "transcription": "əˈkaʊnts",
+    "pos": "noun",
+    "definition": "accounts are the financial records of a person or organisation",
+    "example": "I’m in the accounts department",
+    "translation": "бухгалтерия, счета, финансовая отчетность",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "accountancy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he wants to study accountancy",
+    "translation": "бухгалтерский учет",
+    "collocations": [],
+    "baseWord": "accountant"
+  },
+  {
+    "word": "labourer",
+    "transcription": "ˈleɪbərə(r)",
+    "pos": "noun",
+    "definition": "a labourer is someone whose job involves using physical strength",
+    "example": "she was the daughter of a farm labourer from Sussex",
+    "translation": "разнорабочий, чернорабочий",
+    "collocations": [
+      "a farm labourer",
+      "an unskilled labourer"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "plumber",
+    "transcription": "ˈplʌmə(r)",
+    "pos": "noun",
+    "definition": "a plumber is someone whose job is to repair and connect water pipes, sinks, baths, toilets etc",
+    "example": "a good plumber can earn a lot of money",
+    "translation": "сантехник",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "plumbing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "check the plumbing for leaks and loose pipes",
+    "translation": "сантехника, водопровод",
+    "collocations": [],
+    "baseWord": "plumber"
+  },
+  {
+    "word": "repetitive",
+    "transcription": "rɪˈpetətɪv",
+    "pos": "adjective",
+    "definition": "something that is repetitive happens again and again, often in a very boring way",
+    "example": "working in the factory involved doing a series of repetitive tasks",
+    "translation": "повторяющийся, однообразный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "repeat",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "my music practice involves repeating the same exercise several times",
+    "translation": "повторять",
+    "collocations": [],
+    "baseWord": "repetitive"
+  },
+  {
+    "word": "surgeon",
+    "transcription": "ˈsɜː(r)dʒ(ə)n",
+    "pos": "noun",
+    "definition": "a surgeon is a doctor who cuts people’s bodies open in order to repair them or replace parts of them",
+    "example": "it takes years of training to become a surgeon",
+    "translation": "хирург",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "trader",
+    "transcription": "ˈtreɪdə(r)",
+    "pos": "noun",
+    "definition": "trade is the business of buying and selling or exchanging things. A trader is someone who buys and sells or exchanges goods",
+    "example": "her great-grandfather was a fur trader in Canada",
+    "translation": "торговец",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "trade",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the company does a lot of trade with China",
+    "translation": "торговля",
+    "collocations": [],
+    "baseWord": "trader"
+  },
+  {
+    "word": "trade",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the company does a lot of trade with China",
+    "translation": "торговать",
+    "collocations": [],
+    "baseWord": "trader"
+  },
+  {
+    "word": "trading",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it was a major trading centre for wool",
+    "translation": "торговля, торговое дело",
+    "collocations": [],
+    "baseWord": "trader"
+  },
+  {
+    "word": "truck",
+    "transcription": "trʌk",
+    "pos": "noun",
+    "definition": "a truck is a very large road vehicle that is used for transporting goods. In British English, the word lorry is often used instead of truck",
+    "example": "the truck was carrying a load of bricks",
+    "translation": "грузовик",
+    "collocations": [
+      "a truck driver"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "admin",
+    "transcription": "ˈædmɪn",
+    "pos": "noun",
+    "definition": "admin is all the tasks involved in organising the management of an organisation. The word admin is short for administration",
+    "example": "the job mostly involves admin and paperwork",
+    "translation": "административная работа, бумажная волокита",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bonus",
+    "transcription": "ˈbəʊnəs",
+    "pos": "noun",
+    "definition": "a bonus is extra money you get from your employer because you have worked hard or done well",
+    "example": "he gets a big bonus every year on top of his salary",
+    "translation": "премия, бонус",
+    "collocations": [
+      "an annual bonus"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "competitive",
+    "transcription": "kəmˈpetətɪv",
+    "pos": "adjective",
+    "definition": "if an activity is competitive, everyone doing it is trying hard to do better and be more successful than everyone else",
+    "example": "advertising is a highly competitive industry",
+    "translation": "конкурентный, конкурентоспособный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "compete",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "small companies find it hard to compete in the market",
+    "translation": "конкурировать, соперничать",
+    "collocations": [],
+    "baseWord": "competitive"
+  },
+  {
+    "word": "competition",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s a lot of competition for jobs",
+    "translation": "конкуренция",
+    "collocations": [],
+    "baseWord": "competitive"
+  },
+  {
+    "word": "conditions",
+    "transcription": "kənˈdɪʃ(ə)nz",
+    "pos": "noun",
+    "definition": "someone’s living or working conditions are all the things that affect the way they are able to live or work",
+    "example": "working conditions in the factory were unacceptable",
+    "translation": "условия (труда)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "deadline",
+    "transcription": "ˈdedˌlaɪn",
+    "pos": "noun",
+    "definition": "a deadline is the time or date by which you have to finish a particular piece of work",
+    "example": "I have a deadline to meet by Friday",
+    "translation": "крайний срок, дедлайн",
+    "collocations": [
+      "meet a deadline",
+      "miss a deadline",
+      "a tight deadline"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "delivery",
+    "transcription": "dɪˈlɪv(ə)ri",
+    "pos": "noun",
+    "definition": "delivery is the act of taking things such as goods or letters to a place",
+    "example": "my job was to prepare all the orders for delivery",
+    "translation": "доставка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "deliver",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we can deliver direct to your door",
+    "translation": "доставлять",
+    "collocations": [],
+    "baseWord": "delivery"
+  },
+  {
+    "word": "demanding",
+    "transcription": "dɪˈmɑːndɪŋ",
+    "pos": "adjective",
+    "definition": "a situation or person that is demanding is difficult to deal with because they need a lot of your time or energy",
+    "example": "it’s a physically demanding job",
+    "translation": "требовательный, трудный, изнурительный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "demand",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the lessons will demand all your attention",
+    "translation": "требовать",
+    "collocations": [],
+    "baseWord": "demanding"
+  },
+  {
+    "word": "demand",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the lessons will demand all your attention",
+    "translation": "требование",
+    "collocations": [],
+    "baseWord": "demanding"
+  },
+  {
+    "word": "dull",
+    "transcription": "dʌl",
+    "pos": "adjective",
+    "definition": "something that is dull is not very interesting",
+    "example": "the job’s a bit dull but the pay is good",
+    "translation": "скучный, монотонный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "field",
+    "transcription": "fiːld",
+    "pos": "noun",
+    "definition": "a field is a particular kind of activity",
+    "example": "lots of people want to get into that field",
+    "translation": "сфера, область (деятельности)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fortune",
+    "transcription": "ˈfɔː(r)tʃən",
+    "pos": "noun",
+    "definition": "a fortune is a large amount of money",
+    "example": "she must be earning a fortune",
+    "translation": "состояние, целое состояние (крупная сумма денег)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "in charge",
+    "transcription": "ɪn ˈtʃɑː(r)dʒ",
+    "pos": "phrase",
+    "definition": "if you are in charge, you control something or are responsible for it",
+    "example": "I’m in charge of 30 staff",
+    "translation": "отвечать (за что-то), быть ответственным",
+    "collocations": [
+      "be in charge of something",
+      "be put in charge"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "insecure",
+    "transcription": "ˌɪnsɪˈkjʊə(r)",
+    "pos": "adjective",
+    "definition": "if the situation you are in is insecure, it is not safe or protected and might change to a worse situation",
+    "example": "having a short contract makes you feel very insecure",
+    "translation": "нестабильный, ненадежный, неуверенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "insecurity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "financial insecurity",
+    "translation": "нестабильность, неуверенность",
+    "collocations": [],
+    "baseWord": "insecure"
+  },
+  {
+    "word": "secure",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he found a secure job in the local factory",
+    "translation": "стабильный, надежный, защищенный",
+    "collocations": [],
+    "baseWord": "insecure"
+  },
+  {
+    "word": "security",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "nobody has job security any more",
+    "translation": "стабильность, защищенность (гарантия занятости)",
+    "collocations": [],
+    "baseWord": "insecure"
+  },
+  {
+    "word": "opposite",
+    "transcription": "ˈɒpəzɪt",
+    "pos": "noun",
+    "definition": "the opposite of a word is a different word whose meaning is as different as possible. For example, the opposite of “up” is “down”, and the opposite of “happy” is “sad”",
+    "example": "what’s the opposite of “old”?",
+    "translation": "противоположность, антоним",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "order",
+    "transcription": "ˈɔː(r)də(r)",
+    "pos": "noun",
+    "definition": "an order is a request to make, supply, or deliver something",
+    "example": "we need to complete this order by Saturday (get it ready to deliver to someone)",
+    "translation": "заказ",
+    "collocations": [
+      "place an order",
+      "complete an order"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "order",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’d like to order a taxi to the station",
+    "translation": "заказывать",
+    "collocations": [],
+    "baseWord": "order"
+  },
+  {
+    "word": "recruit",
+    "transcription": "rɪˈkruːt",
+    "pos": "verb",
+    "definition": "when a company recruits employees, it finds people to come and work for it",
+    "example": "my job was to recruit new programmers",
+    "translation": "нанимать, набирать (сотрудников)",
+    "collocations": [
+      "recruit someone into something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "recruitment",
+    "transcription": "rɪˈkruːtmənt",
+    "pos": "noun",
+    "definition": "recruitment is the business and activity of finding people to come and start working for an organisation or company",
+    "example": "I’m the manager responsible for recruitment",
+    "translation": "набор персонала, рекрутинг",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "respected",
+    "transcription": "rɪˈspektɪd",
+    "pos": "adjective",
+    "definition": "if someone or something is respected, people like and admire them",
+    "example": "a well-respected law firm",
+    "translation": "уважаемый",
+    "collocations": [
+      "highly/widely respected",
+      "well-respected"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "respect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if you behave badly, you’ll lose everyone’s respect",
+    "translation": "уважать",
+    "collocations": [],
+    "baseWord": "respected"
+  },
+  {
+    "word": "respect",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "if you behave badly, you’ll lose everyone’s respect",
+    "translation": "уважение",
+    "collocations": [],
+    "baseWord": "respected"
+  },
+  {
+    "word": "responsibility",
+    "transcription": "rɪˌspɒnsəˈbɪləti",
+    "pos": "noun",
+    "definition": "your responsibilities are the things you have to deal with, especially when they are officially part of your job",
+    "example": "it’s an easy job with no real responsibility",
+    "translation": "ответственность, обязанность",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "responsible",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he is responsible for packing all the orders",
+    "translation": "ответственный (за что-то)",
+    "collocations": [
+      "be responsible for something"
+    ],
+    "baseWord": "responsibility"
+  },
+  {
+    "word": "rewarding",
+    "transcription": "rɪˈwɔː(r)dɪŋ",
+    "pos": "adjective",
+    "definition": "if something is rewarding, you get pleasure, money, or satisfaction by doing it job/career",
+    "example": "it’s a very rewarding job",
+    "translation": "приносящий удовлетворение, благодарный (о работе)",
+    "collocations": [
+      "hugely/richly rewarding",
+      "a rewarding hobby/pastime",
+      "a rewarding experience",
+      "a rewarding"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "reward",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he got the rewards for all his hard work",
+    "translation": "вознаграждать",
+    "collocations": [
+      "enjoy/obtain/get a reward (for/from something)"
+    ],
+    "baseWord": "rewarding"
+  },
+  {
+    "word": "reward",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he got the rewards for all his hard work",
+    "translation": "вознаграждение, награда",
+    "collocations": [
+      "enjoy/obtain/get a reward (for/from something)"
+    ],
+    "baseWord": "rewarding"
+  },
+  {
+    "word": "self-employed",
+    "transcription": "ˌself ɪmˈplɔɪd",
+    "pos": "adjective",
+    "definition": "if you are self-employed, you work for yourself and not as an employee of a company",
+    "example": "being self-employed can be quite insecure",
+    "translation": "работающий на себя, самозанятый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "self-employment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "after three years of self-employment I went back to working for a company",
+    "translation": "самозанятость",
+    "collocations": [],
+    "baseWord": "self-employed"
+  },
+  {
+    "word": "temporary",
+    "transcription": "ˈtemp(ə)rəri",
+    "pos": "adjective",
+    "definition": "if something is temporary, it only lasts for a limited period of time",
+    "example": "a temporary job",
+    "translation": "временный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "temporarily",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "several roads were temporarily closed during the storms",
+    "translation": "временно",
+    "collocations": [],
+    "baseWord": "temporary"
+  },
+  {
+    "word": "permanent",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he’s looking for a permanent job",
+    "translation": "постоянный",
+    "collocations": [],
+    "baseWord": "temporary"
+  },
+  {
+    "word": "permanently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "his knee was permanently damaged in the accident",
+    "translation": "постоянно, навсегда",
+    "collocations": [],
+    "baseWord": "temporary"
+  },
+  {
+    "word": "vague",
+    "transcription": "veɪɡ",
+    "pos": "adjective",
+    "definition": "something that is vague is not clear or definite",
+    "example": "he made some vague promises",
+    "translation": "смутный, неопределенный, расплывчатый",
+    "collocations": [
+      "a vague idea/memory",
+      "a vague impression",
+      "a vague feeling"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "vaguely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I can only vaguely remember my first day at school",
+    "translation": "смутно, неопределенно",
+    "collocations": [],
+    "baseWord": "vague"
+  },
+  {
+    "word": "varied",
+    "transcription": "ˈveərɪd",
+    "pos": "adjective",
+    "definition": "if something is varied, it changes a lot or it consists of lots of different kinds of things",
+    "example": "it’s a very varied job",
+    "translation": "разнообразный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "vary",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "prices vary quite a lot",
+    "translation": "варьироваться, различаться",
+    "collocations": [],
+    "baseWord": "varied"
+  },
+  {
+    "word": "variety",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they offer a wide variety of courses",
+    "translation": "разнообразие",
+    "collocations": [],
+    "baseWord": "varied"
+  },
+  {
+    "word": "code",
+    "transcription": "kəʊd",
+    "pos": "noun",
+    "definition": "a code is a set of rules that say what you are allowed to do",
+    "example": "is there a dress code for the party? (rules about what sort of clothes you are allowed to wear)",
+    "translation": "кодекс, свод правил",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "corruption",
+    "transcription": "kəˈrʌpʃ(ə)n",
+    "pos": "noun",
+    "definition": "corruption is dishonest and illegal behaviour by people who are in a position of power or authority",
+    "example": "they’re trying to reduce corruption",
+    "translation": "коррупция",
+    "collocations": [
+      "widespread corruption",
+      "political/financial corruption"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "corrupt",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "there are at least a dozen corrupt officials in the department",
+    "translation": "коррумпированный, продажный",
+    "collocations": [],
+    "baseWord": "corruption"
+  },
+  {
+    "word": "crisis",
+    "transcription": "ˈkraɪsɪs",
+    "pos": "noun",
+    "definition": "a crisis is a sudden and very serious problem that needs to be dealt with straight away",
+    "example": "there’s a crisis at the office",
+    "translation": "кризис",
+    "collocations": [
+      "an economic/financial crisis",
+      "a political crisis",
+      "a major/serious/deep crisis",
+      "resolve a crisis"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "discrimination",
+    "transcription": "dɪˌskrɪmɪˈneɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "discrimination is deliberately unfair treatment of a person or group of people",
+    "example": "discrimination still happens, even though it’s against the law",
+    "translation": "дискриминация",
+    "collocations": [
+      "discrimination against someone",
+      "racial/ gender/sex discrimination"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "discriminate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "critics say the new laws discriminate against women",
+    "translation": "дискриминировать, притеснять",
+    "collocations": [
+      "discriminate against someone"
+    ],
+    "baseWord": "discrimination"
+  },
+  {
+    "word": "discriminatory",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "discriminatory policies that gave benefits to the white residents",
+    "translation": "дискриминационный",
+    "collocations": [
+      "discriminate against someone"
+    ],
+    "baseWord": "discrimination"
+  },
+  {
+    "word": "employment",
+    "transcription": "ɪmˈplɔɪmənt",
+    "pos": "noun",
+    "definition": "employment is the state of having a job or of employing someone",
+    "example": "the government introduced new employment laws",
+    "translation": "занятость, трудоустройство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "employ",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the company employs over 2,000 workers",
+    "translation": "нанимать, предоставлять работу",
+    "collocations": [],
+    "baseWord": "employment"
+  },
+  {
+    "word": "employer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the company employs over 2,000 workers",
+    "translation": "работодатель",
+    "collocations": [],
+    "baseWord": "employment"
+  },
+  {
+    "word": "employee",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the company employs over 2,000 workers",
+    "translation": "работник, сотрудник",
+    "collocations": [],
+    "baseWord": "employment"
+  },
+  {
+    "word": "enforce",
+    "transcription": "ɪnˈfɔː(r)s",
+    "pos": "verb",
+    "definition": "to enforce a rule or law means to use your authority to make sure that it is obeyed",
+    "example": "the government doesn’t do enough to enforce the law",
+    "translation": "обеспечивать соблюдение (закона), приводить в исполнение",
+    "collocations": [
+      "enforce a law/rule",
+      "enforce a ban"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "enforcement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "law enforcement is a priority here",
+    "translation": "обеспечение соблюдения, применение (закона)",
+    "collocations": [],
+    "baseWord": "enforce"
+  },
+  {
+    "word": "environmental",
+    "transcription": "ɪnˌvaɪrənˈment(ə)l",
+    "pos": "adjective",
+    "definition": "environmental means relating to the protection of the air, land, and natural water on the earth",
+    "example": "the company was found guilty of breaking environmental laws",
+    "translation": "экологический, природоохранный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "environment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "stronger laws are needed to protect the environment",
+    "translation": "окружающая среда",
+    "collocations": [],
+    "baseWord": "environmental"
+  },
+  {
+    "word": "exception",
+    "transcription": "ɪkˈsepʃ(ə)n",
+    "pos": "noun",
+    "definition": "an exception is a person or thing that is different from others. If you make an exception, you deliberately do something that is different from what is meant to happen",
+    "example": "they made an exception in his case",
+    "translation": "исключение",
+    "collocations": [
+      "make an exception",
+      "without exception",
+      "with the exception of someone or something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "exceptional",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s an exceptional school (different from others because it is extremely good)",
+    "translation": "исключительный, выдающийся",
+    "collocations": [],
+    "baseWord": "exception"
+  },
+  {
+    "word": "exceptionally",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "an exceptionally gifted child (one who is much more clever than most other children)",
+    "translation": "исключительно, необычайно",
+    "collocations": [],
+    "baseWord": "exception"
+  },
+  {
+    "word": "expose",
+    "transcription": "ɪkˈspəʊz",
+    "pos": "verb",
+    "definition": "to expose someone to something means to make it possible that something harmful or dangerous will happen to them",
+    "example": "you mustn’t expose them to danger",
+    "translation": "подвергать (опасности, воздействию)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "exposure",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "prolonged exposure to sunlight can cause skin cancer",
+    "translation": "воздействие, подверженность (чему-либо)",
+    "collocations": [],
+    "baseWord": "expose"
+  },
+  {
+    "word": "fine",
+    "transcription": "faɪn",
+    "pos": "verb",
+    "definition": "if a person or organisation is fined, they have to pay money as a punishment for something wrong that they have done",
+    "example": "the company was fined because it had broken health and safety rules",
+    "translation": "штрафовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fine",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she was ordered to pay a fine of £250",
+    "translation": "штраф",
+    "collocations": [
+      "impose a fine",
+      "pay a fine"
+    ],
+    "baseWord": "fine"
+  },
+  {
+    "word": "fire",
+    "transcription": "ˈfaɪə(r)",
+    "pos": "verb",
+    "definition": "if your employer fires you, they officially tell you that you no longer have a job",
+    "example": "it is now easier for companies to hire and fire people",
+    "translation": "увольнять",
+    "collocations": [
+      "fire someone for (doing) something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "gift",
+    "transcription": "ɡɪft",
+    "pos": "noun",
+    "definition": "a gift is a present that you give to someone",
+    "example": "he offered me a generous gift of £100",
+    "translation": "подарок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "health and safety",
+    "transcription": "ˌhelθ ən ˈseɪfti",
+    "pos": "phrase",
+    "definition": "health and safety is the set of rules that have to be obeyed by employers to make sure that employees and customers are safe in offices, shops, factories etc",
+    "example": "the company had broken health and safety rules",
+    "translation": "охрана труда и техника безопасности",
+    "collocations": [
+      "health and safety rules/regulations"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "in advance",
+    "transcription": "ˌɪn ədˈvɑːns",
+    "pos": "phrase",
+    "definition": "if you do something in advance, you do it before a particular date, or before it is needed",
+    "example": "you’re supposed to make the arrangement a month in advance",
+    "translation": "заранее, заблаговременно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "infect",
+    "transcription": "ɪnˈfekt",
+    "pos": "verb",
+    "definition": "if a virus infects someone, it makes them ill. If a virus infects a computer, it destroys or damages the information on the computer",
+    "example": "if you click on that link, you’ll end up on a site that will infect your PC",
+    "translation": "заражать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "infection",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a powerful infection that spread across the whole network",
+    "translation": "заражение, инфекция",
+    "collocations": [],
+    "baseWord": "infect"
+  },
+  {
+    "word": "interrupt",
+    "transcription": "ˌɪntəˈrʌpt",
+    "pos": "verb",
+    "definition": "if you interrupt someone, you get their attention while they are busy doing something else or speaking to someone else",
+    "example": "I’m sorry to interrupt, but can I have a quick word?",
+    "translation": "перебивать, прерывать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "interruption",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there were a few brief interruptions during the speech",
+    "translation": "прерывание, помеха",
+    "collocations": [],
+    "baseWord": "interrupt"
+  },
+  {
+    "word": "notice",
+    "transcription": "ˈnəʊtɪs",
+    "pos": "noun",
+    "definition": "if you give someone notice about something, you tell them about it some time before it happens",
+    "example": "I’m sorry for the short notice, but we need it today",
+    "translation": "предупреждение, уведомление",
+    "collocations": [
+      "short notice",
+      "hand in your notice",
+      "give notice"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "off",
+    "transcription": "ɒf",
+    "pos": "adverb",
+    "definition": "if you are off, or if you take time off, you are not at work because you are ill or having a holiday",
+    "example": "I need to take the day off on Friday",
+    "translation": "выходной, не на работе",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "property",
+    "transcription": "ˈprɒpə(r)ti",
+    "pos": "noun",
+    "definition": "property is land and buildings",
+    "example": "you mustn’t smoke on any part of the company property",
+    "translation": "недвижимость, имущество",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "requirement",
+    "transcription": "rɪˈkwaɪə(r)mənt",
+    "pos": "noun",
+    "definition": "a requirement is something that must happen or be done because of a law or rule",
+    "example": "it’s a legal requirement to pay at least the minimum wage",
+    "translation": "требование",
+    "collocations": [
+      "meet/satisfy a requirement",
+      "a legal requirement",
+      "a strict requirement"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "require",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the law requires you to register as self-employed",
+    "translation": "требовать",
+    "collocations": [],
+    "baseWord": "requirement"
+  },
+  {
+    "word": "risk",
+    "transcription": "rɪsk",
+    "pos": "noun",
+    "definition": "risk is the possibility that an action might cause harm if it does not work out properly. If you put someone at risk, you put them in a situation where there is a possibility that something bad might happen to them",
+    "example": "they had put their employees at risk",
+    "translation": "риск",
+    "collocations": [
+      "put someone at risk",
+      "take a risk"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "risk",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if you go too close, you risk catching the disease",
+    "translation": "рисковать",
+    "collocations": [],
+    "baseWord": "risk"
+  },
+  {
+    "word": "risky",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s risky to invest all your money in one company",
+    "translation": "рискованный",
+    "collocations": [],
+    "baseWord": "risk"
+  },
+  {
+    "word": "sensible",
+    "transcription": "ˈsensəb(ə)l",
+    "pos": "adjective",
+    "definition": "if something is sensible, it seems good because there are good reasons for it and people agree that it is right",
+    "example": "do you think the rules are sensible and fair?",
+    "translation": "разумный, здравый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sensibly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we need to discuss the problem sensibly",
+    "translation": "разумно",
+    "collocations": [],
+    "baseWord": "sensible"
+  },
+  {
+    "word": "system",
+    "transcription": "ˈsɪstəm",
+    "pos": "noun",
+    "definition": "a system is all the related parts of a process or machine such as a computer network",
+    "example": "the computer virus infected the whole system",
+    "translation": "система",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "virus",
+    "transcription": "ˈvaɪrəs",
+    "pos": "noun",
+    "definition": "a virus is a small living thing that can cause disease in humans or animals. If a computer gets a virus, it has software on it that deliberately tries to harm it",
+    "example": "his laptop got a virus",
+    "translation": "вирус",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "viral",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a viral video (a video on the Internet that is suddenly very popular and is watched by a large number of people)",
+    "translation": "вирусный (стремительно набирающий популярность)",
+    "collocations": [],
+    "baseWord": "virus"
+  },
+  {
+    "word": "warning",
+    "transcription": "ˈwɔː(r)nɪŋ",
+    "pos": "noun",
+    "definition": "a warning is a statement telling someone about something bad that might happen to them. If an employee is given a warning, he or she is told that they must improve their work or they will face a punishment",
+    "example": "he’s been given a written warning",
+    "translation": "предупреждение",
+    "collocations": [
+      "a written warning",
+      "a final warning",
+      "issue (someone) a warning",
+      "without warning"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "warn",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I warned you not to do that",
+    "translation": "предупреждать",
+    "collocations": [
+      "warn someone not to do something",
+      "warn against (doing) something"
+    ],
+    "baseWord": "warning"
+  },
+  {
+    "word": "abuse",
+    "transcription": "əˈbjuːs",
+    "pos": "noun",
+    "definition": "abuse is deliberately rude and insulting language",
+    "example": "we get quite a lot of abuse from customers",
+    "translation": "оскорбления, брань",
+    "collocations": [
+      "shout/scream/hurl abuse (at someone)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bend",
+    "transcription": "bend",
+    "pos": "verb",
+    "definition": "if you bend something, you make it folded and not straight",
+    "example": "a strong metal that won’t bend easily",
+    "translation": "гнуть, сгибать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bend",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s a sharp bend in the road",
+    "translation": "поворот, изгиб (дороги)",
+    "collocations": [],
+    "baseWord": "bend"
+  },
+  {
+    "word": "bent",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the wheel got bent out of shape",
+    "translation": "погнутый, искривленный",
+    "collocations": [],
+    "baseWord": "bend"
+  },
+  {
+    "word": "benefit",
+    "transcription": "ˈbenɪfɪt",
+    "pos": "verb",
+    "definition": "if something benefits you, it gives you something good or gives you an advantage",
+    "example": "will anyone benefit financially from the project?",
+    "translation": "приносить пользу, идти на пользу",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "benefit",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "one of the benefits of the climate here is that heating bills are low",
+    "translation": "польза, преимущество, выгода",
+    "collocations": [],
+    "baseWord": "benefit"
+  },
+  {
+    "word": "boredom",
+    "transcription": "ˈbɔː(r)dəm",
+    "pos": "noun",
+    "definition": "boredom is the state of being bored, when you are not at all interested in what is happening or what you are doing",
+    "example": "I thought I’d die of boredom",
+    "translation": "скука",
+    "collocations": [
+      "sheer boredom",
+      "relieve the boredom"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bore",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I was bored stiff (extremely bored)",
+    "translation": "наскучить, надоедать",
+    "collocations": [],
+    "baseWord": "boredom"
+  },
+  {
+    "word": "boring",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "am I boring you?",
+    "translation": "скучный",
+    "collocations": [],
+    "baseWord": "boredom"
+  },
+  {
+    "word": "bored",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I was bored stiff (extremely bored)",
+    "translation": "скучающий",
+    "collocations": [],
+    "baseWord": "boredom"
+  },
+  {
+    "word": "grateful",
+    "transcription": "ˈɡreɪtf(ə)l",
+    "pos": "adjective",
+    "definition": "if you are grateful to someone, you are glad that they have helped you or given you something",
+    "example": "the families are very grateful for the job I’ve done",
+    "translation": "благодарный",
+    "collocations": [
+      "be/feel grateful to someone",
+      "be/feel grateful for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "gratefully",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "all suggestions will be gratefully received",
+    "translation": "с благодарностью",
+    "collocations": [
+      "express gratitude"
+    ],
+    "baseWord": "grateful"
+  },
+  {
+    "word": "gratitude",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I can’t express my gratitude enough",
+    "translation": "благодарность",
+    "collocations": [
+      "express gratitude"
+    ],
+    "baseWord": "grateful"
+  },
+  {
+    "word": "handle",
+    "transcription": "ˈhænd(ə)l",
+    "pos": "verb",
+    "definition": "if you handle something, you touch it or move it with your hands",
+    "example": "you shouldn’t handle rotting meat without gloves on",
+    "translation": "брать в руки, трогать (руками)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "motivation",
+    "transcription": "ˌməʊtɪˈveɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "your motivation is the reason why you do something",
+    "example": "he has no motivation to study",
+    "translation": "мотивация",
+    "collocations": [
+      "a lack of motivation",
+      "lose motivation",
+      "provide motivation"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "motivate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "their teacher really knows how to motivate them",
+    "translation": "мотивировать",
+    "collocations": [
+      "motivate someone to do something"
+    ],
+    "baseWord": "motivation"
+  },
+  {
+    "word": "motive",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the motive behind the attack is unclear",
+    "translation": "мотив, побуждение",
+    "collocations": [
+      "motivate someone to do something"
+    ],
+    "baseWord": "motivation"
+  },
+  {
+    "word": "motivated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "his success motivated the rest of the students to do better",
+    "translation": "мотивированный",
+    "collocations": [
+      "motivate someone to do something"
+    ],
+    "baseWord": "motivation"
+  },
+  {
+    "word": "motivating",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "greed was a motivating factor in his decision",
+    "translation": "мотивирующий",
+    "collocations": [
+      "motivate someone to do something"
+    ],
+    "baseWord": "motivation"
+  },
+  {
+    "word": "nasty",
+    "transcription": "ˈnɑːsti",
+    "pos": "adjective",
+    "definition": "if something is nasty, it is bad and unpleasant",
+    "example": "technology could solve some nasty problems",
+    "translation": "неприятный, скверный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "predict",
+    "transcription": "prɪˈdɪkt",
+    "pos": "verb",
+    "definition": "if you predict what will happen, you say what you think will happen in the future",
+    "example": "experts predict that the situation is going to get worse",
+    "translation": "предсказывать, прогнозировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "prediction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his prediction of the election result was surprisingly accurate",
+    "translation": "предсказание, прогноз",
+    "collocations": [],
+    "baseWord": "predict"
+  },
+  {
+    "word": "predictable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the ending of the film was very predictable (you could predict what would happen)",
+    "translation": "предсказуемый",
+    "collocations": [],
+    "baseWord": "predict"
+  },
+  {
+    "word": "preserve",
+    "transcription": "prɪˈzɜː(r)v",
+    "pos": "verb",
+    "definition": "if you preserve something, you keep it fresh, or stop it from rotting or being destroyed",
+    "example": "chemicals that are used to preserve dead bodies",
+    "translation": "сохранять, консервировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "preservation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "preservation of the environment",
+    "translation": "сохранение, консервация",
+    "collocations": [],
+    "baseWord": "preserve"
+  },
+  {
+    "word": "relatively",
+    "transcription": "ˈrelətɪvli",
+    "pos": "adverb",
+    "definition": "you use relatively when you are making comparisons. For example, if something is relatively good, it is good when compared to similar things. If someone is relatively tall, they are tall compared to other people",
+    "example": "it’s a relatively quick way of earning money",
+    "translation": "относительно, сравнительно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "relative",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a period of relative peacefulness",
+    "translation": "относительный",
+    "collocations": [],
+    "baseWord": "relatively"
+  },
+  {
+    "word": "rotting",
+    "transcription": "ˈrɒtɪŋ",
+    "pos": "adjective",
+    "definition": "when plants or dead animals rot, they become softer, start to smell, and eventually become destroyed in a natural process. Rotting substances are going through this process",
+    "example": "the smell of rotting meat",
+    "translation": "гниющий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rot",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the meat was so old it had started to rot",
+    "translation": "гнить",
+    "collocations": [],
+    "baseWord": "rotting"
+  },
+  {
+    "word": "rotten",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the smell of rotten eggs",
+    "translation": "гнилой",
+    "collocations": [],
+    "baseWord": "rotting"
+  },
+  {
+    "word": "side effect",
+    "transcription": "ˈsaɪd ɪˌfekt",
+    "pos": "noun",
+    "definition": "side effects are unpleasant and unplanned effects of a medicine",
+    "example": "one serious side effect is a loss of vision",
+    "translation": "побочный эффект",
+    "collocations": [
+      "serious side effects"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "slam",
+    "transcription": "slæm",
+    "pos": "verb",
+    "definition": "if you slam something, you hit it hard against a hard surface",
+    "example": "he slammed down the phone",
+    "translation": "хлопать, бросать с силой",
+    "collocations": [
+      "slam something down (on something)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "stare",
+    "transcription": "steə(r)",
+    "pos": "verb",
+    "definition": "if you stare at something, you look at it for a long time",
+    "example": "they have to stare at a computer all day",
+    "translation": "пристально смотреть, уставиться",
+    "collocations": [
+      "stare at someone or something"
+    ],
+    "baseWord": null
+  }
+]

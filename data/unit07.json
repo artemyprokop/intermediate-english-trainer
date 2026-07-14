@@ -1,0 +1,1195 @@
+[
+  {
+    "word": "assess",
+    "transcription": "əˈses",
+    "pos": "verb",
+    "definition": "if you assess something, you examine it carefully and say how good or bad it is. If a student’s work is assessed, it is given a grade or mark",
+    "example": "how is your degree assessed?",
+    "translation": "оценивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "assessment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the teacher made a quick assessment of the class",
+    "translation": "оценка",
+    "collocations": [],
+    "baseWord": "assess"
+  },
+  {
+    "word": "assignment",
+    "transcription": "əˈsaɪnmənt",
+    "pos": "noun",
+    "definition": "an assignment is a piece of work you have to do as part of your job or your studies",
+    "example": "hand in your assignment by next Friday",
+    "translation": "задание (учебное или рабочее)",
+    "collocations": [
+      "complete an assignment",
+      "submit an assignment",
+      "set an assignment"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "assign",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "many teachers also assign additional reading activities",
+    "translation": "давать задание, поручать, назначать",
+    "collocations": [],
+    "baseWord": "assignment"
+  },
+  {
+    "word": "counselling",
+    "transcription": "ˈkaʊns(ə)lɪŋ",
+    "pos": "noun",
+    "definition": "counselling is help and support you can get from someone who is trained to listen to people describing their problems",
+    "example": "a counselling course for speech therapists",
+    "translation": "консультирование, психологическая помощь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "counsel",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she always offered us wise counsel",
+    "translation": "совет, наставление",
+    "collocations": [],
+    "baseWord": "counselling"
+  },
+  {
+    "word": "counsel",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "she always offered us wise counsel",
+    "translation": "советовать, консультировать",
+    "collocations": [],
+    "baseWord": "counselling"
+  },
+  {
+    "word": "coursework",
+    "transcription": "ˈkɔː(r)sˌwɜː(r)k",
+    "pos": "noun",
+    "definition": "coursework is the work a student has to do during a course. The marks for coursework are combined with the marks for exams to provide the student’s final grade",
+    "example": "did you have much coursework?",
+    "translation": "учебная работа в течение курса, курсовая работа",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "CV",
+    "transcription": "ˌsiː ˈviː",
+    "pos": "noun",
+    "definition": "your CV is a document which describes your education and work history, and which you show to people when you apply for a job. It is the initials of the Latin curriculum vitae. In American English, they say résumé",
+    "example": "it will look good on your CV",
+    "translation": "резюме, автобиография",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "encouraging",
+    "transcription": "ɪnˈkʌrɪdʒɪŋ",
+    "pos": "adjective",
+    "definition": "if someone or something is encouraging, they do or say things that help you believe you can succeed in what you are doing",
+    "example": "our tutors were very encouraging and gave us lots of feedback",
+    "translation": "ободряющий, обнадеживающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "encourage",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we encourage students to follow their own interests in their research",
+    "translation": "поощрять, побуждать",
+    "collocations": [],
+    "baseWord": "encouraging"
+  },
+  {
+    "word": "encouragement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my friends offered some encouragement",
+    "translation": "поддержка, ободрение",
+    "collocations": [],
+    "baseWord": "encouraging"
+  },
+  {
+    "word": "feedback",
+    "transcription": "ˈfiːdbæk",
+    "pos": "noun",
+    "definition": "if someone gives you feedback, they tell you how well or badly you did a piece of work, and tell you useful things about how you can improve",
+    "example": "our tutors were very encouraging and gave us lots of feedback",
+    "translation": "обратная связь, отзыв",
+    "collocations": [
+      "give someone feedback"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "feed back",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’ll feed back to you after I’ve read your other essay",
+    "translation": "сообщать результаты, давать обратную связь",
+    "collocations": [
+      "feed back to someone"
+    ],
+    "baseWord": "feedback"
+  },
+  {
+    "word": "IT",
+    "transcription": "ˌaɪ ˈtiː",
+    "pos": "noun",
+    "definition": "IT stands for Information Technology. IT is the use of computers for storing and distributing information",
+    "example": "he works in the company’s IT department",
+    "translation": "информационные технологии",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "leadership",
+    "transcription": "ˈliːdə(r)ʃɪp",
+    "pos": "noun",
+    "definition": "leadership is all the qualities and skills that are needed to be a good leader",
+    "example": "I’m doing a leadership training course",
+    "translation": "лидерство, руководство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "leader",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "effective schools need effective leaders",
+    "translation": "лидер, руководитель",
+    "collocations": [],
+    "baseWord": "leadership"
+  },
+  {
+    "word": "lead",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "effective schools need effective leaders",
+    "translation": "руководить, вести",
+    "collocations": [],
+    "baseWord": "leadership"
+  },
+  {
+    "word": "module",
+    "transcription": "ˈmɒdjuːl",
+    "pos": "noun",
+    "definition": "a module is a single unit of study that is part of a university or college course",
+    "example": "I failed my last module",
+    "translation": "модуль (учебный курс, часть программы)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "modular",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the modular course allows for great flexibility",
+    "translation": "модульный",
+    "collocations": [],
+    "baseWord": "module"
+  },
+  {
+    "word": "overall",
+    "transcription": "ˌəʊvərˈɔːl",
+    "pos": "adjective",
+    "definition": "overall means including and considering every aspect of something, not just individual parts of it",
+    "example": "25% of the overall mark is from coursework",
+    "translation": "общий, итоговый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overall",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she finished second overall",
+    "translation": "в целом, в общем зачете",
+    "collocations": [],
+    "baseWord": "overall"
+  },
+  {
+    "word": "progress",
+    "transcription": "ˈprəʊɡres",
+    "pos": "noun",
+    "definition": "progress is improvement that you make over time in something you are studying or trying to achieve",
+    "example": "I wasn’t making much progress at first",
+    "translation": "прогресс, успехи",
+    "collocations": [
+      "make progress"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "progress",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "students progress at different speeds",
+    "translation": "продвигаться, делать успехи",
+    "collocations": [],
+    "baseWord": "progress"
+  },
+  {
+    "word": "relevant",
+    "transcription": "ˈreləv(ə)nt",
+    "pos": "adjective",
+    "definition": "if something is relevant, it has a direct connection to what is happening or what is being talked about",
+    "example": "the course wasn’t relevant to my current work",
+    "translation": "актуальный, уместный, относящийся к делу",
+    "collocations": [
+      "be relevant to/for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "relevance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "pupils need to understand the relevance of politics to their life",
+    "translation": "актуальность, значимость",
+    "collocations": [
+      "be of relevance to someone or something"
+    ],
+    "baseWord": "relevant"
+  },
+  {
+    "word": "irrelevant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "Andy kept making totally irrelevant remarks",
+    "translation": "неуместный, не относящийся к делу",
+    "collocations": [
+      "be of relevance to someone or something"
+    ],
+    "baseWord": "relevant"
+  },
+  {
+    "word": "seminar",
+    "transcription": "ˈsemɪˌnɑː(r)",
+    "pos": "noun",
+    "definition": "a seminar is a meeting where people discuss a particular subject in a lot of detail. At a university or college, a seminar is a class involving a small group of students and a teacher",
+    "example": "a one-day seminar on the causes of the first world war",
+    "translation": "семинар",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "supportive",
+    "transcription": "səˈpɔː(r)tɪv",
+    "pos": "adjective",
+    "definition": "if people are supportive, they understand your situation and help you",
+    "example": "there were one or two guys who weren’t so supportive",
+    "translation": "поддерживающий, отзывчивый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "support",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we’ll support you whatever you decide to do",
+    "translation": "поддерживать",
+    "collocations": [
+      "offer someone support"
+    ],
+    "baseWord": "supportive"
+  },
+  {
+    "word": "support",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we’ll support you whatever you decide to do",
+    "translation": "поддержка",
+    "collocations": [
+      "offer someone support"
+    ],
+    "baseWord": "supportive"
+  },
+  {
+    "word": "therapist",
+    "transcription": "ˈθerəpɪst",
+    "pos": "noun",
+    "definition": "a therapist is someone who provides treatment for people with mental or physical illnesses, but without the use of drugs",
+    "example": "a speech therapist",
+    "translation": "терапевт, специалист по лечению (без лекарств)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "therapy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I don’t know if her therapy actually helped her",
+    "translation": "терапия, лечение",
+    "collocations": [],
+    "baseWord": "therapist"
+  },
+  {
+    "word": "therapeutic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "swimming can be highly therapeutic",
+    "translation": "терапевтический, целебный, оздоровительный",
+    "collocations": [],
+    "baseWord": "therapist"
+  },
+  {
+    "word": "tutor",
+    "transcription": "ˈtjuːtə(r)",
+    "pos": "noun",
+    "definition": "a tutor is a teacher, especially at a university. A private tutor is a teacher who teaches one student or a small group of students in their homes",
+    "example": "she has been senior tutor here since 2008",
+    "translation": "преподаватель, куратор, репетитор",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "tutor",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we tutor students of all levels of ability",
+    "translation": "обучать индивидуально, давать частные уроки",
+    "collocations": [],
+    "baseWord": "tutor"
+  },
+  {
+    "word": "workload",
+    "transcription": "ˈwɜː(r)kˌləʊd",
+    "pos": "noun",
+    "definition": "your workload is the amount of work that you need to do",
+    "example": "I don’t have time for that on top of my current workload",
+    "translation": "объем работы, нагрузка",
+    "collocations": [
+      "a heavy workload"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "workshop",
+    "transcription": "ˈwɜː(r)kˌʃɒp",
+    "pos": "noun",
+    "definition": "a workshop is an event where a group of people discuss and learn about a particular topic, especially by doing practical exercises",
+    "example": "we attended a workshop on language teaching",
+    "translation": "семинар-практикум, мастер-класс",
+    "collocations": [
+      "a workshop on something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "academic",
+    "transcription": "ˌækəˈdemɪk",
+    "pos": "adjective",
+    "definition": "academic refers to subjects and activity connected to studying at school or university",
+    "example": "the school has a good academic reputation",
+    "translation": "академический, учебный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "academically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "a popular and academically gifted student (a very clever student)",
+    "translation": "в учебе, академически",
+    "collocations": [],
+    "baseWord": "academic"
+  },
+  {
+    "word": "ambitious",
+    "transcription": "æmˈbɪʃəs",
+    "pos": "adjective",
+    "definition": "someone who is ambitious wants to be very successful and works hard to make sure that they succeed. A project that is ambitious is one that is difficult, but that people work hard to achieve",
+    "example": "he’s very bright, but not very ambitious",
+    "translation": "амбициозный, честолюбивый; масштабный (о проекте)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ambitiously",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he ambitiously attempted to translate War and Peace within three months",
+    "translation": "амбициозно, с большим размахом",
+    "collocations": [],
+    "baseWord": "ambitious"
+  },
+  {
+    "word": "ambition",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he finally realised his ambition when he became CEO of the company",
+    "translation": "амбиция, честолюбивая цель",
+    "collocations": [],
+    "baseWord": "ambitious"
+  },
+  {
+    "word": "approach",
+    "transcription": "əˈprəʊtʃ",
+    "pos": "noun",
+    "definition": "your approach to a task or problem is the particular way you deal with it",
+    "example": "they adopted an alternative approach to teaching English",
+    "translation": "подход",
+    "collocations": [
+      "adopt an approach",
+      "take an approach",
+      "an approach to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "approach",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "as a teacher, I would approach the issue very differently",
+    "translation": "подходить (к проблеме), браться (за что-либо)",
+    "collocations": [],
+    "baseWord": "approach"
+  },
+  {
+    "word": "attention",
+    "transcription": "əˈtenʃ(ə)n",
+    "pos": "noun",
+    "definition": "attention is the thought or interest you give to something you are listening to or watching",
+    "example": "she never pays attention in class",
+    "translation": "внимание",
+    "collocations": [
+      "pay attention",
+      "have/get someone’s attention"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "basis",
+    "transcription": "ˈbeɪsɪs",
+    "pos": "noun",
+    "definition": "to do something on a particular basis means to do it in the way described",
+    "example": "a lot of kids skip school on a regular basis (regularly)",
+    "translation": "основа, принцип (на регулярной основе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bright",
+    "transcription": "braɪt",
+    "pos": "adjective",
+    "definition": "someone who is bright is very clever and intelligent",
+    "example": "he’s very bright – always top of his class",
+    "translation": "способный, смышленый, умный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "certificate",
+    "transcription": "sə(r)ˈtɪfɪkət",
+    "pos": "noun",
+    "definition": "a certificate is an official document which states that particular facts are actually true",
+    "example": "you need to produce a doctor’s certificate within two days",
+    "translation": "сертификат, справка, свидетельство",
+    "collocations": [
+      "a birth/death/marriage certificate"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "certify",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I need a document certifying that I have registered for the course",
+    "translation": "удостоверять, официально подтверждать",
+    "collocations": [],
+    "baseWord": "certificate"
+  },
+  {
+    "word": "certified",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "classes are taught by certified instructors",
+    "translation": "сертифицированный, дипломированный",
+    "collocations": [],
+    "baseWord": "certificate"
+  },
+  {
+    "word": "detention",
+    "transcription": "dɪˈtenʃ(ə)n",
+    "pos": "noun",
+    "definition": "a detention is a school punishment in which a student has to stay at school for some time after the other students have gone home",
+    "example": "if they break the rules, give them a detention",
+    "translation": "оставление после уроков (в наказание)",
+    "collocations": [
+      "give someone a detention",
+      "get a detention",
+      "be in detention"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "discipline",
+    "transcription": "ˈdɪsəplɪn",
+    "pos": "noun",
+    "definition": "discipline is making people follow rules and punishing them if they break the rules",
+    "example": "the school believes in strict discipline",
+    "translation": "дисциплина",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "discipline",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if you break the rules, you will be disciplined (punished)",
+    "translation": "наказывать, дисциплинировать",
+    "collocations": [],
+    "baseWord": "discipline"
+  },
+  {
+    "word": "enthusiastic",
+    "transcription": "ɪnˌθjuːziˈæstɪk",
+    "pos": "adjective",
+    "definition": "someone who is enthusiastic shows their interest in something in a very lively way",
+    "example": "the audience was wildly enthusiastic",
+    "translation": "полный энтузиазма, воодушевленный",
+    "collocations": [
+      "be enthusiastic about (doing) something",
+      "wildly enthusiastic"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "enthusiastically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "her classmates have enthusiastically welcomed her back",
+    "translation": "с энтузиазмом, воодушевленно",
+    "collocations": [
+      "arouse/rouse enthusiasm",
+      "enthusiasm for something"
+    ],
+    "baseWord": "enthusiastic"
+  },
+  {
+    "word": "enthusiasm",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his speech aroused a new enthusiasm among the citizens",
+    "translation": "энтузиазм, воодушевление",
+    "collocations": [
+      "arouse/rouse enthusiasm",
+      "enthusiasm for something"
+    ],
+    "baseWord": "enthusiastic"
+  },
+  {
+    "word": "fee",
+    "transcription": "fiː",
+    "pos": "noun",
+    "definition": "fees are the money you have to pay for a particular service",
+    "example": "my solicitor charges a fee of £150 an hour",
+    "translation": "плата, гонорар, взнос",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "get into",
+    "transcription": "ˌɡet ˈɪntuː",
+    "pos": "phrasal verb",
+    "definition": "if you get into a school or university, you succeed in being accepted there as a student",
+    "example": "it’s really difficult to get into Oxford or Cambridge",
+    "translation": "поступить (в учебное заведение)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lecturer",
+    "transcription": "ˈlektʃərə(r)",
+    "pos": "noun",
+    "definition": "a lecturer is someone who teaches at a college or university",
+    "example": "he was promoted to senior lecturer last year",
+    "translation": "преподаватель, лектор (в вузе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lecture",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "in four years there, he delivered over 500 lectures",
+    "translation": "лекция",
+    "collocations": [
+      "deliver a lecture",
+      "attend a lecture"
+    ],
+    "baseWord": "lecturer"
+  },
+  {
+    "word": "overseas",
+    "transcription": "ˈəʊvə(r)siːz",
+    "pos": "adjective",
+    "definition": "you use overseas to describe people, places, or things that come from a foreign country",
+    "example": "we welcome overseas students here",
+    "translation": "зарубежный, иностранный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overseas",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he often travels overseas for work",
+    "translation": "за границу, за рубежом",
+    "collocations": [],
+    "baseWord": "overseas"
+  },
+  {
+    "word": "produce",
+    "transcription": "prəˈdjuːs",
+    "pos": "verb",
+    "definition": "if you have to produce a document, you have to prove that you have it by showing it to someone in authority",
+    "example": "you need to produce a doctor’s certificate within two days",
+    "translation": "предъявлять (документ)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "production",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "you are permitted to drive in Zimbabwe on production of a full UK driving licence",
+    "translation": "предъявление (документа)",
+    "collocations": [],
+    "baseWord": "produce"
+  },
+  {
+    "word": "push",
+    "transcription": "pʊʃ",
+    "pos": "verb",
+    "definition": "if you push someone to do something, you make them do it by encouraging them very firmly or forcing them to do it",
+    "example": "they really push pupils to achieve high marks",
+    "translation": "подталкивать, заставлять стараться",
+    "collocations": [
+      "push someone to do something",
+      "push someone into doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "reputation",
+    "transcription": "ˌrepjʊˈteɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "the reputation of a person, place, or organisation is how good or bad people say it is",
+    "example": "the school has a good academic reputation",
+    "translation": "репутация",
+    "collocations": [
+      "have a reputation for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "requirement",
+    "transcription": "rɪˈkwaɪə(r)mənt",
+    "pos": "noun",
+    "definition": "a requirement is something that is needed in order for something else to happen, or for someone to be allowed to do something",
+    "example": "the minimum requirement to enter the profession is a degree",
+    "translation": "требование",
+    "collocations": [
+      "meet/satisfy/fulfil a requirement"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "require",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the law requires employers to provide paid holidays to its staff",
+    "translation": "требовать",
+    "collocations": [],
+    "baseWord": "requirement"
+  },
+  {
+    "word": "respect",
+    "transcription": "rɪˈspekt",
+    "pos": "noun",
+    "definition": "respect for someone is a belief that they are important and that they should be treated well and politely",
+    "example": "if you’re strict from the start, you’ll gain their respect",
+    "translation": "уважение",
+    "collocations": [
+      "gain someone’s respect",
+      "have respect for someone",
+      "show respect",
+      "a lack of respect"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "respect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we were taught to respect our parents",
+    "translation": "уважать",
+    "collocations": [
+      "be respectful of/towards someone or something"
+    ],
+    "baseWord": "respect"
+  },
+  {
+    "word": "respected",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was a highly respected journalist",
+    "translation": "уважаемый",
+    "collocations": [
+      "be respectful of/towards someone or something"
+    ],
+    "baseWord": "respect"
+  },
+  {
+    "word": "respectful",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was always very respectful towards my parents",
+    "translation": "уважительный, почтительный",
+    "collocations": [
+      "be respectful of/towards someone or something"
+    ],
+    "baseWord": "respect"
+  },
+  {
+    "word": "respectfully",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the audience listened respectfully to all the speeches",
+    "translation": "уважительно, почтительно",
+    "collocations": [
+      "be respectful of/towards someone or something"
+    ],
+    "baseWord": "respect"
+  },
+  {
+    "word": "reverse",
+    "transcription": "rɪˈvɜː(r)s",
+    "pos": "verb",
+    "definition": "to reverse a decision or rule means to make the opposite decision or to say that the rule is no longer a rule",
+    "example": "do you think the rules should be reversed?",
+    "translation": "отменять, аннулировать (решение, правило)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "reversal",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "this policy reversal was completely unexpected",
+    "translation": "отмена, изменение на противоположное",
+    "collocations": [],
+    "baseWord": "reverse"
+  },
+  {
+    "word": "rough",
+    "transcription": "rʌf",
+    "pos": "adjective",
+    "definition": "a rough place or district is not very safe because there is a lot of violence or crime there",
+    "example": "the school is in quite a rough area",
+    "translation": "неблагополучный, опасный (о районе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "skip",
+    "transcription": "skɪp",
+    "pos": "verb",
+    "definition": "if you skip something, you deliberately do not do it or have it",
+    "example": "a lot of kids skip school at least once a week",
+    "translation": "пропускать (намеренно)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "uniform",
+    "transcription": "ˈjuːnɪfɔː(r)m",
+    "pos": "noun",
+    "definition": "a uniform is a set of clothes that is worn by all the people in a particular group, for example by the police, by soldiers in the army, or by pupils in some schools",
+    "example": "pupils have to wear uniform",
+    "translation": "форма (школьная, рабочая)",
+    "collocations": [
+      "school uniform",
+      "wear a uniform"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "uniformed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "drivers must stop when a uniformed police officer asks them to",
+    "translation": "одетый в форму, в форме",
+    "collocations": [],
+    "baseWord": "uniform"
+  },
+  {
+    "word": "analyse",
+    "transcription": "ˈænəlaɪz",
+    "pos": "verb",
+    "definition": "if you analyse something, you examine it in a lot of detail so that you can understand and explain everything about it",
+    "example": "I have only just started to analyse the data from the research",
+    "translation": "анализировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "analysis",
+    "transcription": "əˈnæləsɪs",
+    "pos": "noun",
+    "definition": "an analysis is a detailed examination of something which you do in order to understand and explain everything about it",
+    "example": "the company conducted a detailed analysis of the situation",
+    "translation": "анализ",
+    "collocations": [
+      "an analysis of something",
+      "conduct an analysis"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "carry out",
+    "transcription": "ˌkæri ˈaʊt",
+    "pos": "phrasal verb",
+    "definition": "if you carry out a particular activity, you do it",
+    "example": "similar experiments were carried out in France",
+    "translation": "проводить, выполнять (деятельность)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "debate",
+    "transcription": "dɪˈbeɪt",
+    "pos": "noun",
+    "definition": "debate is serious discussion about an important topic or decision",
+    "example": "there is a debate about how to achieve better results",
+    "translation": "дебаты, дискуссия",
+    "collocations": [
+      "a debate on/about something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "debate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the most hotly debated subject is Scottish independence",
+    "translation": "обсуждать, дискутировать",
+    "collocations": [],
+    "baseWord": "debate"
+  },
+  {
+    "word": "differ",
+    "transcription": "ˈdɪfə(r)",
+    "pos": "verb",
+    "definition": "if two things differ, they are not the same as each other. If two people differ, they do not agree about something",
+    "example": "the effects of the drug differ from person to person",
+    "translation": "отличаться, различаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "different",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "there are different ways we can approach the problem",
+    "translation": "разный, отличающийся",
+    "collocations": [
+      "a difference between things"
+    ],
+    "baseWord": "differ"
+  },
+  {
+    "word": "difference",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s only a small difference between the two",
+    "translation": "разница, различие",
+    "collocations": [
+      "a difference between things"
+    ],
+    "baseWord": "differ"
+  },
+  {
+    "word": "effective",
+    "transcription": "ɪˈfektɪv",
+    "pos": "adjective",
+    "definition": "if something is effective, it succeeds in doing what it is meant to do",
+    "example": "this approach encourages more effective planning",
+    "translation": "эффективный, действенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "effectively",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "how do you effectively manage a team?",
+    "translation": "эффективно",
+    "collocations": [],
+    "baseWord": "effective"
+  },
+  {
+    "word": "exceed",
+    "transcription": "ɪkˈsiːd",
+    "pos": "verb",
+    "definition": "if something exceeds another thing, it is bigger, better, or more impressive than the other thing",
+    "example": "your essay should not exceed 750 words",
+    "translation": "превышать",
+    "collocations": [
+      "exceed expectations"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "excess",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the novel sold in excess of 5 million copies",
+    "translation": "избыток, излишек",
+    "collocations": [
+      "in excess of something"
+    ],
+    "baseWord": "exceed"
+  },
+  {
+    "word": "excess",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the novel sold in excess of 5 million copies",
+    "translation": "избыточный, излишний",
+    "collocations": [
+      "in excess of something"
+    ],
+    "baseWord": "exceed"
+  },
+  {
+    "word": "expectation",
+    "transcription": "ˌekspekˈteɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "an expectation is a situation that you think or hope will happen",
+    "example": "the film exceeded all our expectations",
+    "translation": "ожидание",
+    "collocations": [
+      "exceed/surpass expectations",
+      "fulfil/meet expectations"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "expect",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I didn’t expect to get such a high mark",
+    "translation": "ожидать",
+    "collocations": [],
+    "baseWord": "expectation"
+  },
+  {
+    "word": "failure",
+    "transcription": "ˈfeɪljə(r)",
+    "pos": "noun",
+    "definition": "a failure is someone or something that has not been successful",
+    "example": "the whole project ended in failure",
+    "translation": "неудача, провал",
+    "collocations": [
+      "failure to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "fail",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "his attempt to become an MP failed at the election",
+    "translation": "потерпеть неудачу, провалиться",
+    "collocations": [
+      "fail to do something"
+    ],
+    "baseWord": "failure"
+  },
+  {
+    "word": "impact",
+    "transcription": "ˈɪmpækt",
+    "pos": "noun",
+    "definition": "if something has an impact on a situation, it has a strong effect on it",
+    "example": "the campaign had little impact on the way people voted",
+    "translation": "воздействие, влияние",
+    "collocations": [
+      "have an impact (on something)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "impact",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the strike severely impacted the company’s profits",
+    "translation": "воздействовать, влиять",
+    "collocations": [],
+    "baseWord": "impact"
+  },
+  {
+    "word": "improvement",
+    "transcription": "ɪmˈpruːvmənt",
+    "pos": "noun",
+    "definition": "if there is an improvement in something, it has become better",
+    "example": "there has been a big improvement in your work",
+    "translation": "улучшение",
+    "collocations": [
+      "a big/dramatic improvement",
+      "an improvement in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "improve",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "my English is really improving",
+    "translation": "улучшаться, улучшать",
+    "collocations": [],
+    "baseWord": "improvement"
+  },
+  {
+    "word": "interpretation",
+    "transcription": "ɪnˌtɜː(r)prɪˈteɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "your interpretation of something is how you understand it and what you think it means",
+    "example": "Hattie’s interpretation is that passionate teachers make a difference",
+    "translation": "интерпретация, толкование",
+    "collocations": [
+      "an interpretation of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "interpret",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the lack of objection was interpreted as agreement",
+    "translation": "интерпретировать, толковать",
+    "collocations": [],
+    "baseWord": "interpretation"
+  },
+  {
+    "word": "passionate",
+    "transcription": "ˈpæʃ(ə)nət",
+    "pos": "adjective",
+    "definition": "someone who is passionate is very enthusiastic about what they are doing, and believes in it very strongly",
+    "example": "passionate teachers make a difference",
+    "translation": "увлеченный, страстно преданный (своему делу)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "passionately",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he passionately believed in the freedom of the individual",
+    "translation": "страстно, с увлечением",
+    "collocations": [],
+    "baseWord": "passionate"
+  },
+  {
+    "word": "passion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his great passion in life is cricket",
+    "translation": "страсть, увлечение",
+    "collocations": [],
+    "baseWord": "passionate"
+  },
+  {
+    "word": "score",
+    "transcription": "skɔː(r)",
+    "pos": "verb",
+    "definition": "if something scores, or scores well, it is successful in what it is trying to achieve",
+    "example": "what factors score best in improving performance",
+    "translation": "показывать результат, быть эффективным",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "specialise",
+    "transcription": "ˈspeʃəlaɪz",
+    "pos": "verb",
+    "definition": "if you specialise in something, you spend most of your working time or studying time on it, and know a lot about it",
+    "example": "he specialised in economics at university",
+    "translation": "специализироваться",
+    "collocations": [
+      "specialise in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "specialist",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a specialist in data analysis",
+    "translation": "специалист",
+    "collocations": [],
+    "baseWord": "specialise"
+  }
+]

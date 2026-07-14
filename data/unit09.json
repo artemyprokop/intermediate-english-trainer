@@ -1,0 +1,994 @@
+[
+  {
+    "word": "affordable",
+    "transcription": "əˈfɔː(r)dəb(ə)l",
+    "pos": "adjective",
+    "definition": "if something is affordable, it has a reasonable price that is not too expensive, so most people would be able to buy it",
+    "example": "they’re looking for an affordable flat",
+    "translation": "доступный (по цене)",
+    "collocations": [
+      "affordable housing"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "afford",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we can’t afford a holiday abroad on my salary",
+    "translation": "позволить себе (финансово)",
+    "collocations": [],
+    "baseWord": "affordable"
+  },
+  {
+    "word": "attic",
+    "transcription": "ˈætɪk",
+    "pos": "noun",
+    "definition": "in a house, the attic is the room just underneath the roof, often used for storing things",
+    "example": "we keep all sorts of rubbish in the attic",
+    "translation": "чердак",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "basement",
+    "transcription": "ˈbeɪsmənt",
+    "pos": "noun",
+    "definition": "a basement is a room or area in a building that is below the level of the ground outside",
+    "example": "the basement was flooded again last week",
+    "translation": "подвал, цокольный этаж",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "compact",
+    "transcription": "ˈkɒmpækt",
+    "pos": "adjective",
+    "definition": "if something is compact, it is small and does not use much space",
+    "example": "the flat is nice and compact, so it’s easy to keep clean",
+    "translation": "компактный, небольшой",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "convenient",
+    "transcription": "kənˈviːniənt",
+    "pos": "adjective",
+    "definition": "something that is convenient helps you to do things easily. For example, if a place is convenient for the station, it is near the station so you can get there easily. If it is convenient to do something, then you can do it without any problems",
+    "example": "the hotel was in the city centre, very convenient for the museums",
+    "translation": "удобный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "conveniently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the house is conveniently situated for the local shops",
+    "translation": "удобно (расположенный)",
+    "collocations": [],
+    "baseWord": "convenient"
+  },
+  {
+    "word": "convenience",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I enjoy the convenience of e-books, but still prefer paper copies",
+    "translation": "удобство",
+    "collocations": [],
+    "baseWord": "convenient"
+  },
+  {
+    "word": "inconvenient",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "having to remember two passwords is really inconvenient",
+    "translation": "неудобный",
+    "collocations": [],
+    "baseWord": "convenient"
+  },
+  {
+    "word": "inconvenience",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the low ceilings are an inconvenience for people over six feet tall",
+    "translation": "неудобство",
+    "collocations": [],
+    "baseWord": "convenient"
+  },
+  {
+    "word": "cramped",
+    "transcription": "kræmpt",
+    "pos": "adjective",
+    "definition": "if a place is cramped, there is not enough space and it is uncomfortable to live or work there",
+    "example": "the house is quite cramped with four of us living here",
+    "translation": "тесный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "envy",
+    "transcription": "ˈenvi",
+    "pos": "verb",
+    "definition": "if you envy someone, you think they are lucky to have something or be doing something and wish you could have it or do it too",
+    "example": "I don’t envy them all that work they have to do",
+    "translation": "завидовать",
+    "collocations": [
+      "envy someone something",
+      "envy someone for (doing) something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "envy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he never seemed to excite envy in his colleagues",
+    "translation": "зависть",
+    "collocations": [
+      "be envious of someone or something"
+    ],
+    "baseWord": "envy"
+  },
+  {
+    "word": "envious",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she was envious of my financial success",
+    "translation": "завистливый",
+    "collocations": [
+      "be envious of someone or something"
+    ],
+    "baseWord": "envy"
+  },
+  {
+    "word": "enviable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it was not an enviable task and I was glad Alec volunteered for it",
+    "translation": "завидный (такой, которому можно позавидовать)",
+    "collocations": [
+      "be envious of someone or something"
+    ],
+    "baseWord": "envy"
+  },
+  {
+    "word": "face",
+    "transcription": "feɪs",
+    "pos": "verb",
+    "definition": "to face someone or something or to face a particular direction means to be opposite them or to be looking in that direction",
+    "example": "she turned to face the class",
+    "translation": "быть обращенным (к чему-то), смотреть в сторону",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fire",
+    "transcription": "ˈfaɪə(r)",
+    "pos": "noun",
+    "definition": "fire is the heat and flames are made when things burn",
+    "example": "an open fire (in which coal or wood is burned inside a room)",
+    "translation": "огонь, камин",
+    "collocations": [
+      "light a fire",
+      "set fire to something",
+      "put a fire out"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "heating",
+    "transcription": "ˈhiːtɪŋ",
+    "pos": "noun",
+    "definition": "the heating in a building is the equipment that provides heat for the building",
+    "example": "the house has got gas central heating",
+    "translation": "отопление",
+    "collocations": [
+      "central heating"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "heat",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "how much does it cost to heat this place?",
+    "translation": "нагревать, отапливать",
+    "collocations": [],
+    "baseWord": "heating"
+  },
+  {
+    "word": "potential",
+    "transcription": "pəˈtenʃ(ə)l",
+    "pos": "noun",
+    "definition": "if a place or person has potential, there is a big possibility that they can develop and become different or better in the future",
+    "example": "the house has got real potential",
+    "translation": "потенциал",
+    "collocations": [
+      "reach/realise your (full/true) potential"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "potential",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he is thought of as a potential prime minister",
+    "translation": "потенциальный, возможный",
+    "collocations": [],
+    "baseWord": "potential"
+  },
+  {
+    "word": "potentially",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "a potentially lucrative (well-paid) contract",
+    "translation": "потенциально",
+    "collocations": [],
+    "baseWord": "potential"
+  },
+  {
+    "word": "roof",
+    "transcription": "ruːf",
+    "pos": "noun",
+    "definition": "the roof of a building is the top surface that stops rain coming in",
+    "example": "the roof is leaking",
+    "translation": "крыша",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "run-down",
+    "transcription": "ˈrʌndaʊn",
+    "pos": "adjective",
+    "definition": "a building that is run-down is not in good condition because it is old and hasn’t been looked after well. You can also say that an area of a town or city is run-down",
+    "example": "when we bought the house, it was old and run-down",
+    "translation": "обветшалый, запущенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "separate",
+    "transcription": "ˈsep(ə)rət",
+    "pos": "adjective",
+    "definition": "if things are separate, they are not together or joined to each other",
+    "example": "we wanted the children to have separate rooms",
+    "translation": "отдельный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "separately",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "always wash coloured clothes separately from the whites",
+    "translation": "отдельно",
+    "collocations": [],
+    "baseWord": "separate"
+  },
+  {
+    "word": "separate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if two students are talking, the teacher might separate them",
+    "translation": "разделять, разлучать",
+    "collocations": [],
+    "baseWord": "separate"
+  },
+  {
+    "word": "spacious",
+    "transcription": "ˈspeɪʃəs",
+    "pos": "adjective",
+    "definition": "if a room or building is spacious, it is big and has a lot of space in it",
+    "example": "the rooms are light and spacious",
+    "translation": "просторный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "tiled",
+    "transcription": "taɪld",
+    "pos": "adjective",
+    "definition": "a floor, roof, or wall that is tiled is covered in square, flat pieces of baked clay",
+    "example": "the kitchen has a tiled floor",
+    "translation": "выложенный плиткой, кафельный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "tile",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we’re going to tile the lower half of the walls",
+    "translation": "плитка, кафель, черепица",
+    "collocations": [
+      "floor/wall tiles",
+      "roof tiles"
+    ],
+    "baseWord": "tiled"
+  },
+  {
+    "word": "tile",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we’re going to tile the lower half of the walls",
+    "translation": "выкладывать плиткой",
+    "collocations": [
+      "floor/wall tiles",
+      "roof tiles"
+    ],
+    "baseWord": "tiled"
+  },
+  {
+    "word": "conflict",
+    "transcription": "ˈkɒnflɪkt",
+    "pos": "noun",
+    "definition": "conflict or a conflict is violent fighting between groups of people or countries",
+    "example": "in any armed conflict there will be civilian casualties",
+    "translation": "конфликт, вооруженное столкновение",
+    "collocations": [
+      "armed conflict"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "crash",
+    "transcription": "kræʃ",
+    "pos": "verb",
+    "definition": "if prices crash, they drop a lot very quickly because people suddenly stop buying things or do not want to pay so much money for them. If a country’s economy crashes, it is badly affected and starts to fail",
+    "example": "there’s a risk that house prices will crash",
+    "translation": "резко падать, рушиться (о ценах, экономике)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "experience",
+    "transcription": "ɪkˈspɪəriəns",
+    "pos": "verb",
+    "definition": "if you experience a particular situation or problem, it happens to you or affects you",
+    "example": "do you experience difficulty concentrating?",
+    "translation": "испытывать, переживать (ситуацию, трудность)",
+    "collocations": [
+      "have an experience",
+      "an experience of/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "fail",
+    "transcription": "feɪl",
+    "pos": "verb",
+    "definition": "if something fails to happen, it does not happen. If you fail to do something, you do not do it",
+    "example": "over 70% fail to reach their target",
+    "translation": "не суметь, не справиться, не удаваться (сделать что-то)",
+    "collocations": [
+      "fail to do something",
+      "fail in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "failure",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he was criticised for his failure to communicate with his colleagues",
+    "translation": "неудача, неспособность (сделать что-то)",
+    "collocations": [
+      "failure to do something"
+    ],
+    "baseWord": "fail"
+  },
+  {
+    "word": "gap",
+    "transcription": "ɡæp",
+    "pos": "noun",
+    "definition": "a gap is a very big difference between two situations, groups of people, or ideas",
+    "example": "the growing gap between the rich and the poor (the rich are getting richer and the poor are getting poorer)",
+    "translation": "разрыв, разница (между группами, идеями)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "goal",
+    "transcription": "ɡəʊl",
+    "pos": "noun",
+    "definition": "your goals are the things you want to achieve in your life",
+    "example": "my goal is to be a senior lecturer by the time I’m 35",
+    "translation": "цель",
+    "collocations": [
+      "achieve/accomplish a goal"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "hit",
+    "transcription": "hɪt",
+    "pos": "verb",
+    "definition": "to hit a particular level on a scale means to reach it",
+    "example": "the housing market has hit the bottom",
+    "translation": "достигать (уровня), доходить до",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "immigration",
+    "transcription": "ˌɪmɪˈɡreɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "immigration is the process in which people move into a country from another country in order to live and work there",
+    "example": "there’s been a sharp rise in immigration",
+    "translation": "иммиграция",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "immigrant",
+    "transcription": "ˈɪmɪɡrənt",
+    "pos": "noun",
+    "definition": "an immigrant is someone who has left their own country and now lives in another country",
+    "example": "since 1970, the immigrant population has doubled",
+    "translation": "иммигрант",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "investment",
+    "transcription": "ɪnˈves(t)mənt",
+    "pos": "noun",
+    "definition": "investment is the process of buying shares in a company in the hope that they will pay you money regularly from their profits. An investment is also something you buy now because you think it will increase in value",
+    "example": "he works as an investment analyst",
+    "translation": "инвестиция, вложение (денег)",
+    "collocations": [
+      "a good investment"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "invest",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "should I invest in property?",
+    "translation": "инвестировать, вкладывать (деньги)",
+    "collocations": [
+      "invest in something"
+    ],
+    "baseWord": "investment"
+  },
+  {
+    "word": "investor",
+    "transcription": "ɪnˈvestə(r)",
+    "pos": "noun",
+    "definition": "an investor is someone who buys shares in a company in the hope that they will receive money regularly from the profits. An investor is also someone who buys something because they think it will increase in value",
+    "example": "investors from abroad are buying up a lot of property",
+    "translation": "инвестор",
+    "collocations": [
+      "invest in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "largely",
+    "transcription": "ˈlɑː(r)dʒli",
+    "pos": "adverb",
+    "definition": "you use largely when introducing the main reason for something, although there are also other reasons",
+    "example": "it was largely because of the economic problems in neighbouring countries",
+    "translation": "в основном, главным образом",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "middle-class",
+    "transcription": "mɪd(ə)l ˈklɑːs",
+    "pos": "adjective",
+    "definition": "the middle class is one of the groups which people in a society are divided into according to their jobs, education, background, etc. People from that class are middle-class",
+    "example": "wages are increasing for middle-class people",
+    "translation": "среднего класса",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "middle class",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the middle classes were badly affected by the tax rises",
+    "translation": "средний класс",
+    "collocations": [],
+    "baseWord": "middle-class"
+  },
+  {
+    "word": "pray",
+    "transcription": "preɪ",
+    "pos": "verb",
+    "definition": "if you pray, you speak to the god that you believe in. To pray for something also means to hope very much that it will happen",
+    "example": "he went into the church to pray",
+    "translation": "молиться",
+    "collocations": [
+      "pray that",
+      "pray for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "privacy",
+    "transcription": "ˈprɪvəsi",
+    "pos": "noun",
+    "definition": "privacy is a state in which no one can see you or know what you are doing",
+    "example": "many people will fight to protect their privacy",
+    "translation": "уединение, приватность, личное пространство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "private",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she’s a very private person (she never says much about herself to anyone)",
+    "translation": "замкнутый, скрытный (о человеке)",
+    "collocations": [],
+    "baseWord": "privacy"
+  },
+  {
+    "word": "property",
+    "transcription": "ˈprɒpə(r)ti",
+    "pos": "noun",
+    "definition": "property is land and buildings",
+    "example": "property prices are high in London",
+    "translation": "недвижимость",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "protest",
+    "transcription": "prəˈtest",
+    "pos": "verb",
+    "definition": "if people protest, they say very forcefully that they do not agree with a plan or situation",
+    "example": "many local people protested about the new building plans",
+    "translation": "протестовать",
+    "collocations": [
+      "protest against/about something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "protest",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a mass protest by students",
+    "translation": "протест",
+    "collocations": [],
+    "baseWord": "protest"
+  },
+  {
+    "word": "protester",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a mass protest by students",
+    "translation": "протестующий",
+    "collocations": [],
+    "baseWord": "protest"
+  },
+  {
+    "word": "rate",
+    "transcription": "reɪt",
+    "pos": "noun",
+    "definition": "the rate at which something happens is the number of times it happens over a certain period of time",
+    "example": "the crime rate is going down finally",
+    "translation": "уровень, показатель (частоты чего-либо)",
+    "collocations": [
+      "birth rate",
+      "death rate",
+      "divorce rate",
+      "crime rate"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "rising",
+    "transcription": "ˈraɪzɪŋ",
+    "pos": "adjective",
+    "definition": "something that is rising is getting bigger in number, size, or value",
+    "example": "they’re enjoying better conditions and rising salaries",
+    "translation": "растущий, повышающийся",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rise",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we expected to see a rise in the number of students",
+    "translation": "расти, повышаться",
+    "collocations": [],
+    "baseWord": "rising"
+  },
+  {
+    "word": "rise",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we expected to see a rise in the number of students",
+    "translation": "рост, повышение",
+    "collocations": [],
+    "baseWord": "rising"
+  },
+  {
+    "word": "sharp",
+    "transcription": "ʃɑː(r)p",
+    "pos": "adjective",
+    "definition": "a sharp change in the rate or size of something is a sudden and big change in it",
+    "example": "a sharp rise in immigration",
+    "translation": "резкий (о изменении)",
+    "collocations": [
+      "a sharp rise/increase"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sharply",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "prices rose sharply",
+    "translation": "резко",
+    "collocations": [],
+    "baseWord": "sharp"
+  },
+  {
+    "word": "shortage",
+    "transcription": "ˈʃɔː(r)tɪdʒ",
+    "pos": "noun",
+    "definition": "if there is a shortage of something, there is not enough of it",
+    "example": "there is a shortage of housing in the UK",
+    "translation": "нехватка, дефицит",
+    "collocations": [
+      "a shortage of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "short",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "I’m a bit short of cash at the moment. Can you lend me £10?",
+    "translation": "испытывающий нехватку (чего-либо)",
+    "collocations": [
+      "be short of something"
+    ],
+    "baseWord": "shortage"
+  },
+  {
+    "word": "slow down",
+    "transcription": "ˌsləʊ ˈdaʊn",
+    "pos": "verb",
+    "definition": "if a process or activity slows down, it starts to happen less actively. If a country’s economy slows down, there is less economic activity and businesses start to fail and people lose their jobs",
+    "example": "the market is beginning to slow down",
+    "translation": "замедляться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "slowdown",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Africa is feeling the full impact of the global economic slowdown",
+    "translation": "замедление (экономики)",
+    "collocations": [
+      "an economic slowdown"
+    ],
+    "baseWord": "slow down"
+  },
+  {
+    "word": "steadily",
+    "transcription": "ˈstedɪli",
+    "pos": "adverb",
+    "definition": "if something changes steadily, it changes constantly and gradually, and usually at the same rate",
+    "example": "house prices have been rising steadily for the last ten years",
+    "translation": "стабильно, неуклонно, постоянно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "steady",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a steady increase in prices",
+    "translation": "стабильный, устойчивый, постоянный",
+    "collocations": [],
+    "baseWord": "steadily"
+  },
+  {
+    "word": "target",
+    "transcription": "ˈtɑː(r)ɡɪt",
+    "pos": "noun",
+    "definition": "a target is something you are trying to achieve in your life or an objective you have as part of your job",
+    "example": "over 70% of students fail to reach their earnings target",
+    "translation": "цель, целевой показатель",
+    "collocations": [
+      "reach a target",
+      "miss a target",
+      "set a target"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "access",
+    "transcription": "ˈækses",
+    "pos": "noun",
+    "definition": "access to somewhere or something is the fact of being able to go there or use it",
+    "example": "compact room with access to own kitchen facilities",
+    "translation": "доступ",
+    "collocations": [
+      "access to somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "access",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "guests can access several tennis courts and the swimming pool",
+    "translation": "иметь доступ, получать доступ",
+    "collocations": [],
+    "baseWord": "access"
+  },
+  {
+    "word": "authorities",
+    "transcription": "ɔːˈθɒrətiːz",
+    "pos": "noun",
+    "definition": "the authorities are official institutions such as central and local government who are able to make laws and decide how a country, town, or city should be run",
+    "example": "the authorities have done a lot to reduce the crime rate",
+    "translation": "власти",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "awkward",
+    "transcription": "ˈɔːkwə(r)d",
+    "pos": "adjective",
+    "definition": "an awkward situation is one in which people feel embarrassed because it is difficult for them all to do what they want to do, and they do not want to make things difficult for the others",
+    "example": "it’s a bit awkward with three people trying to use the kitchen at once",
+    "translation": "неловкий, неудобный (о ситуации)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "awkwardly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we shook hands a little awkwardly, then left",
+    "translation": "неловко",
+    "collocations": [],
+    "baseWord": "awkward"
+  },
+  {
+    "word": "cover",
+    "transcription": "ˈkʌvə(r)",
+    "pos": "verb",
+    "definition": "if one thing covers something else, it is on top of the other thing so that it is difficult to see what is underneath",
+    "example": "cover the table with a cloth before you start painting on it",
+    "translation": "покрывать, накрывать",
+    "collocations": [
+      "cover something with something",
+      "be covered in something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "dead",
+    "transcription": "ded",
+    "pos": "adjective",
+    "definition": "if a place is dead, it is not very lively",
+    "example": "it’s pretty dead in the centre after 8 in the evening",
+    "translation": "безжизненный, скучный, вымерший (о месте)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "decorated",
+    "transcription": "ˈdekəreɪtɪd",
+    "pos": "adjective",
+    "definition": "something that is decorated has been made to look beautiful by being painted or by having pretty things added to it",
+    "example": "a huge and beautifully decorated house",
+    "translation": "украшенный, отделанный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "decorate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it took us all weekend to decorate the downstairs of the house",
+    "translation": "украшать, отделывать, делать ремонт",
+    "collocations": [],
+    "baseWord": "decorated"
+  },
+  {
+    "word": "decoration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the decoration in the bedrooms was a bit tired and needed redoing",
+    "translation": "отделка, украшение, декор",
+    "collocations": [],
+    "baseWord": "decorated"
+  },
+  {
+    "word": "distance",
+    "transcription": "ˈdɪstəns",
+    "pos": "noun",
+    "definition": "the distance between two things is the amount of space between them. If something is in the distance, you can see it or hear it, but it is a long way from where you are",
+    "example": "our flat is within walking distance of the college (it is easy to walk there)",
+    "translation": "расстояние",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "distant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he heard the distant sound of the motorway (the sound was coming from a long way away)",
+    "translation": "далекий, отдаленный",
+    "collocations": [],
+    "baseWord": "distance"
+  },
+  {
+    "word": "downstairs",
+    "transcription": "ˌdaʊnˈsteə(r)z",
+    "pos": "adverb",
+    "definition": "if something is downstairs, it is on the ground floor level of a building or on a level below where you are",
+    "example": "both the tables are needed downstairs",
+    "translation": "вниз, внизу (на первом этаже)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "downstairs",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the three downstairs rooms were all flooded",
+    "translation": "расположенный на первом этаже, нижний",
+    "collocations": [],
+    "baseWord": "downstairs"
+  },
+  {
+    "word": "filthy",
+    "transcription": "ˈfɪlθi",
+    "pos": "adjective",
+    "definition": "if something is filthy, it is extremely dirty",
+    "example": "the streets were filthy and covered in litter",
+    "translation": "грязный, крайне грязный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "filth",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "everything was covered in filth",
+    "translation": "грязь",
+    "collocations": [],
+    "baseWord": "filthy"
+  },
+  {
+    "word": "isolated",
+    "transcription": "ˈaɪsəˌleɪtɪd",
+    "pos": "adjective",
+    "definition": "an isolated place is far away from other buildings, shops, towns etc. If you feel isolated, you are lonely because you are in place that is a long way from your friends or family",
+    "example": "you’ll be a bit isolated without a car",
+    "translation": "изолированный, оторванный (от людей), уединенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "isolation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I didn’t like the isolation of working from home",
+    "translation": "изоляция, оторванность (от людей)",
+    "collocations": [],
+    "baseWord": "isolated"
+  },
+  {
+    "word": "litter",
+    "transcription": "ˈlɪtə(r)",
+    "pos": "noun",
+    "definition": "litter is rubbish that is dropped in public places and which makes those places look untidy",
+    "example": "the streets are covered in litter",
+    "translation": "мусор (на улицах)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "multicultural",
+    "transcription": "ˌmʌltiˈkʌltʃərəl",
+    "pos": "adjective",
+    "definition": "a place that is multicultural has people from a lot of different countries and cultures living and working together",
+    "example": "London is so much more multicultural than it was in the 1930s",
+    "translation": "многокультурный, мультикультурный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "naked",
+    "transcription": "ˈneɪkɪd",
+    "pos": "adjective",
+    "definition": "if you are naked, you have no clothes on",
+    "example": "you could go around naked and no one would see you",
+    "translation": "голый, обнаженный",
+    "collocations": [
+      "stark naked"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "offer",
+    "transcription": "ˈɒfə(r)",
+    "pos": "verb",
+    "definition": "to offer something means to have it available for people, either as part of a service or as part of what someone is buying or renting",
+    "example": "large, old house offering quiet, comfortable accommodation",
+    "translation": "предлагать (услугу, жилье)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "settle",
+    "transcription": "ˈset(ə)l",
+    "pos": "verb",
+    "definition": "if you settle somewhere, you start to live there permanently",
+    "example": "a lot of immigrants have settled here recently",
+    "translation": "поселяться, обосновываться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "settler",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "European settlers started to arrive in 1793",
+    "translation": "поселенец",
+    "collocations": [],
+    "baseWord": "settle"
+  },
+  {
+    "word": "tenant",
+    "transcription": "ˈtenənt",
+    "pos": "noun",
+    "definition": "a tenant is someone who pays rent to live in a house or flat, or in a room in a house or flat",
+    "example": "Anastasia is looking for a tenant",
+    "translation": "арендатор, квартиросъемщик",
+    "collocations": [],
+    "baseWord": null
+  }
+]

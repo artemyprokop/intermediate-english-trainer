@@ -1,0 +1,1081 @@
+[
+  {
+    "word": "bend",
+    "transcription": "bend",
+    "pos": "noun",
+    "definition": "if a road, river, etc bends, it changes direction in the shape of a curve. A bend is a curve in a road, river, etc",
+    "example": "a sharp bend in the road/river",
+    "translation": "поворот, изгиб (дороги, реки)",
+    "collocations": [
+      "a sharp/tight bend",
+      "a hairpin bend"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bend",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the river bends northeast towards the estuary",
+    "translation": "поворачивать, изгибаться",
+    "collocations": [
+      "bend sharply"
+    ],
+    "baseWord": "bend"
+  },
+  {
+    "word": "brake",
+    "transcription": "breɪk",
+    "pos": "verb",
+    "definition": "brakes are the equipment in a vehicle that you use for stopping or slowing down. If you brake, you stop or slow down the vehicle by using the brakes",
+    "example": "I had to brake sharply to avoid crashing into the back of her car",
+    "translation": "тормозить",
+    "collocations": [
+      "brake hard/sharply"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "brakes",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I saw a small boy run out so I slammed on the brakes",
+    "translation": "тормоза",
+    "collocations": [
+      "slam on/hit the brakes"
+    ],
+    "baseWord": "brake"
+  },
+  {
+    "word": "bumpy",
+    "transcription": "ˈbʌmpi",
+    "pos": "adjective",
+    "definition": "a bump is a raised, uneven part on a surface. If a journey is bumpy, it is uncomfortable because the vehicle you are in moves up and down a lot on the surface you are travelling along",
+    "example": "the road was really bumpy",
+    "translation": "ухабистый, неровный (о дороге)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bump",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we hit a bump in the road",
+    "translation": "ухаб, кочка",
+    "collocations": [],
+    "baseWord": "bumpy"
+  },
+  {
+    "word": "calm down",
+    "transcription": "kɑːm ˈdaʊn",
+    "pos": "phrasal verb",
+    "definition": "if you calm down, you become less excited, angry, or upset. If you calm someone down, you make them feel less excited, angry, or upset",
+    "example": "it took me a few minutes to calm down",
+    "translation": "успокаиваться, успокаивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "carriage",
+    "transcription": "ˈkærɪdʒ",
+    "pos": "noun",
+    "definition": "if a vehicle carries someone or something, it takes them there. A carriage is one of the separate sections of a train that carries passengers. The American word is car",
+    "example": "they sat in the first-class carriage",
+    "translation": "вагон (поезда)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "carry",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "a train carrying over 200 passengers has crashed in southern Spain",
+    "translation": "перевозить, нести",
+    "collocations": [],
+    "baseWord": "carriage"
+  },
+  {
+    "word": "check in",
+    "transcription": "tʃek ˈɪn",
+    "pos": "phrasal verb",
+    "definition": "if you check in at a hotel or airport, you give your personal details and show tickets etc so that you can use the hotel or travel on the flight",
+    "example": "we’ll go and check in at our hotel first",
+    "translation": "регистрироваться (в отеле, в аэропорту)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "check-in",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there was a huge queue at the check-in desk",
+    "translation": "регистрация (в отеле, в аэропорту)",
+    "collocations": [
+      "check-in desk/counter"
+    ],
+    "baseWord": "check in"
+  },
+  {
+    "word": "check out",
+    "transcription": "",
+    "pos": "phrasal verb",
+    "definition": "",
+    "example": "there was a huge queue at the check-in desk",
+    "translation": "выписываться (из отеля)",
+    "collocations": [
+      "check out of"
+    ],
+    "baseWord": "check in"
+  },
+  {
+    "word": "deck",
+    "transcription": "dek",
+    "pos": "noun",
+    "definition": "the deck of a boat is the outside part where you can walk. A deck is also one of the different levels or areas on a boat, plane, or bus",
+    "example": "it was too windy to go out on deck",
+    "translation": "палуба",
+    "collocations": [
+      "on deck"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "flat",
+    "transcription": "flæt",
+    "pos": "adjective",
+    "definition": "a flat tyre does not have enough air in it",
+    "example": "I think you’ve got a flat tyre",
+    "translation": "спущенный (о шине)",
+    "collocations": [
+      "a flat tyre"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "flat",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "twenty miles after we set off, I got a flat",
+    "translation": "прокол, спущенное колесо",
+    "collocations": [],
+    "baseWord": "flat"
+  },
+  {
+    "word": "go through",
+    "transcription": "ˈɡəʊ ˌθruː",
+    "pos": "phrasal verb",
+    "definition": "if you go through a difficult or unpleasant situation, you experience it",
+    "example": "I don’t want to go through that again",
+    "translation": "переживать, проходить через (трудности)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "hang around",
+    "transcription": "hæŋ əˈraʊnd",
+    "pos": "phrasal verb",
+    "definition": "if you hang around, you stay somewhere waiting or doing nothing",
+    "example": "they had to hang around for a while until the next train",
+    "translation": "слоняться, торчать (без дела), ждать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "harbour",
+    "transcription": "ˈhɑː(r)bə(r)",
+    "pos": "noun",
+    "definition": "a harbour is an area of sea next to the land where it is safe for boats to stay, and where people can get on and off boats",
+    "example": "it’s a coastal town with a pretty fishing harbour",
+    "translation": "гавань, порт",
+    "collocations": [
+      "a fishing/natural/sheltered harbour"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "line",
+    "transcription": "laɪn",
+    "pos": "noun",
+    "definition": "a line is a part of a railway system, or the metal track that trains travel along",
+    "example": "there are engineering works on the London to Brighton line",
+    "translation": "линия, ветка (железной дороги)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overtake",
+    "transcription": "ˌəʊvə(r)ˈteɪk",
+    "pos": "verb",
+    "definition": "if you overtake another vehicle when you are driving, you go past it because you are moving faster",
+    "example": "it’s too dangerous to overtake here",
+    "translation": "обгонять, совершать обгон",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "platform",
+    "transcription": "ˈplætˌfɔː(r)m",
+    "pos": "noun",
+    "definition": "at a railway station, the platforms are the areas next to the track, where passengers get on and off trains",
+    "example": "the 9.23 to Newcastle will depart from platform 3",
+    "translation": "платформа, перрон",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "rough",
+    "transcription": "rʌf",
+    "pos": "adjective",
+    "definition": "if the sea is rough, there are a lot of waves on the surface because the weather is bad",
+    "example": "the ferry was delayed because of rough seas",
+    "translation": "бурный, неспокойный (о море)",
+    "collocations": [
+      "a rough sea",
+      "rough seas"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "set off",
+    "transcription": "set ˈɒf",
+    "pos": "phrasal verb",
+    "definition": "if you set off, you begin a journey",
+    "example": "they set off early the next day",
+    "translation": "отправляться (в путь)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "slippery",
+    "transcription": "ˈslɪpəri",
+    "pos": "adjective",
+    "definition": "if you slip, your foot moves accidentally and you lose your balance or fall. A surface that is slippery is very smooth or wet and difficult to walk on, so it could make you slip",
+    "example": "watch out, the ground is really slippery over there",
+    "translation": "скользкий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "slip",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "It’s muddy over there - be careful you don’t slip",
+    "translation": "поскользнуться",
+    "collocations": [
+      "slip on something"
+    ],
+    "baseWord": "slippery"
+  },
+  {
+    "word": "smooth",
+    "transcription": "smuːð",
+    "pos": "adjective",
+    "definition": "if a journey across the sea is smooth, the boat you are travelling in does not move about much because there are not many waves on the surface of the sea",
+    "example": "we had a smooth crossing and I didn’t feel ill at all",
+    "translation": "спокойный, плавный (о морском переходе)",
+    "collocations": [
+      "a smooth crossing"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "terrifying",
+    "transcription": "ˈterəˌfaɪɪŋ",
+    "pos": "adjective",
+    "definition": "something that is terrifying makes you feel extremely frightened",
+    "example": "it was a terrifying experience that I’d rather forget",
+    "translation": "ужасающий, пугающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "terrifyingly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the cave was terrifyingly dark",
+    "translation": "ужасающе, пугающе",
+    "collocations": [
+      "terrified of something"
+    ],
+    "baseWord": "terrifying"
+  },
+  {
+    "word": "terrify",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the cave was terrifyingly dark",
+    "translation": "ужасать, пугать",
+    "collocations": [
+      "terrified of something"
+    ],
+    "baseWord": "terrifying"
+  },
+  {
+    "word": "terrified",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the shootings terrified the neighbourhood",
+    "translation": "напуганный, в ужасе",
+    "collocations": [
+      "terrified of something"
+    ],
+    "baseWord": "terrifying"
+  },
+  {
+    "word": "tight",
+    "transcription": "taɪt",
+    "pos": "adjective",
+    "definition": "a tight bend is a bend in a road, track, etc which curves a lot and is difficult to drive around",
+    "example": "the two vehicles collided on a tight bend",
+    "translation": "крутой, резкий (о повороте)",
+    "collocations": [
+      "a tight bend"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "tyre",
+    "transcription": "ˈtaɪə(r)",
+    "pos": "noun",
+    "definition": "a tyre is a thick rubber cover which fits around the wheel of a car, bicycle, or other vehicle",
+    "example": "we got a flat tyre on the motorway",
+    "translation": "шина, покрышка",
+    "collocations": [
+      "a flat tyre",
+      "a spare tyre"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "asylum",
+    "transcription": "əˈsaɪləm",
+    "pos": "noun",
+    "definition": "asylum is the right to stay in a country. It is given by a government to someone who is unable to return to their own country for political reasons",
+    "example": "over 500 refugees were granted asylum",
+    "translation": "убежище (политическое)",
+    "collocations": [
+      "grant someone asylum",
+      "seek asylum",
+      "political asylum",
+      "an asylum seeker"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "collapse",
+    "transcription": "kəˈlæps",
+    "pos": "verb",
+    "definition": "if something or someone collapses, they suddenly fall down. If a system collapses, it suddenly fails or comes to an end",
+    "example": "if the government hadn’t helped the banks, the economy would have collapsed",
+    "translation": "рушиться, разваливаться, обваливаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "collapse",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "various factors contributed to the collapse of the economy",
+    "translation": "крах, крушение, обвал",
+    "collocations": [
+      "the collapse of something",
+      "be on the brink/ point/verge of collapse"
+    ],
+    "baseWord": "collapse"
+  },
+  {
+    "word": "connected",
+    "transcription": "kəˈnektɪd",
+    "pos": "adjective",
+    "definition": "if something is well connected, it has good links with other things",
+    "example": "refugees are often well connected, and may have friends and families in countries all over the world",
+    "translation": "имеющий связи, связанный (с полезными контактами)",
+    "collocations": [
+      "well connected"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "connection Verb:  connect",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "something to/with something",
+    "example": "there are good connections between the capital and other towns",
+    "translation": "связь, сообщение (транспортное)",
+    "collocations": [
+      "connection between something and something",
+      "connection to/with something",
+      "connect"
+    ],
+    "baseWord": "connected"
+  },
+  {
+    "word": "considerable",
+    "transcription": "kənˈsɪd(ə)rəb(ə)l",
+    "pos": "adjective",
+    "definition": "considerable means large in amount or degree",
+    "example": "renovation of the building is likely to cost a considerable amount of money",
+    "translation": "значительный, существенный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "considerably",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "their room was considerably larger than ours",
+    "translation": "значительно, существенно",
+    "collocations": [],
+    "baseWord": "considerable"
+  },
+  {
+    "word": "contribution",
+    "transcription": "ˌkɒntrɪˈbjuːʃ(ə)n",
+    "pos": "noun",
+    "definition": "if you make a contribution to something, you do something to help make it successful or to achieve it contribution",
+    "example": "this kind of industry makes a significant contribution to the national economy",
+    "translation": "вклад",
+    "collocations": [
+      "make a contribution (to something)",
+      "an important/major/outstanding/significant/useful/valuable"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "contribute Noun:  contributor",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "Mr Fellowes didn’t really contribute much to the discussion",
+    "translation": "вносить вклад, способствовать",
+    "collocations": [
+      "contribute something to/towards something",
+      "contributor to something"
+    ],
+    "baseWord": "contribution"
+  },
+  {
+    "word": "critical",
+    "transcription": "ˈkrɪtɪk(ə)l",
+    "pos": "adjective",
+    "definition": "someone who is critical gives their opinion when they think something is wrong or bad",
+    "example": "the writer is critical of the way immigration is often discussed",
+    "translation": "критически настроенный, осуждающий",
+    "collocations": [
+      "critical of something/someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "criticism",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "constructive criticism",
+    "translation": "критика",
+    "collocations": [
+      "criticism of someone or something",
+      "attract criticism",
+      "harsh/heavy/fierce/strong criticism"
+    ],
+    "baseWord": "critical"
+  },
+  {
+    "word": "criticise",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "criticise someone for (doing) something",
+    "translation": "критиковать",
+    "collocations": [
+      "criticism of someone or something",
+      "attract criticism",
+      "harsh/heavy/fierce/strong criticism"
+    ],
+    "baseWord": "critical"
+  },
+  {
+    "word": "detention centre",
+    "transcription": "dɪˈtenʃ(ə)n ˌsentə(r)",
+    "pos": "noun",
+    "definition": "a detention centre is a place like a prison for people who don’t have permission to be in a country. They are kept there while the authorities decide whether to allow them to stay",
+    "example": "Hussain was then kept in a government detention centre for another nine months before finally being allowed to stay in the country",
+    "translation": "центр содержания мигрантов, центр временного содержания",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fit",
+    "transcription": "fɪt",
+    "pos": "adjective",
+    "definition": "if someone is fit, they are healthy and can do physical exercise without becoming tired",
+    "example": "our team might have won if all our players had been fit",
+    "translation": "в хорошей физической форме",
+    "collocations": [
+      "get fit"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "fitness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he needs to work on his fitness if he’s going to win",
+    "translation": "физическая форма, подготовка",
+    "collocations": [],
+    "baseWord": "fit"
+  },
+  {
+    "word": "flee",
+    "transcription": "fliː",
+    "pos": "verb",
+    "definition": "if you flee a dangerous place or situation, you escape from it quickly",
+    "example": "thousands of refugees are fleeing across the border to safety",
+    "translation": "бежать, спасаться бегством",
+    "collocations": [
+      "flee across from/to/into somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "gang",
+    "transcription": "ɡæŋ",
+    "pos": "noun",
+    "definition": "a gang is a group of people who spend a lot of time together, often for criminal reasons",
+    "example": "they were operating as an organised gang",
+    "translation": "банда, группировка",
+    "collocations": [
+      "a gang of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "generate",
+    "transcription": "ˈdʒenəreɪt",
+    "pos": "verb",
+    "definition": "if you generate something, you produce it or cause it to develop",
+    "example": "these small businesses never generate much money",
+    "translation": "производить, генерировать, порождать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "generation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "electricity generation",
+    "translation": "производство, генерация, выработка",
+    "collocations": [],
+    "baseWord": "generate"
+  },
+  {
+    "word": "hazardous",
+    "transcription": "ˈhæzə(r)dəs",
+    "pos": "adjective",
+    "definition": "a hazard is something that could be dangerous or cause damage. If something is hazardous, it could be dangerous for a person’s health or safety",
+    "example": "he had survived in some of the most hazardous waters on Earth",
+    "translation": "опасный, рискованный",
+    "collocations": [
+      "hazardous to something or someone"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "hazard",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "smoking is a well-known health hazard",
+    "translation": "опасность, риск",
+    "collocations": [],
+    "baseWord": "hazardous"
+  },
+  {
+    "word": "mature",
+    "transcription": "məˈtʃʊə(r)",
+    "pos": "adjective",
+    "definition": "someone who is mature has a fully developed personality and behaves in a sensible way",
+    "example": "Anna was much more mature than the other girls in the group",
+    "translation": "зрелый, взрослый (по характеру)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mature",
+    "transcription": "məˈtʃʊə(r)",
+    "pos": "verb",
+    "definition": "if someone matures, their personality becomes more fully developed and they behave in a sensible way",
+    "example": "it’s not just individuals that mature and grow because of immigration, but nations as well",
+    "translation": "взрослеть, становиться зрелым",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "maturity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "John had acquired a sudden remarkable maturity",
+    "translation": "зрелость",
+    "collocations": [],
+    "baseWord": "mature"
+  },
+  {
+    "word": "immature",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "Pablo can be so annoying at times, he’s very immature",
+    "translation": "незрелый, инфантильный",
+    "collocations": [],
+    "baseWord": "mature"
+  },
+  {
+    "word": "ordeal",
+    "transcription": "ɔː(r)ˈdiːl",
+    "pos": "noun",
+    "definition": "an ordeal is a very difficult and unpleasant experience",
+    "example": "the two women suffered a terrifying ordeal",
+    "translation": "тяжелое испытание",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "refugee",
+    "transcription": "ˌrefjʊˈdʒiː",
+    "pos": "noun",
+    "definition": "a refugee is someone who has left their country because of war or their political or religious beliefs, or because of an event such as an earthquake, flood, etc",
+    "example": "the troubles have caused thousands to flock to refugee camps",
+    "translation": "беженец",
+    "collocations": [
+      "a refugee camp"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "seeker",
+    "transcription": "ˈsiːkə(r)",
+    "pos": "noun",
+    "definition": "if you seek something, you try to get it. A seeker is someone who is trying to find or get something",
+    "example": "he’s always been a publicity seeker",
+    "translation": "ищущий (что-либо), соискатель",
+    "collocations": [
+      "an asylum seeker",
+      "a job seeker"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "seek",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if these symptoms persist, then seek medical advice",
+    "translation": "искать, добиваться",
+    "collocations": [
+      "seek advice/help",
+      "seek asylum/shelter/ refuge"
+    ],
+    "baseWord": "seeker"
+  },
+  {
+    "word": "skill set",
+    "transcription": "ˈskɪl ˌset",
+    "pos": "noun",
+    "definition": "a skill is an ability to do something. A skill set is the range of things that a person can do well",
+    "example": "having a broad skill set has provided a lot of opportunities",
+    "translation": "набор навыков",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "squeeze",
+    "transcription": "skwiːz",
+    "pos": "verb",
+    "definition": "if you squeeze a person or thing somewhere, or if they squeeze somewhere, they manage to move into a small space",
+    "example": "we managed to squeeze everything into one bag",
+    "translation": "втискивать(ся), впихивать(ся)",
+    "collocations": [
+      "squeeze (something or someone) into somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "squeeze",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it was a bit of a squeeze, but we all managed to find a seat",
+    "translation": "теснота, давка",
+    "collocations": [],
+    "baseWord": "squeeze"
+  },
+  {
+    "word": "target",
+    "transcription": "ˈtɑː(r)ɡɪt",
+    "pos": "verb",
+    "definition": "a target is an object that you try to hit in a game or sport. If you target someone or something, you try or intend to attack them",
+    "example": "as a member of an ethnic minority he was often targeted and treated badly",
+    "translation": "выбирать мишенью, нападать на",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "target",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "tourists have become targets for terrorist attacks",
+    "translation": "мишень, цель",
+    "collocations": [
+      "annual turnover"
+    ],
+    "baseWord": "target"
+  },
+  {
+    "word": "allowance",
+    "transcription": "əˈlaʊəns",
+    "pos": "noun",
+    "definition": "if you are allowed something, or if you are allowed to do something, you are given permission to have or do it. An allowance is an amount of something that you are officially allowed to have by a particular set of rules",
+    "example": "you need to be careful that you don’t exceed the baggage allowance of 20 kilos",
+    "translation": "норма, допустимое количество",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "allow",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "smoking is not allowed in the auditorium",
+    "translation": "разрешать, позволять",
+    "collocations": [],
+    "baseWord": "allowance"
+  },
+  {
+    "word": "assume",
+    "transcription": "əˈsjuːm",
+    "pos": "verb",
+    "definition": "if you assume that something is true, you believe it is true even though you do not have proof",
+    "example": "I assume that it’s hot in Spain at the moment",
+    "translation": "предполагать, допускать",
+    "collocations": [
+      "assume that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "assumption",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I’m sorry, but that’s a completely false assumption",
+    "translation": "предположение, допущение",
+    "collocations": [
+      "make an assumption",
+      "a false assumption"
+    ],
+    "baseWord": "assume"
+  },
+  {
+    "word": "bite",
+    "transcription": "baɪt",
+    "pos": "noun",
+    "definition": "if you bite something, you use your teeth to cut into it or make a hole in it. A bite is an injury or mark on your skin where an insect or other animal has bitten you",
+    "example": "he had a nasty bite on his leg",
+    "translation": "укус",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bite",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "does Jack’s rabbit bite?",
+    "translation": "кусать(ся)",
+    "collocations": [],
+    "baseWord": "bite"
+  },
+  {
+    "word": "blame",
+    "transcription": "bleɪm",
+    "pos": "verb",
+    "definition": "if you blame someone or something, you say that they have caused a problem for something",
+    "example": "I blame the media for all this fuss",
+    "translation": "винить, обвинять",
+    "collocations": [
+      "blame something on someone/something",
+      "blame someone/something for something",
+      "be to blame"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "blame",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he doesn’t deserve the blame for what happened",
+    "translation": "вина, ответственность (за что-либо плохое)",
+    "collocations": [
+      "blame for something",
+      "get/take the blame",
+      "put/lay the blame on someone"
+    ],
+    "baseWord": "blame"
+  },
+  {
+    "word": "careful",
+    "transcription": "ˈkeə(r)f(ə)l",
+    "pos": "adjective",
+    "definition": "if someone is careful, they think about what they are doing so that they avoid problems or mistakes",
+    "example": "his success is down to careful planning",
+    "translation": "осторожный, внимательный",
+    "collocations": [
+      "careful about something",
+      "careful what/how/ who, etc",
+      "careful that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "carefully",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "read the instructions carefully",
+    "translation": "осторожно, внимательно",
+    "collocations": [],
+    "baseWord": "careful"
+  },
+  {
+    "word": "careless",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was so careless he left his wallet at home",
+    "translation": "небрежный, неосторожный",
+    "collocations": [],
+    "baseWord": "careful"
+  },
+  {
+    "word": "carelessly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he carelessly dropped his briefcase on the bed",
+    "translation": "небрежно, неосторожно",
+    "collocations": [],
+    "baseWord": "careful"
+  },
+  {
+    "word": "conditions",
+    "transcription": "kənˈdɪʃ(ə)nz",
+    "pos": "noun",
+    "definition": "conditions are the things that must be true or be done as part of an agreement, law, or contract",
+    "example": "you have to meet strict financial conditions in order to qualify",
+    "translation": "условия",
+    "collocations": [
+      "meet/satisfy the conditions",
+      "terms and conditions"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "excess",
+    "transcription": "ˈekses",
+    "pos": "adjective",
+    "definition": "excess means more than is usual or needed",
+    "example": "drain off any excess fat and add water",
+    "translation": "избыточный, лишний",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "excess",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "tests revealed an excess of alcohol in the victim’s blood",
+    "translation": "избыток, излишек",
+    "collocations": [
+      "an excess of something"
+    ],
+    "baseWord": "excess"
+  },
+  {
+    "word": "excessive",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the restaurant was lovely but the prices were a bit excessive",
+    "translation": "чрезмерный, избыточный",
+    "collocations": [
+      "an excess of something"
+    ],
+    "baseWord": "excess"
+  },
+  {
+    "word": "fascinating",
+    "transcription": "ˈfæsɪneɪtɪŋ",
+    "pos": "adjective",
+    "definition": "something that is fascinating is very interesting",
+    "example": "I found her story absolutely fascinating",
+    "translation": "увлекательный, завораживающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fascinate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "geology is a subject that has always fascinated me",
+    "translation": "увлекать, завораживать",
+    "collocations": [
+      "fascinated by/with something"
+    ],
+    "baseWord": "fascinating"
+  },
+  {
+    "word": "fascinated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "geology is a subject that has always fascinated me",
+    "translation": "увлеченный, очарованный",
+    "collocations": [
+      "fascinated by/with something"
+    ],
+    "baseWord": "fascinating"
+  },
+  {
+    "word": "fascinatingly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "Eden is a fascinatingly complex character",
+    "translation": "увлекательно, поразительно",
+    "collocations": [
+      "fascinated by/with something"
+    ],
+    "baseWord": "fascinating"
+  },
+  {
+    "word": "filthy",
+    "transcription": "ˈfɪlθi",
+    "pos": "adjective",
+    "definition": "if someone or something is filthy, they are very dirty",
+    "example": "I must change this tablecloth, it’s filthy",
+    "translation": "грязный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "filth",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "everything was covered in filth",
+    "translation": "грязь",
+    "collocations": [],
+    "baseWord": "filthy"
+  },
+  {
+    "word": "hang",
+    "transcription": "hæŋ",
+    "pos": "verb",
+    "definition": "if you hang something somewhere, you put it so that it is held at the top, and the bottom doesn’t touch the ground",
+    "example": "you can hang your coats over there",
+    "translation": "вешать",
+    "collocations": [
+      "hang something on/over somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "hang up",
+    "transcription": "",
+    "pos": "phrasal verb",
+    "definition": "",
+    "example": "I washed my clothes and hung them up to dry",
+    "translation": "вешать, развешивать (сушиться)",
+    "collocations": [],
+    "baseWord": "hang"
+  },
+  {
+    "word": "in advance",
+    "transcription": "ɪn ədˈvɑːns",
+    "pos": "phrase",
+    "definition": "if you do something in advance, you do it before a particular time or event in the future",
+    "example": "you can reserve seats in advance",
+    "translation": "заранее",
+    "collocations": [
+      "well in advance",
+      "in advance of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "packed",
+    "transcription": "pækt",
+    "pos": "adjective",
+    "definition": "if a place or object is packed, it is full of people or things",
+    "example": "every museum was packed with tourists",
+    "translation": "переполненный, битком набитый",
+    "collocations": [
+      "packed with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "rash",
+    "transcription": "ræʃ",
+    "pos": "noun",
+    "definition": "a rash is an area of red spots that you get on your skin if you eat or come into contact with something that makes your body sick",
+    "example": "I’ve got a rash on my legs",
+    "translation": "сыпь",
+    "collocations": [
+      "come out in a rash"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "soaked",
+    "transcription": "səʊkt",
+    "pos": "adjective",
+    "definition": "if someone or something is soaked, they are extremely wet",
+    "example": "take an umbrella or you’ll get soaked",
+    "translation": "промокший насквозь",
+    "collocations": [
+      "get soaked",
+      "be soaked to the skin"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "soak",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "last night’s heavy rain soaked the tent and all our stuff",
+    "translation": "промочить насквозь, вымочить",
+    "collocations": [],
+    "baseWord": "soaked"
+  }
+]

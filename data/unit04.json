@@ -1,0 +1,949 @@
+[
+  {
+    "word": "baking",
+    "transcription": "beɪkɪŋ",
+    "pos": "noun",
+    "definition": "baking is the activity of making bread, cakes, pies etc that you cook in an oven",
+    "example": "I did some baking for my sister’s birthday party",
+    "translation": "выпечка (приготовление в духовке)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bake",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "bake the loaf for 40 minutes",
+    "translation": "печь, выпекать",
+    "collocations": [],
+    "baseWord": "baking"
+  },
+  {
+    "word": "baker",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my dad’s a really good baker",
+    "translation": "пекарь",
+    "collocations": [],
+    "baseWord": "baking"
+  },
+  {
+    "word": "block",
+    "transcription": "blɒk",
+    "pos": "noun",
+    "definition": "a block is a group of buildings in a town or city with streets on all sides",
+    "example": "we took a walk around the block",
+    "translation": "квартал (городской)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "card",
+    "transcription": "kɑː(r)d",
+    "pos": "noun",
+    "definition": "a card or a playing card is a small piece of cardboard that has numbers or pictures on it, used for playing games. A pack of cards usually has 52 cards in it. If you play cards, you play a game using a pack of cards",
+    "example": "I don’t enjoy card games",
+    "translation": "карта (игральная)",
+    "collocations": [
+      "play cards",
+      "a pack/deck of cards",
+      "shuffle the cards",
+      "deal the cards"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "end up",
+    "transcription": "ˌend ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "if you end up doing something, you eventually do it, although you probably did not want to or mean to do it",
+    "example": "I usually end up telling everybody everything",
+    "translation": "кончать тем, что; в итоге оказываться",
+    "collocations": [
+      "end up doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "impressive",
+    "transcription": "ɪmˈpresɪv",
+    "pos": "adjective",
+    "definition": "something that is impressive is very good and makes you admire it",
+    "example": "his piano playing was really impressive",
+    "translation": "впечатляющий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "impress",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "what impressed me about the film was the quality of the acting",
+    "translation": "производить впечатление, впечатлять",
+    "collocations": [],
+    "baseWord": "impressive"
+  },
+  {
+    "word": "play",
+    "transcription": "pleɪ",
+    "pos": "noun",
+    "definition": "a play is a story that is performed by actors who speak the words of the people who are in the story and who behave as if they are the people",
+    "example": "we went to the theatre and saw an amazing play",
+    "translation": "пьеса (театральная)",
+    "collocations": [
+      "write a play",
+      "act in a play",
+      "see a play"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sailing",
+    "transcription": "ˈseɪlɪŋ",
+    "pos": "noun",
+    "definition": "if you go sailing, you go on the water in a small boat that has sails, for pleasure or as a sport",
+    "example": "I went sailing on a big lake near my house",
+    "translation": "плавание под парусом, парусный спорт",
+    "collocations": [
+      "go sailing",
+      "a sailing club"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "trust",
+    "transcription": "trʌst",
+    "pos": "verb",
+    "definition": "if you trust someone, you think they are honest, and you believe they will not try to do anything bad to you",
+    "example": "most people seem to trust me",
+    "translation": "доверять",
+    "collocations": [
+      "trust someone to do something",
+      "trust someone completely"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "trust",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "it’s a slow process to gain his trust",
+    "translation": "доверие",
+    "collocations": [
+      "earn/gain someone’s trust",
+      "place/put your trust in someone"
+    ],
+    "baseWord": "trust"
+  },
+  {
+    "word": "balance",
+    "transcription": "ˈbæləns",
+    "pos": "noun",
+    "definition": "your balance is your ability to stand still and not fall over. If you are off balance, your body is leaning on one side and you may fall",
+    "example": "you need good balance for judo",
+    "translation": "равновесие",
+    "collocations": [
+      "lose your balance",
+      "be off balance",
+      "regain your balance"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bang",
+    "transcription": "bæŋ",
+    "pos": "verb",
+    "definition": "if you bang something, you hit it. If you bang a part of your body, you accidentally hit it against something",
+    "example": "I fell off my bike and banged my head",
+    "translation": "удариться, стукнуться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bang",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the door suddenly flew open and I got a bang on the head",
+    "translation": "удар, стук",
+    "collocations": [],
+    "baseWord": "bang"
+  },
+  {
+    "word": "bet",
+    "transcription": "bet",
+    "pos": "verb",
+    "definition": "if you bet, you risk money on the result of a game, race, or other activity. If you say to someone “I bet I can” do something, you are telling them that you think you can do it, even if they think you can’t",
+    "example": "I bet I could throw you over",
+    "translation": "держать пари, спорить (на деньги)",
+    "collocations": [
+      "bet someone (that)",
+      "bet against someone/ something",
+      "bet (something) on something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bet",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a £5 bet",
+    "translation": "пари, ставка",
+    "collocations": [
+      "place a bet"
+    ],
+    "baseWord": "bet"
+  },
+  {
+    "word": "betting",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my father always warned me against betting",
+    "translation": "азартные игры на деньги, ставки",
+    "collocations": [
+      "place a bet"
+    ],
+    "baseWord": "bet"
+  },
+  {
+    "word": "boast",
+    "transcription": "bəʊst",
+    "pos": "verb",
+    "definition": "if you boast, you tell other people that you are very good at something or that you have very nice or expensive things in a way that is very annoying",
+    "example": "Rika never boasts about her success",
+    "translation": "хвастаться",
+    "collocations": [
+      "boast about something (to someone)",
+      "boast that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "bully",
+    "transcription": "ˈbʊli",
+    "pos": "verb",
+    "definition": "if someone bullies you, they hurt you or laugh at you because you are different from them and weaker than them",
+    "example": "the big kids used to bully me at school",
+    "translation": "издеваться, травить (более слабого)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bully",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he’s a horrible bully!",
+    "translation": "задира, хулиган",
+    "collocations": [],
+    "baseWord": "bully"
+  },
+  {
+    "word": "bullying",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "bullying is a big problem in the school",
+    "translation": "травля, издевательства",
+    "collocations": [],
+    "baseWord": "bully"
+  },
+  {
+    "word": "champion",
+    "transcription": "ˈtʃæmpiən",
+    "pos": "noun",
+    "definition": "a champion is the person who has won a sports competition",
+    "example": "she’s a famous judo champion",
+    "translation": "чемпион",
+    "collocations": [
+      "a defending champion",
+      "a world champion"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "championship",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she won the school table tennis championship",
+    "translation": "чемпионат",
+    "collocations": [],
+    "baseWord": "champion"
+  },
+  {
+    "word": "confidence",
+    "transcription": "ˈkɒnfɪd(ə)ns",
+    "pos": "noun",
+    "definition": "confidence is your belief in your ability to do something well",
+    "example": "I lost a lot of confidence after he beat me",
+    "translation": "уверенность (в себе)",
+    "collocations": [
+      "lose confidence",
+      "regain/recover confidence"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "confident",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he entered the tournament confident that he could win it",
+    "translation": "уверенный (в себе)",
+    "collocations": [],
+    "baseWord": "confidence"
+  },
+  {
+    "word": "confidently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "we confidently believed that we could succeed where others failed",
+    "translation": "уверенно",
+    "collocations": [],
+    "baseWord": "confidence"
+  },
+  {
+    "word": "defend",
+    "transcription": "dɪˈfend",
+    "pos": "verb",
+    "definition": "to defend someone or something means to try and protect them by fighting against someone who is attacking them",
+    "example": "I wanted to learn judo so I could defend myself",
+    "translation": "защищать(ся)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "defence",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "my grandfather died during the defence of Stalingrad",
+    "translation": "оборона, защита",
+    "collocations": [],
+    "baseWord": "defend"
+  },
+  {
+    "word": "self-defence",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I decided to join a self-defence class (where people learn how to defend themselves if they are attacked)",
+    "translation": "самооборона",
+    "collocations": [],
+    "baseWord": "defend"
+  },
+  {
+    "word": "fall off",
+    "transcription": "ˌfɔːl ˈɒf",
+    "pos": "phrasal verb",
+    "definition": "if you fall off something that you are standing or sitting on, you accidentally drop to the ground from there",
+    "example": "I fell off my bike and hurt myself",
+    "translation": "упасть (с чего-либо)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "final",
+    "transcription": "ˈfaɪn(ə)l",
+    "pos": "noun",
+    "definition": "the quarter-finals are the four matches in a competition which are played when there are eight people or teams left in the competition. The two semi-finals are the matches that are played when there are only four people or teams left, and the final is the game or match between the last two players or teams. The winner of the final is the winner of the whole competition",
+    "example": "she won the final of the women’s national judo championship",
+    "translation": "финал",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "finalist",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she was a semi-finalist in the national championship",
+    "translation": "финалист",
+    "collocations": [],
+    "baseWord": "final"
+  },
+  {
+    "word": "semi-finalist",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she was a semi-finalist in the national championship",
+    "translation": "полуфиналист",
+    "collocations": [],
+    "baseWord": "final"
+  },
+  {
+    "word": "quarter-finalist",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the crowd cheered as the two finalists came onto the pitch",
+    "translation": "четвертьфиналист",
+    "collocations": [],
+    "baseWord": "final"
+  },
+  {
+    "word": "go on",
+    "transcription": "ˌɡəʊ ˈɒn",
+    "pos": "phrasal verb",
+    "definition": "if you go on to do something, you do it after you have done something else",
+    "example": "the girl who beat me went on to win the whole competition",
+    "translation": "впоследствии сделать (что-то), в дальнейшем",
+    "collocations": [
+      "go on to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "helmet",
+    "transcription": "ˈhelmɪt",
+    "pos": "noun",
+    "definition": "a helmet is a hard hat that you wear to protect your head",
+    "example": "luckily, I was wearing my helmet",
+    "translation": "шлем",
+    "collocations": [
+      "put a helmet on",
+      "take a helmet off"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "injury",
+    "transcription": "ˈɪndʒəri",
+    "pos": "noun",
+    "definition": "if you have an injury, a part of your body has been hurt and needs time to recover",
+    "example": "I got a really bad knee injury",
+    "translation": "травма",
+    "collocations": [
+      "suffer an injury"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "injure",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he injured his shoulder playing football",
+    "translation": "травмировать, повредить",
+    "collocations": [],
+    "baseWord": "injury"
+  },
+  {
+    "word": "injured",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he injured his shoulder playing football",
+    "translation": "травмированный, раненый",
+    "collocations": [],
+    "baseWord": "injury"
+  },
+  {
+    "word": "patience",
+    "transcription": "ˈpeɪʃ(ə)ns",
+    "pos": "noun",
+    "definition": "patience is the ability to do something that takes a long time without losing interest or becoming angry or upset",
+    "example": "I’m beginning to lose my patience",
+    "translation": "терпение",
+    "collocations": [
+      "lose your patience",
+      "test/try/exhaust someone’s patience",
+      "have/require patience"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "patient",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "thanks for waiting, you’ve been very patient",
+    "translation": "терпеливый",
+    "collocations": [
+      "be patient with someone/something"
+    ],
+    "baseWord": "patience"
+  },
+  {
+    "word": "patiently",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "they waited patiently until the bus arrived",
+    "translation": "терпеливо",
+    "collocations": [
+      "be patient with someone/something"
+    ],
+    "baseWord": "patience"
+  },
+  {
+    "word": "persuade",
+    "transcription": "pə(r)ˈsweɪd",
+    "pos": "verb",
+    "definition": "if you persuade someone to do something, you talk to them and give reasons so that they agree to do it",
+    "example": "I tried to persuade him to change his mind",
+    "translation": "убеждать, уговаривать",
+    "collocations": [
+      "persuade someone to do something",
+      "persuade someone that"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "persuasion",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "She has the power of persuasion to make people do whatever she wants",
+    "translation": "убеждение (умение уговорить)",
+    "collocations": [],
+    "baseWord": "persuade"
+  },
+  {
+    "word": "properly",
+    "transcription": "ˈprɒpə(r)li",
+    "pos": "adverb",
+    "definition": "if you do something properly you do it correctly. If something happens properly, it happens in the way it is meant to happen",
+    "example": "my injury has never properly healed",
+    "translation": "как следует, должным образом",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "proper",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "make sure you get proper medical treatment",
+    "translation": "надлежащий, настоящий, правильный",
+    "collocations": [],
+    "baseWord": "properly"
+  },
+  {
+    "word": "pull a muscle",
+    "transcription": "ˌpʊl ə ˈmʌs(ə)l",
+    "pos": "verb",
+    "definition": "if you pull a muscle, you injure it by stretching it too much",
+    "example": "I pulled a muscle in my leg",
+    "translation": "потянуть мышцу",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "recover",
+    "transcription": "rɪˈkʌvə(r)",
+    "pos": "verb",
+    "definition": "if you recover a mental or physical state, you get it back again after you have spent some time without it",
+    "example": "it took a while to recover my confidence",
+    "translation": "восстановить, вернуть (прежнее состояние)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "slip",
+    "transcription": "slɪp",
+    "pos": "verb",
+    "definition": "if you slip, your foot moves accidentally and you lose your balance or fall. You usually slip when the ground is wet",
+    "example": "it’s a bit muddy – be careful you don’t slip",
+    "translation": "поскользнуться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "slippery",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the river bank is very slippery",
+    "translation": "скользкий",
+    "collocations": [],
+    "baseWord": "slip"
+  },
+  {
+    "word": "stiff",
+    "transcription": "stɪf",
+    "pos": "adjective",
+    "definition": "if something is stiff, it is difficult to move. If your muscles are stiff, they hurt because you have used them too much",
+    "example": "my legs are really stiff after the long walk yesterday",
+    "translation": "затекший, одеревеневший (о мышцах)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stiffly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he marched stiffly to the door and went out",
+    "translation": "скованно, одеревенело",
+    "collocations": [],
+    "baseWord": "stiff"
+  },
+  {
+    "word": "stiffness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "some stiffness is to be expected after that sort of exercise",
+    "translation": "скованность, онемение (мышц)",
+    "collocations": [],
+    "baseWord": "stiff"
+  },
+  {
+    "word": "tournament",
+    "transcription": "ˈtʊə(r)nəmənt",
+    "pos": "noun",
+    "definition": "a tournament is a competition with several rounds. When a team or player loses, they leave the competition. At the end, just two teams or players are left and they play the final to decide who is the winner of the whole",
+    "example": "tournament Rika won the judo tournament",
+    "translation": "турнир",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "training",
+    "transcription": "ˈtreɪnɪŋ",
+    "pos": "noun",
+    "definition": "training is doing exercises and practice in order to become fit and to develop the skills needed for a sport",
+    "example": "I had an injury which stopped me doing any training",
+    "translation": "тренировки, подготовка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "train",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "he trains hard every day",
+    "translation": "тренироваться",
+    "collocations": [
+      "train for something"
+    ],
+    "baseWord": "training"
+  },
+  {
+    "word": "warm up",
+    "transcription": "ˌwɔː(r)m ˈʌp",
+    "pos": "phrasal verb",
+    "definition": "when you warm up, you move your body gently so that you are ready to start doing exercise or a sport",
+    "example": "you need to warm up properly before you start your run",
+    "translation": "разминаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "warm-up",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I always do a ten-minute warm-up before a match",
+    "translation": "разминка",
+    "collocations": [],
+    "baseWord": "warm up"
+  },
+  {
+    "word": "challenge",
+    "transcription": "ˈtʃæləndʒ",
+    "pos": "noun",
+    "definition": "a challenge is something difficult which you want to try and do",
+    "example": "we want to set our readers a challenge",
+    "translation": "испытание, вызов, сложная задача",
+    "collocations": [
+      "set (someone) a challenge"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "challenging",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s a very challenging job",
+    "translation": "сложный, трудный (требующий усилий)",
+    "collocations": [],
+    "baseWord": "challenge"
+  },
+  {
+    "word": "commercial",
+    "transcription": "kəˈmɜː(r)ʃ(ə)l",
+    "pos": "adjective",
+    "definition": "Commerce is business. If something is commercial, it is related to business or making money. When you say music or a film is commercial, you’re suggesting that it isn’t very good because it was only made in order to make money",
+    "example": "their first album was good, but this new one is very commercial",
+    "translation": "коммерческий (сделанный ради денег)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "energetic",
+    "transcription": "ˌenə(r)ˈdʒetɪk",
+    "pos": "adjective",
+    "definition": "something or someone that is energetic does things in a very lively and enthusiastic way",
+    "example": "the band were loud and energetic on stage",
+    "translation": "энергичный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "energetically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the children were playing energetically in the garden",
+    "translation": "энергично",
+    "collocations": [],
+    "baseWord": "energetic"
+  },
+  {
+    "word": "funeral",
+    "transcription": "ˈfjuːn(ə)rəl",
+    "pos": "noun",
+    "definition": "a funeral is the ceremony that takes place when someone who has died is put into the ground, or when their body is burned",
+    "example": "I’d like this music to be played at my funeral",
+    "translation": "похороны",
+    "collocations": [
+      "hold a funeral",
+      "attend a funeral"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "generation",
+    "transcription": "ˌdʒenəˈreɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "a generation is all the people in a country of the same age. A generation is also a period of time of about 30 years, usually thought of as the time it takes for a family to have children and for the children to grow up and become adults. If you say something has been true for generations, you mean it has been true for a long time",
+    "example": "the younger generation are keen to protect the environment",
+    "translation": "поколение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "jump",
+    "transcription": "dʒʌmp",
+    "pos": "verb",
+    "definition": "if you jump, you move very quickly or suddenly, for example because you are surprised or you want to start doing something quickly",
+    "example": "you made me jump! (you frightened me)",
+    "translation": "вздрогнуть (от неожиданности)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "live",
+    "transcription": "laɪv",
+    "pos": "adverb",
+    "definition": "a live concert or other performance is one that is happening as you are watching it, not a recording. If you see a performer live, you are present at the performance",
+    "example": "I saw Madonna live last year",
+    "translation": "вживую, в прямом эфире",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "live",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a live TV show",
+    "translation": "живой, прямой (о трансляции, выступлении)",
+    "collocations": [],
+    "baseWord": "live"
+  },
+  {
+    "word": "match",
+    "transcription": "mætʃ",
+    "pos": "verb",
+    "definition": "if something matches something else, the two things go well together because there are similarities",
+    "example": "those trousers don’t match your jacket",
+    "translation": "сочетаться, подходить (друг к другу)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "remind",
+    "transcription": "rɪˈmaɪnd",
+    "pos": "verb",
+    "definition": "to remind someone about something means to make them remember it. Be careful – you cannot use remember with this meaning someone or something",
+    "example": "can you remind me to phone home?",
+    "translation": "напоминать",
+    "collocations": [
+      "remind someone about something",
+      "remind someone to do something",
+      "remind someone of"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "reminder",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we’ll send you a reminder a month before your subscription runs out",
+    "translation": "напоминание",
+    "collocations": [],
+    "baseWord": "remind"
+  },
+  {
+    "word": "repetitive",
+    "transcription": "rɪˈpetətɪv",
+    "pos": "adjective",
+    "definition": "something that is repetitive happens again and again, often in a very boring way",
+    "example": "working in the factory involved doing a series of repetitive tasks",
+    "translation": "повторяющийся, однообразный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "repeat",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "my music practice involves repeating the same exercise several times",
+    "translation": "повторять",
+    "collocations": [],
+    "baseWord": "repetitive"
+  },
+  {
+    "word": "set",
+    "transcription": "set",
+    "pos": "verb",
+    "definition": "if you set someone a challenge or something similar, you give it to them to do",
+    "example": "we want to set our readers a challenge",
+    "translation": "давать (задание, испытание)",
+    "collocations": [
+      "set (someone) a challenge"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "sing along",
+    "transcription": "ˌsɪŋ əˈlɒŋ",
+    "pos": "phrasal verb",
+    "definition": "if you sing along, or sing along to something, you join in by singing at the same time as other people",
+    "example": "it’s a song you always want to sing along to",
+    "translation": "подпевать",
+    "collocations": [
+      "sing along to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "soft",
+    "transcription": "sɒft",
+    "pos": "adjective",
+    "definition": "soft sounds are quiet, gentle, and relaxing",
+    "example": "her teacher spoke in a very soft voice",
+    "translation": "мягкий, тихий (о звуке, голосе)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "softly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "she spoke so softly I could hardly hear her",
+    "translation": "тихо, мягко",
+    "collocations": [],
+    "baseWord": "soft"
+  },
+  {
+    "word": "suit",
+    "transcription": "suːt",
+    "pos": "verb",
+    "definition": "if something suits a person or a situation, it feels right for them. If a piece of clothing suits you, it makes you look good",
+    "example": "music to suit every mood and occasion",
+    "translation": "подходить, соответствовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "suitable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the classes are suitable for complete beginners",
+    "translation": "подходящий",
+    "collocations": [],
+    "baseWord": "suit"
+  },
+  {
+    "word": "agreement",
+    "transcription": "əˈɡriːmənt",
+    "pos": "noun",
+    "definition": "an agreement is an official arrangement in which two or more people, organisations, or countries decide what should happen",
+    "example": "an agreement was signed by many countries",
+    "translation": "соглашение, договор",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cave",
+    "transcription": "keɪv",
+    "pos": "noun",
+    "definition": "a cave is a large natural hole in the side of a cliff or mountain",
+    "example": "tourists come to see the cave paintings",
+    "translation": "пещера",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "flood",
+    "transcription": "flʌd",
+    "pos": "verb",
+    "definition": "when an area floods, or if something floods it, it fills with water from a river or lake, usually because there has been a lot of rain",
+    "example": "the lake was going to flood the temple",
+    "translation": "затоплять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "flood",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the church was damaged by a flood in 1873",
+    "translation": "наводнение",
+    "collocations": [],
+    "baseWord": "flood"
+  },
+  {
+    "word": "heritage",
+    "transcription": "ˈherɪtɪdʒ",
+    "pos": "noun",
+    "definition": "a country’s heritage is its cultural traditions that have developed over a long time, its important and historical buildings, and its history",
+    "example": "a World Heritage Site",
+    "translation": "наследие",
+    "collocations": [
+      "a rich heritage",
+      "a national/cultural heritage"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "list",
+    "transcription": "lɪst",
+    "pos": "verb",
+    "definition": "if something is listed, it is added to a list. If a building or place is listed, it is added to a list of buildings or places that are of historical interest and that need to be protected",
+    "example": "the council decided not to list the old market building",
+    "translation": "включать в список охраняемых объектов",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "listed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "she lives in a listed building in the middle of Stratford",
+    "translation": "внесенный в список охраняемых (памятник)",
+    "collocations": [],
+    "baseWord": "list"
+  }
+]

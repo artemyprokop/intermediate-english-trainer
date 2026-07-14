@@ -1,0 +1,802 @@
+[
+  {
+    "word": "bland",
+    "transcription": "blænd",
+    "pos": "adjective",
+    "definition": "if food is bland, it does not have much flavour",
+    "example": "his cooking is always rather bland",
+    "translation": "безвкусный, пресный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "filling",
+    "transcription": "ˈfɪlɪŋ",
+    "pos": "adjective",
+    "definition": "if food is filling, you only have to eat a small amount to feel full",
+    "example": "a filling soup",
+    "translation": "сытный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "grate",
+    "transcription": "ɡreɪt",
+    "pos": "verb",
+    "definition": "if you grate food, you cut it into a lot of very thin strips",
+    "example": "grate the carrots and onion very finely",
+    "translation": "тереть (на терке)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "grated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "baked potato with grated cheese",
+    "translation": "тертый",
+    "collocations": [],
+    "baseWord": "grate"
+  },
+  {
+    "word": "grater",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a cheese grater",
+    "translation": "терка",
+    "collocations": [],
+    "baseWord": "grate"
+  },
+  {
+    "word": "juicy",
+    "transcription": "ˈdʒuːsi",
+    "pos": "adjective",
+    "definition": "if food is juicy, it has a lot of natural juice or liquid in it",
+    "example": "the meat was tender and juicy",
+    "translation": "сочный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "juice",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the juice was running down his chin",
+    "translation": "сок",
+    "collocations": [],
+    "baseWord": "juicy"
+  },
+  {
+    "word": "mash",
+    "transcription": "mæʃ",
+    "pos": "verb",
+    "definition": "if you mash food, especially potatoes, you crush them until they become smooth",
+    "example": "mash the potatoes with butter and milk",
+    "translation": "разминать, толочь (картофель)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mashed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "serve with rice or mashed potatoes",
+    "translation": "толченый, пюре (о картофеле)",
+    "collocations": [
+      "mashed potatoes"
+    ],
+    "baseWord": "mash"
+  },
+  {
+    "word": "mash",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "sausages and mash",
+    "translation": "картофельное пюре",
+    "collocations": [
+      "mashed potatoes"
+    ],
+    "baseWord": "mash"
+  },
+  {
+    "word": "slice",
+    "transcription": "slaɪs",
+    "pos": "verb",
+    "definition": "if you slice something, you use a knife to cut thin pieces of it",
+    "example": "slice the ham thinly",
+    "translation": "нарезать (ломтиками)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sliced",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a packet of sliced bread",
+    "translation": "нарезанный",
+    "collocations": [],
+    "baseWord": "slice"
+  },
+  {
+    "word": "slice",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a slice of bread",
+    "translation": "ломтик, кусок",
+    "collocations": [],
+    "baseWord": "slice"
+  },
+  {
+    "word": "sour",
+    "transcription": "ˈsaʊə(r)",
+    "pos": "adjective",
+    "definition": "food that is sour has a strong taste that is not at all sweet, like a lemon",
+    "example": "sour cherry juice",
+    "translation": "кислый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "steam",
+    "transcription": "stiːm",
+    "pos": "verb",
+    "definition": "if you steam vegetables or fish, you cook them using only the steam from boiling water instead of putting them into the boiling water itself",
+    "example": "do you want to steam the courgettes, or shall we bake them?",
+    "translation": "готовить на пару",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "steamed",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it comes with salad or steamed vegetables",
+    "translation": "приготовленный на пару",
+    "collocations": [],
+    "baseWord": "steam"
+  },
+  {
+    "word": "stuffed",
+    "transcription": "stʌft",
+    "pos": "adjective",
+    "definition": "food that is stuffed is cooked with a mixture of other foods inside it",
+    "example": "balls of mashed potato stuffed with beef, raisins, and olives",
+    "translation": "фаршированный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stuff",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it’s quite difficult to stuff a pigeon",
+    "translation": "фаршировать",
+    "collocations": [],
+    "baseWord": "stuffed"
+  },
+  {
+    "word": "stuffing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a herb and onion stuffing",
+    "translation": "начинка",
+    "collocations": [],
+    "baseWord": "stuffed"
+  },
+  {
+    "word": "adventurous",
+    "transcription": "ədˈventʃ(ə)rəs",
+    "pos": "adjective",
+    "definition": "if you are adventurous, you like trying lots of different and exciting things",
+    "example": "he’s not a very adventurous eater",
+    "translation": "смелый, любящий новое, предприимчивый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "unadventurous",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a bland and unadventurous dish",
+    "translation": "непритязательный, скучный, лишенный разнообразия",
+    "collocations": [],
+    "baseWord": "adventurous"
+  },
+  {
+    "word": "cope",
+    "transcription": "kəʊp",
+    "pos": "verb",
+    "definition": "if you cope, you deal successfully with a difficult situation",
+    "example": "they couldn’t cope with the food they were given",
+    "translation": "справляться (с трудностями)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "get hold of",
+    "transcription": "ɡet ˈhəʊld ˌɒv",
+    "pos": "phrase",
+    "definition": "if you get hold of something, you succeed in getting it for yourself by gripping it firmly so that no one else can have it",
+    "example": "he got hold of the gun and pointed it at the robber",
+    "translation": "завладеть (чем-то), схватить, раздобыть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "host",
+    "transcription": "həʊst",
+    "pos": "noun",
+    "definition": "your host is the person whose home you are staying in, or the person who has invited you to an event such as a party",
+    "example": "our host welcomed us at the door",
+    "translation": "хозяин (дома, мероприятия)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "host",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we hosted a dinner for several of our neighbours",
+    "translation": "принимать (гостей), устраивать (прием)",
+    "collocations": [],
+    "baseWord": "host"
+  },
+  {
+    "word": "integrate",
+    "transcription": "ˈɪntɪˌɡreɪt",
+    "pos": "verb",
+    "definition": "if you integrate, you start to belong in a new place or situation and are accepted as part of it",
+    "example": "it takes time to integrate into a new country",
+    "translation": "интегрироваться, вливаться (в общество)",
+    "collocations": [
+      "integrate into/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "integrated",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "they quickly became integrated into the social and economic life of the village",
+    "translation": "интегрированный, влившийся",
+    "collocations": [],
+    "baseWord": "integrate"
+  },
+  {
+    "word": "integration",
+    "transcription": "ˌɪntɪˈɡreɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "integration is the fact of belonging in a new place or situation and being accepted there",
+    "example": "his integration into his new school took a long time",
+    "translation": "интеграция",
+    "collocations": [
+      "integration into/with something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "off",
+    "transcription": "ɒf",
+    "pos": "adverb",
+    "definition": "if something is a long way off or a long time off, it hasn’t happened yet or is still some distance away",
+    "example": "full integration is some way off yet",
+    "translation": "еще не скоро, впереди (о времени)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "represent",
+    "transcription": "ˌreprɪˈzent",
+    "pos": "verb",
+    "definition": "if something represents another thing, it stands as a symbol of that other thing, often because it has many of the qualities of that other thing",
+    "example": "these places represent everything their owners miss about their home country",
+    "translation": "символизировать, представлять собой",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "split",
+    "transcription": "splɪt",
+    "pos": "verb",
+    "definition": "if you split something, you divide it into smaller parts which are usually equal",
+    "example": "let’s just split the bill (let’s all pay the same amount)",
+    "translation": "делить, разделять (поровну)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "starving",
+    "transcription": "ˈstɑː(r)vɪŋ",
+    "pos": "adjective",
+    "definition": "if you say you are starving, you mean you are very hungry. You also say people are starving when they are dying because they do not have enough food to eat",
+    "example": "I was starving by the time we got home",
+    "translation": "очень голодный, изголодавшийся",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "starve",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "if we don’t send help, a million people will starve to death there",
+    "translation": "голодать, умирать от голода",
+    "collocations": [
+      "starve to death"
+    ],
+    "baseWord": "starving"
+  },
+  {
+    "word": "sweaty",
+    "transcription": "ˈsweti",
+    "pos": "adjective",
+    "definition": "sweat is water that comes out through your skin because you are hot, for example after you have done exercise. If you are sweaty, you have sweat on your skin. If your clothes are sweaty they are slightly wet with sweat",
+    "example": "it smells like sweaty socks",
+    "translation": "потный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sweat",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "sweat was running down his back",
+    "translation": "пот",
+    "collocations": [],
+    "baseWord": "sweaty"
+  },
+  {
+    "word": "sweat",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "sweat was running down his back",
+    "translation": "потеть",
+    "collocations": [],
+    "baseWord": "sweaty"
+  },
+  {
+    "word": "wonder",
+    "transcription": "ˈwʌndə(r)",
+    "pos": "noun",
+    "definition": "if you say that it’s no wonder something is the case, you mean that the reason for it is obvious",
+    "example": "with food like that, it’s no wonder there are so many foreign restaurants here",
+    "translation": "удивление (it's no wonder - неудивительно)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bare",
+    "transcription": "beə(r)",
+    "pos": "adjective",
+    "definition": "if somewhere is bare, it looks empty and is not filled or covered with anything",
+    "example": "the room was cold and bare",
+    "translation": "голый, пустой, ничем не заставленный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "demand",
+    "transcription": "dɪˈmɑːnd",
+    "pos": "verb",
+    "definition": "if you demand something, you say very forcefully that you want it and expect it to be brought to you or given to you",
+    "example": "I demand to know what is going on here!",
+    "translation": "требовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "demand",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his demand was met with a direct refusal to cooperate",
+    "translation": "требование",
+    "collocations": [],
+    "baseWord": "demand"
+  },
+  {
+    "word": "deserted",
+    "transcription": "dɪˈzɜː(r)tɪd",
+    "pos": "adjective",
+    "definition": "if somewhere is deserted, there is no one there",
+    "example": "the station was deserted",
+    "translation": "пустынный, безлюдный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "deserve",
+    "transcription": "dɪˈzɜː(r)v",
+    "pos": "verb",
+    "definition": "if you say that someone deserves something, you think it is right for them to get it, either as a reward for something good that they have done, or as a punishment for something bad that they have done",
+    "example": "he doesn’t deserve the extra money",
+    "translation": "заслуживать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "gang",
+    "transcription": "ɡæŋ",
+    "pos": "noun",
+    "definition": "a gang is a group of people who spend a lot of time together, often for criminal reasons",
+    "example": "an organised criminal gang",
+    "translation": "банда, группировка",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "instant",
+    "transcription": "ˈɪnstənt",
+    "pos": "noun",
+    "definition": "an instant is an extremely short length of time. If you say that you would do something in an instant, you mean that you would do it immediately without waiting at all",
+    "example": "I’d walk out in an instant if he treated me like that",
+    "translation": "мгновение, миг",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "instant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the film was an instant success",
+    "translation": "мгновенный",
+    "collocations": [],
+    "baseWord": "instant"
+  },
+  {
+    "word": "instantly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I had a glass of water and instantly felt better",
+    "translation": "мгновенно, сразу же",
+    "collocations": [],
+    "baseWord": "instant"
+  },
+  {
+    "word": "literally",
+    "transcription": "ˈlɪt(ə)rəli",
+    "pos": "adverb",
+    "definition": "you use literally to emphasise that you are using a word or words in their exact meaning, even though it might be surprising. People also use the word literally just to emphasize what they are saying, but many teachers think this use is wrong",
+    "example": "literally at that exact moment I saw a rat going into the kitchen",
+    "translation": "буквально",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "literal",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the literal meaning of the word “Yoga” is “union”",
+    "translation": "буквальный, дословный",
+    "collocations": [],
+    "baseWord": "literally"
+  },
+  {
+    "word": "look out over",
+    "transcription": "lʊk ˈaʊt ˌəʊvə(r)",
+    "pos": "phrase",
+    "definition": "if a building or window looks out over something or onto something, it has a view of that place",
+    "example": "our hotel room looks out over the sea",
+    "translation": "выходить окнами на, смотреть на (о виде из окна)",
+    "collocations": [
+      "look out over something",
+      "look out onto something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "organic",
+    "transcription": "ɔː(r)ˈɡænɪk",
+    "pos": "adjective",
+    "definition": "organic food has been produced without the use of artificial chemicals or fertilizers",
+    "example": "all our meat and vegetables are organic",
+    "translation": "органический, экологически чистый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "organically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "all our vegetables are grown organically",
+    "translation": "органически, экологически чисто (без химикатов)",
+    "collocations": [],
+    "baseWord": "organic"
+  },
+  {
+    "word": "outstanding",
+    "transcription": "aʊtˈstændɪŋ",
+    "pos": "adjective",
+    "definition": "something or someone that is outstanding is extremely impressive",
+    "example": "the service was outstanding",
+    "translation": "выдающийся, превосходный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "packed",
+    "transcription": "pækt",
+    "pos": "adjective",
+    "definition": "if a place or object is packed, it is full of people or things",
+    "example": "the restaurant is always packed",
+    "translation": "переполненный, битком набитый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "portion",
+    "transcription": "ˈpɔː(r)ʃ(ə)n",
+    "pos": "noun",
+    "definition": "a portion of food is an amount that is served to one person at a meal",
+    "example": "you need four meatballs per portion",
+    "translation": "порция",
+    "collocations": [
+      "a portion of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "posh",
+    "transcription": "pɒʃ",
+    "pos": "adjective",
+    "definition": "If you say that a place is posh, you mean that it looks expensive and is probably used by rich and fashionable people",
+    "example": "Jenny took me to a posh restaurant for my birthday",
+    "translation": "шикарный, фешенебельный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "present",
+    "transcription": "prɪˈzent",
+    "pos": "verb",
+    "definition": "if you present something in a certain way, that is how you arrange it and place it in front the person you are giving it to",
+    "example": "they present their dishes with style and taste",
+    "translation": "подавать, преподносить (оформлять блюдо)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "presentation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the food was tasty, but the presentation was poor",
+    "translation": "подача, оформление (блюда)",
+    "collocations": [],
+    "baseWord": "present"
+  },
+  {
+    "word": "single",
+    "transcription": "ˈsɪŋɡ(ə)l",
+    "pos": "adjective",
+    "definition": "a single person or thing is just one. You say not a single or not one single person or thing to emphasise that there was not one person or thing somewhere",
+    "example": "I didn’t see a single person I knew in the restaurant",
+    "translation": "единственный, ни один (для усиления отрицания)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "spit",
+    "transcription": "spɪt",
+    "pos": "verb",
+    "definition": "if you spit something out of your mouth, you force it out",
+    "example": "he began coughing and spitting blood",
+    "translation": "плевать(ся), выплевывать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stick",
+    "transcription": "stɪk",
+    "pos": "verb",
+    "definition": "if you say that you will stick with something, you mean that you will continue doing it or having it, and do not want to exchange it or do something different",
+    "example": "I’ll stick with what I’ve got",
+    "translation": "придерживаться (чего-то), не менять",
+    "collocations": [
+      "stick with something",
+      "stick to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "acid",
+    "transcription": "ˈæsɪd",
+    "pos": "adjective",
+    "definition": "In chemistry, acids are substances that have a pH value of less than 7. Strong acid can burn holes in metal. Acid soil or conditions have a certain amount of acid in them",
+    "example": "to grow well, cranberries like acid conditions and sand",
+    "translation": "кислый, кислотный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "acid",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a bottle of sulphuric acid",
+    "translation": "кислота",
+    "collocations": [],
+    "baseWord": "acid"
+  },
+  {
+    "word": "acidic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the oceans are becoming more acidic",
+    "translation": "кислотный, кислый",
+    "collocations": [],
+    "baseWord": "acid"
+  },
+  {
+    "word": "adequate",
+    "transcription": "ˈædɪkwət",
+    "pos": "adjective",
+    "definition": "something that is adequate is enough in quantity or quality for a particular purpose",
+    "example": "do you have an adequate supply of water?",
+    "translation": "достаточный, адекватный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "adequately",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "the factory was not adequately equipped to meet the demand",
+    "translation": "достаточно, надлежащим образом",
+    "collocations": [],
+    "baseWord": "adequate"
+  },
+  {
+    "word": "crop",
+    "transcription": "krɒp",
+    "pos": "noun",
+    "definition": "a crop is a plant such as wheat or corn that is grown by farmers in order to sell it",
+    "example": "a frost can destroy the crop",
+    "translation": "урожай, сельскохозяйственная культура",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "float",
+    "transcription": "fləʊt",
+    "pos": "verb",
+    "definition": "if something floats, it stays on the surface of a liquid and does not sink",
+    "example": "the berries then float to the surface",
+    "translation": "плавать (на поверхности), не тонуть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "harvest",
+    "transcription": "ˈhɑː(r)vɪst",
+    "pos": "verb",
+    "definition": "to harvest crops means to pick them from the fields or trees where they are growing when they are ripe and ready to be eaten or turned into food",
+    "example": "boys came out of school to help the farmers harvest their crops",
+    "translation": "собирать урожай",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "harvest",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the weather stayed fine throughout the harvest (the time when the crops were being harvested)",
+    "translation": "урожай, сбор урожая",
+    "collocations": [],
+    "baseWord": "harvest"
+  },
+  {
+    "word": "inherit",
+    "transcription": "ɪnˈherɪt",
+    "pos": "verb",
+    "definition": "if you inherit goods or property, it becomes yours because someone has left instructions that you should have it after they die. If you inherit characteristics from your parents, you have those characteristics because of the genes you share with them",
+    "example": "if he has no children, who will inherit?",
+    "translation": "наследовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "inheritance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he expected to receive a large inheritance on the death of his father",
+    "translation": "наследство",
+    "collocations": [],
+    "baseWord": "inherit"
+  },
+  {
+    "word": "keep an eye on",
+    "transcription": "ˌkiːp ən ˈaɪ ɒn",
+    "pos": "phrase",
+    "definition": "if you keep an eye on a situation, you make sure you know what is happening so that you can take action at the right moment or if something goes wrong or needs attention",
+    "example": "they have to keep an eye on the weather because a frost can destroy the crop",
+    "translation": "следить за, приглядывать за",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "remove",
+    "transcription": "rɪˈmuːv",
+    "pos": "verb",
+    "definition": "if you remove something, you take it away from where it is, or you take it away from the other things that are with it",
+    "example": "they remove the berries which then float to the surface",
+    "translation": "убирать, удалять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "removal",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "removal of the rear seat is easy",
+    "translation": "удаление, снятие",
+    "collocations": [],
+    "baseWord": "remove"
+  },
+  {
+    "word": "sand",
+    "transcription": "sænd",
+    "pos": "noun",
+    "definition": "sand is the stuff you find on lots of beaches or in deserts. It is like a fine powder and is made up of very tiny pieces of rock",
+    "example": "to grow well, cranberries like acid conditions and sand",
+    "translation": "песок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sandy",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a sandy beach",
+    "translation": "песчаный",
+    "collocations": [],
+    "baseWord": "sand"
+  },
+  {
+    "word": "supply",
+    "transcription": "səˈplaɪ",
+    "pos": "noun",
+    "definition": "a supply of something is an amount of it that is available for use",
+    "example": "do you have an adequate supply of water?",
+    "translation": "запас, снабжение",
+    "collocations": [
+      "a supply of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "surface",
+    "transcription": "ˈsɜː(r)fɪs",
+    "pos": "noun",
+    "definition": "the surface of something is the top of it that faces upwards",
+    "example": "the berries then float to the surface",
+    "translation": "поверхность",
+    "collocations": [],
+    "baseWord": null
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "word": "antique",
+    "transcription": "ænˈtiːk",
+    "pos": "noun",
+    "definition": "antiques are pieces of furniture and other items that are valuable because they are very old",
+    "example": "an antique shop (a shop that sells antiques)",
+    "translation": "антиквариат, старинная вещь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "antique",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "antique furniture",
+    "translation": "антикварный, старинный",
+    "collocations": [],
+    "baseWord": "antique"
+  },
+  {
+    "word": "call",
+    "transcription": "kɔːl",
+    "pos": "noun",
+    "definition": "a call is a sound or announcement that is intended to tell people that they need to do something",
+    "example": "the call to prayer was heard all over the town",
+    "translation": "призыв, зов (например, на молитву)",
+    "collocations": [
+      "a call to something",
+      "a call for someone to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "call",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I was called into the office on a Saturday",
+    "translation": "вызывать (куда-либо)",
+    "collocations": [],
+    "baseWord": "call"
+  },
+  {
+    "word": "communist",
+    "transcription": "ˈkɒmjʊnɪst",
+    "pos": "adjective",
+    "definition": "communism is the political system that controlled Russia from 1917 and a lot of Eastern Europe from 1945 until 1991. They had a communist political system, and that period in their history is the communist period",
+    "example": "the communist party of the Soviet Union",
+    "translation": "коммунистический",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "communism",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the collapse of communism in 1991",
+    "translation": "коммунизм",
+    "collocations": [],
+    "baseWord": "communist"
+  },
+  {
+    "word": "communist",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she became a communist during the war",
+    "translation": "коммунист",
+    "collocations": [],
+    "baseWord": "communist"
+  },
+  {
+    "word": "decorated",
+    "transcription": "ˈdekəreɪtɪd",
+    "pos": "adjective",
+    "definition": "something that is decorated has been made to look beautiful by being painted or by having pretty things added to it",
+    "example": "the church was beautifully decorated",
+    "translation": "украшенный, декорированный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "decorate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we all helped to decorate the Christmas tree",
+    "translation": "украшать",
+    "collocations": [],
+    "baseWord": "decorated"
+  },
+  {
+    "word": "decoration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "why don’t we put up some party decorations?",
+    "translation": "украшение, декорация",
+    "collocations": [],
+    "baseWord": "decorated"
+  },
+  {
+    "word": "discover",
+    "transcription": "dɪˈskʌvə(r)",
+    "pos": "verb",
+    "definition": "if you discover something, you find something that you did not know about before",
+    "example": "they recently discovered some Roman ruins near here",
+    "translation": "обнаруживать, открывать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "discovery",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "scientists have made an exciting discovery",
+    "translation": "открытие, находка",
+    "collocations": [],
+    "baseWord": "discover"
+  },
+  {
+    "word": "district",
+    "transcription": "ˈdɪstrɪkt",
+    "pos": "noun",
+    "definition": "a district is a particular part of a city or town",
+    "example": "the main housing district of the city",
+    "translation": "район (города)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fan",
+    "transcription": "fæn",
+    "pos": "noun",
+    "definition": "if you are a fan of something, you like it very much",
+    "example": "I’m not a great fan of old buildings",
+    "translation": "поклонник, фанат",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "housing",
+    "transcription": "ˈhaʊzɪŋ",
+    "pos": "noun",
+    "definition": "houses and apartment buildings where people live can be called housing",
+    "example": "the industrial and housing district",
+    "translation": "жилье, жилой фонд",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "lively",
+    "transcription": "ˈlaɪvli",
+    "pos": "adjective",
+    "definition": "lively means full of life, energy, enthusiasm or people enjoying themselves",
+    "example": "a very lively class",
+    "translation": "оживленный, полный энергии",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "medieval",
+    "transcription": "ˌmediˈiːv(ə)l",
+    "pos": "adjective",
+    "definition": "something that is medieval was built or existed between 1000 AD and 1500 AD",
+    "example": "a medieval church",
+    "translation": "средневековый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mine",
+    "transcription": "maɪn",
+    "pos": "noun",
+    "definition": "a mine is a very big, deep hole where people dig and bring up coal, gold, salt, etc, from under the ground",
+    "example": "we went on a tour round a salt mine",
+    "translation": "шахта, рудник",
+    "collocations": [
+      "a coal/gold/salt mine"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "miner",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a coal miner",
+    "translation": "шахтер, горняк",
+    "collocations": [],
+    "baseWord": "mine"
+  },
+  {
+    "word": "mining",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a mining town",
+    "translation": "горнодобывающий промысел, добыча полезных ископаемых",
+    "collocations": [],
+    "baseWord": "mine"
+  },
+  {
+    "word": "mine",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it’s too expensive to mine for coal here",
+    "translation": "добывать (уголь, руду)",
+    "collocations": [],
+    "baseWord": "mine"
+  },
+  {
+    "word": "mosque",
+    "transcription": "mɒsk",
+    "pos": "noun",
+    "definition": "a mosque is a religious building where Muslims go to pray",
+    "example": "there’s a beautiful mosque on the central square",
+    "translation": "мечеть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "palace",
+    "transcription": "ˈpæləs",
+    "pos": "noun",
+    "definition": "a palace is a large building, especially one where a king, queen, or president lives",
+    "example": "an old royal palace by the river",
+    "translation": "дворец",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "prayer",
+    "transcription": "preə(r)",
+    "pos": "noun",
+    "definition": "prayer is the act of speaking to God",
+    "example": "we heard the call to prayer coming from the mosque",
+    "translation": "молитва",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "pray",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "let us pray",
+    "translation": "молиться",
+    "collocations": [],
+    "baseWord": "prayer"
+  },
+  {
+    "word": "restore",
+    "transcription": "rɪˈstɔː(r)",
+    "pos": "verb",
+    "definition": "if you restore something, you repair it so that it is as good as it was when it was new",
+    "example": "we must restore peace to the country after the war",
+    "translation": "восстанавливать, реставрировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "restoration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "restoration of the cathedral took over seven years",
+    "translation": "реставрация, восстановление",
+    "collocations": [],
+    "baseWord": "restore"
+  },
+  {
+    "word": "ride",
+    "transcription": "raɪd",
+    "pos": "noun",
+    "definition": "in a theme park, the rides are the machines which move around and which you can go on for fun",
+    "example": "he’s too young to go on the ride",
+    "translation": "аттракцион",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ruins",
+    "transcription": "ˈruːɪnz",
+    "pos": "noun",
+    "definition": "ruins are the parts of an old building that are still left after most of the building has been destroyed",
+    "example": "there are some Roman ruins near the city",
+    "translation": "руины, развалины",
+    "collocations": [
+      "be in ruins"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "ruined",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an old ruined temple",
+    "translation": "разрушенный, лежащий в руинах",
+    "collocations": [],
+    "baseWord": "ruins"
+  },
+  {
+    "word": "stall",
+    "transcription": "stɔːl",
+    "pos": "noun",
+    "definition": "a stall is a table outside, for example in a market, where people sell things. A person who sells things there is called a stallholder",
+    "example": "a market stall",
+    "translation": "прилавок, лоток, ларек",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "underground",
+    "transcription": "ˈʌndə(r)ˌɡraʊnd",
+    "pos": "adjective",
+    "definition": "you use underground to describe things that are under the surface of the earth",
+    "example": "the underground world of the salt mines",
+    "translation": "подземный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "underground",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "coal was brought up from deep underground",
+    "translation": "под землей",
+    "collocations": [],
+    "baseWord": "underground"
+  },
+  {
+    "word": "wall",
+    "transcription": "wɔːl",
+    "pos": "noun",
+    "definition": "a wall is the outer part of a building or room, that goes round all the sides",
+    "example": "there was a window set into the wall above the door",
+    "translation": "стена",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "accommodation",
+    "transcription": "əˌkɒməˈdeɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "accommodation is a place such as a house, flat, or hotel where you can live or stay for a while",
+    "example": "how was the accommodation on your holiday?",
+    "translation": "жилье, размещение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "accommodate",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "a holiday cottage that can accommodate six people",
+    "translation": "вмещать, размещать",
+    "collocations": [],
+    "baseWord": "accommodation"
+  },
+  {
+    "word": "blow",
+    "transcription": "bləʊ",
+    "pos": "verb",
+    "definition": "when wind or air blows, it moves. If someone or something is blown over or blown away, they are forced to move uncontrollably by strong wind",
+    "example": "I was nearly blown over",
+    "translation": "дуть; сдувать, уносить (ветром)",
+    "collocations": [
+      "blow (something) away/off/over"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "boiling",
+    "transcription": "ˈbɔɪlɪŋ",
+    "pos": "adjective",
+    "definition": "if the weather is boiling, it is very hot. You can say you are boiling or boiling hot when you are very hot",
+    "example": "they said it’s going to be boiling hot all week",
+    "translation": "очень жаркий, знойный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "chilly",
+    "transcription": "ˈtʃɪli",
+    "pos": "adjective",
+    "definition": "if it is chilly, it is rather cold",
+    "example": "it gets very chilly at night",
+    "translation": "прохладный, зябкий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "chill",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "there’s a slight chill in the air",
+    "translation": "холодок, прохлада",
+    "collocations": [],
+    "baseWord": "chilly"
+  },
+  {
+    "word": "chill",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "there’s a slight chill in the air",
+    "translation": "охлаждать, студить",
+    "collocations": [],
+    "baseWord": "chilly"
+  },
+  {
+    "word": "clear",
+    "transcription": "klɪə(r)",
+    "pos": "verb",
+    "definition": "if something unpleasant clears or clears up, it gets better. If you clear something or clear it up, you make it better or tidier",
+    "example": "they said the weather would clear up next week",
+    "translation": "проясняться (о погоде), налаживаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "constant",
+    "transcription": "ˈkɒnstənt",
+    "pos": "adjective",
+    "definition": "something that is constant happens all the time without stopping",
+    "example": "the children needed constant attention",
+    "translation": "постоянный, непрерывный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "constantly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "he was constantly changing his mind",
+    "translation": "постоянно, непрерывно",
+    "collocations": [],
+    "baseWord": "constant"
+  },
+  {
+    "word": "cottage",
+    "transcription": "ˈkɒtɪdʒ",
+    "pos": "noun",
+    "definition": "a cottage is a small house, especially one that is in a village or in the country",
+    "example": "we rented a small cottage near the beach",
+    "translation": "домик, коттедж (в деревне)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "drop",
+    "transcription": "drɒp",
+    "pos": "verb",
+    "definition": "when an amount or level drops, it goes down. When the temperature drops, it becomes colder",
+    "example": "it might drop to minus 10° tonight",
+    "translation": "падать, снижаться (о температуре)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "drop",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a sudden drop in temperature",
+    "translation": "падение, снижение",
+    "collocations": [],
+    "baseWord": "drop"
+  },
+  {
+    "word": "entertainment",
+    "transcription": "ˌentə(r)ˈteɪnmənt",
+    "pos": "noun",
+    "definition": "entertainment is things that give people pleasure, like films, concerts,  television, etc",
+    "example": "there’s plenty of entertainment in the evenings",
+    "translation": "развлечение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "entertaining",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it was a hugely entertaining film",
+    "translation": "занимательный, увлекательный",
+    "collocations": [],
+    "baseWord": "entertainment"
+  },
+  {
+    "word": "entertain",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the show is sure to entertain parents as well as children",
+    "translation": "развлекать",
+    "collocations": [],
+    "baseWord": "entertainment"
+  },
+  {
+    "word": "get away",
+    "transcription": "ˌɡet əˈweɪ",
+    "pos": "phrasal verb",
+    "definition": "if you get away from somewhere, you go somewhere else, for example to avoid a situation that is difficult or uncomfortable",
+    "example": "we try and get away for a few weeks during the summer",
+    "translation": "уехать, вырваться (в отпуск, от дел)",
+    "collocations": [
+      "get away from something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "guaranteed",
+    "transcription": "ˌɡeærənˈtiːd",
+    "pos": "adjective",
+    "definition": "something that is guaranteed will definitely happen",
+    "example": "we can offer guaranteed good weather in July",
+    "translation": "гарантированный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "guarantee",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "we guarantee our cookers for fifteen years",
+    "translation": "гарантировать",
+    "collocations": [],
+    "baseWord": "guaranteed"
+  },
+  {
+    "word": "guarantee",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we guarantee our cookers for fifteen years",
+    "translation": "гарантия",
+    "collocations": [],
+    "baseWord": "guaranteed"
+  },
+  {
+    "word": "humid",
+    "transcription": "ˈhjuːmɪd",
+    "pos": "adjective",
+    "definition": "if the weather is humid, it is very hot and there is a lot of water in the air",
+    "example": "it’s going to be hot and humid during the day",
+    "translation": "влажный (о погоде)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "humidity",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "I can’t stand the humidity here",
+    "translation": "влажность",
+    "collocations": [],
+    "baseWord": "humid"
+  },
+  {
+    "word": "miserable",
+    "transcription": "ˈmɪz(ə)rəb(ə)l",
+    "pos": "adjective",
+    "definition": "if someone is miserable, they are very sad. If the weather is miserable, there is not much sunshine and it is cold or rainy",
+    "example": "I felt a bit miserable when everyone had left",
+    "translation": "несчастный, подавленный; (о погоде) унылый, отвратительный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "offer",
+    "transcription": "ˈɒfə(r)",
+    "pos": "verb",
+    "definition": "if a place offers certain qualities or opportunities, they are available there",
+    "example": "the countryside is very green and offers something different",
+    "translation": "предлагать, располагать (чем-либо)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "season",
+    "transcription": "ˈsiːz(ə)n",
+    "pos": "noun",
+    "definition": "a season is the months of the year when a particular activity happens. For example, the holiday season is when most people take their holidays; the football season is the time of year when football is played",
+    "example": "I take a holiday when the season ends",
+    "translation": "сезон",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "show",
+    "transcription": "ʃəʊ",
+    "pos": "noun",
+    "definition": "a show is a performance in a theatre",
+    "example": "we’re going to a show tonight",
+    "translation": "шоу, представление, спектакль",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "storm",
+    "transcription": "stɔː(r)m",
+    "pos": "noun",
+    "definition": "when there is a storm, lots of rain falls and there are strong winds",
+    "example": "there was a terrible storm last night",
+    "translation": "шторм, буря",
+    "collocations": [
+      "a storm breaks",
+      "a storm rages"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "stormy",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "stormy weather",
+    "translation": "штормовой, бурный",
+    "collocations": [],
+    "baseWord": "storm"
+  },
+  {
+    "word": "take down",
+    "transcription": "ˌteɪk ˈdaʊn",
+    "pos": "phrasal verb",
+    "definition": "if you take something down, you move it from where it is, often by removing pieces from it",
+    "example": "we should take down the parasol or it will blow away",
+    "translation": "снимать, разбирать (демонтировать)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "warm",
+    "transcription": "wɔː(r)m",
+    "pos": "adjective",
+    "definition": "if something is warm, it is slightly hot in a pleasant way",
+    "example": "the weather was nice and warm",
+    "translation": "теплый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "warm or warm up",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I’m cold – I need to warm up a bit",
+    "translation": "греться, согреваться",
+    "collocations": [],
+    "baseWord": "warm"
+  },
+  {
+    "word": "warmth",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "she lay in the warmth of the bed",
+    "translation": "тепло",
+    "collocations": [],
+    "baseWord": "warm"
+  },
+  {
+    "word": "windy",
+    "transcription": "ˈwɪndi",
+    "pos": "adjective",
+    "definition": "when it is windy, the wind is blowing very hard",
+    "example": "it’s going to be really windy on the mountain",
+    "translation": "ветреный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "wind",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the wind is blowing from the east",
+    "translation": "ветер",
+    "collocations": [],
+    "baseWord": "windy"
+  },
+  {
+    "word": "commemorate",
+    "transcription": "kəˈmeməreɪt",
+    "pos": "verb",
+    "definition": "to commemorate people or events from the past means to show respect for them by having a special event or creating a special object",
+    "example": "a ceremony to commemorate the anniversary of the island’s independence",
+    "translation": "отмечать, увековечивать память (о событии, человеке)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "commemoration",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the 70th anniversary commemoration event was held in the town hall",
+    "translation": "памятное мероприятие, чествование",
+    "collocations": [],
+    "baseWord": "commemorate"
+  },
+  {
+    "word": "commemorative",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a commemorative stamp was issued by the post office",
+    "translation": "памятный, юбилейный",
+    "collocations": [],
+    "baseWord": "commemorate"
+  },
+  {
+    "word": "destroy",
+    "transcription": "dɪˈstrɔɪ",
+    "pos": "verb",
+    "definition": "to destroy something means to damage it so badly that it no longer exists",
+    "example": "the city was completely destroyed by a volcano",
+    "translation": "разрушать, уничтожать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "destruction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we need to prevent the destruction of the environment",
+    "translation": "разрушение, уничтожение",
+    "collocations": [],
+    "baseWord": "destroy"
+  },
+  {
+    "word": "fancy",
+    "transcription": "ˈfænsi",
+    "pos": "verb",
+    "definition": "if you fancy something or fancy doing something, you think you would like it or like to do it",
+    "example": "do you fancy a coffee?",
+    "translation": "хотеть, хотеться (разг.)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "initial",
+    "transcription": "ɪˈnɪʃ(ə)l",
+    "pos": "adjective",
+    "definition": "your initial reaction or response to something is the first thing you say or do as a result of it",
+    "example": "my initial reaction was to scream",
+    "translation": "первоначальный, первый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "reaction",
+    "transcription": "riˈækʃ(ə)n",
+    "pos": "noun",
+    "definition": "your reaction to something is what you do, say, or think as a result of it",
+    "example": "my initial reaction was to scream",
+    "translation": "реакция",
+    "collocations": [
+      "a reaction to something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "react",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "people react to fear in different ways",
+    "translation": "реагировать",
+    "collocations": [
+      "react to something"
+    ],
+    "baseWord": "reaction"
+  },
+  {
+    "word": "risk",
+    "transcription": "rɪsk",
+    "pos": "noun",
+    "definition": "if you take a risk, you do something which you hope will succeed, although you know it will be bad for you if it does not succeed",
+    "example": "are you willing to take the risk?",
+    "translation": "риск",
+    "collocations": [
+      "take a risk",
+      "run a risk"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "risk",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I don’t want to risk my life",
+    "translation": "рисковать",
+    "collocations": [],
+    "baseWord": "risk"
+  },
+  {
+    "word": "risky",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s risky to invest all your money in shares",
+    "translation": "рискованный",
+    "collocations": [],
+    "baseWord": "risk"
+  },
+  {
+    "word": "willing",
+    "transcription": "ˈwɪlɪŋ",
+    "pos": "adjective",
+    "definition": "if you say that you are willing to do something, you mean that you will easily agree to do it",
+    "example": "are you willing to take the risk?",
+    "translation": "готовый, согласный (сделать что-либо)",
+    "collocations": [
+      "be willing to do something",
+      "perfectly/quite willing"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "willingly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "I would willingly pay extra for a seat in the front row",
+    "translation": "охотно, с готовностью",
+    "collocations": [
+      "willingness to do something",
+      "be unwilling to do something"
+    ],
+    "baseWord": "willing"
+  },
+  {
+    "word": "willingness",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "his willingness to help was appreciated",
+    "translation": "готовность, желание (сделать что-либо)",
+    "collocations": [
+      "willingness to do something"
+    ],
+    "baseWord": "willing"
+  },
+  {
+    "word": "unwilling",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was unwilling to go to the police",
+    "translation": "неготовый, не желающий, несогласный",
+    "collocations": [
+      "be unwilling to do something"
+    ],
+    "baseWord": "willing"
+  },
+  {
+    "word": "unwillingly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "rather unwillingly, she agreed to the proposal",
+    "translation": "неохотно, без желания",
+    "collocations": [
+      "willingness to do something",
+      "be unwilling to do something"
+    ],
+    "baseWord": "willing"
+  }
+]

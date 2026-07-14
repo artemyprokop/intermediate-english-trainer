@@ -1,0 +1,1420 @@
+[
+  {
+    "word": "bush",
+    "transcription": "bʊʃ",
+    "pos": "noun",
+    "definition": "a bush is a kind of plant that is like a tree, but smaller",
+    "example": "there’s something moving around in the bushes",
+    "translation": "куст",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "chase",
+    "transcription": "tʃeɪs",
+    "pos": "verb",
+    "definition": "if you chase someone or something, you go after them very quickly because you want to catch them. If you chase them away, you run towards them very quickly because you want to frighten them and make them go away",
+    "example": "I chased the crows away",
+    "translation": "гнаться, преследовать; прогонять",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "chase",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "police gave chase but he got away down a side street",
+    "translation": "погоня",
+    "collocations": [
+      "give chase"
+    ],
+    "baseWord": "chase"
+  },
+  {
+    "word": "circle",
+    "transcription": "ˈsɜː(r)k(ə)l",
+    "pos": "verb",
+    "definition": "if you circle, or circle something, you move round and round somewhere",
+    "example": "the plane had to circle the airport for an hour before we could land",
+    "translation": "кружить, летать по кругу",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "circle",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we drove round in circles for ages",
+    "translation": "круг",
+    "collocations": [],
+    "baseWord": "circle"
+  },
+  {
+    "word": "cliff",
+    "transcription": "klɪf",
+    "pos": "noun",
+    "definition": "a cliff is an area of land which has an extremely steep side that goes down to the sea or a river",
+    "example": "they’re circling in the sky above the cliff",
+    "translation": "утес, обрыв",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "crawl",
+    "transcription": "krɔːl",
+    "pos": "verb",
+    "definition": "when you crawl, you move along the ground on your hands and knees, or you move along very slowly. You also say that insects crawl, because their bodies are so close to the ground",
+    "example": "babies learn to crawl at about six months old",
+    "translation": "ползти, ползать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "crawl",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "traffic was moving at a crawl (very slowly) through the city centre",
+    "translation": "черепашья скорость, крайне медленное движение",
+    "collocations": [
+      "at a crawl"
+    ],
+    "baseWord": "crawl"
+  },
+  {
+    "word": "cry",
+    "transcription": "kraɪ",
+    "pos": "noun",
+    "definition": "a cry is a sound made by a person or animal when they are in pain or trying to get help by attracting someone’s attention",
+    "example": "a faint cry came from the living room",
+    "translation": "крик",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "cry",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the wounded men lay groaning and crying for help",
+    "translation": "кричать, звать на помощь",
+    "collocations": [
+      "cry for something"
+    ],
+    "baseWord": "cry"
+  },
+  {
+    "word": "disappear",
+    "transcription": "ˌdɪsəˈpɪə(r)",
+    "pos": "verb",
+    "definition": "if something disappears, it goes somewhere where it cannot be seen or it stops existing",
+    "example": "we waved goodbye and watched the train disappear into the distance",
+    "translation": "исчезать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "disappearance",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "you should report the disappearance to the police",
+    "translation": "исчезновение",
+    "collocations": [
+      "the disappearance of something"
+    ],
+    "baseWord": "disappear"
+  },
+  {
+    "word": "distance",
+    "transcription": "ˈdɪstəns",
+    "pos": "noun",
+    "definition": "the distance between two things is the amount of space between them. If something is in the distance, you can see it or hear it, but it is a long way from where you are",
+    "example": "can you hear that noise in the distance?",
+    "translation": "расстояние, даль",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "distant",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he heard the distant sound of the motorway (the sound was coming from a long way away)",
+    "translation": "далекий, отдаленный",
+    "collocations": [],
+    "baseWord": "distance"
+  },
+  {
+    "word": "fire service",
+    "transcription": "ˈfaɪə(r)ˌ sɜː(r)vɪs",
+    "pos": "noun",
+    "definition": "the fire service is the organisation that provides equipment and people who help to put out fires in homes, offices, factories etc. In Britain, it is often called the fire brigade. The people who work to put out fires are called firefighters. The vehicles they use to carry their equipment and take them to fires are fire engines. The building where they work when they are not fighting fires is called a fire station",
+    "example": "we had to call the fire service",
+    "translation": "пожарная служба",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "get out",
+    "transcription": "ˈɡet aʊt",
+    "pos": "phrasal verb",
+    "definition": "to get someone or something out of a place where they are stuck means to succeed in releasing them",
+    "example": "I got stuck in the back seat and couldn’t get out",
+    "translation": "выбраться, выбраться наружу",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "grass",
+    "transcription": "ɡrɑːs",
+    "pos": "noun",
+    "definition": "grass is a low green plant that grows all over the ground. It is made up of thin pointed green leaves",
+    "example": "the snake disappeared in the long grass",
+    "translation": "трава",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "grassy",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a quiet, grassy lane led up to the church",
+    "translation": "травянистый, поросший травой",
+    "collocations": [],
+    "baseWord": "grass"
+  },
+  {
+    "word": "leap",
+    "transcription": "liːp",
+    "pos": "verb",
+    "definition": "if you leap somewhere, you move there very quickly, by jumping or running a short distance",
+    "example": "we saw something leap out of the water",
+    "translation": "прыгать, скакать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "leap",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "with a huge leap he made it to the other side of the stream",
+    "translation": "прыжок, скачок",
+    "collocations": [],
+    "baseWord": "leap"
+  },
+  {
+    "word": "lock out",
+    "transcription": "ˈlɒk aʊt",
+    "pos": "phrasal verb",
+    "definition": "if you lock someone out of somewhere, you prevent them from being able to get in by locking the doors. If you lock yourself out, you accidentally let a door lock when you do not have the key with you, so that you cannot get back in",
+    "example": "do you remember when you locked yourself out of your flat?",
+    "translation": "запереть снаружи, оставить без возможности войти (заперев дверь без ключа)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "race",
+    "transcription": "reɪs",
+    "pos": "verb",
+    "definition": "if you race somewhere, you go there very fast",
+    "example": "the rabbit raced across the road",
+    "translation": "мчаться, нестись",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "seed",
+    "transcription": "siːd",
+    "pos": "noun",
+    "definition": "a seed is a small part of a plant that grows into a new plant when it is in the soil. Birds and other animals eat seeds as food",
+    "example": "planting carrots is done by sowing seed",
+    "translation": "семя, семечко",
+    "collocations": [
+      "sow/scatter seeds"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "altitude",
+    "transcription": "ˈæltɪˌtjuːd",
+    "pos": "noun",
+    "definition": "altitude is a measurement of the height of something above the level of the sea",
+    "example": "at this altitude the lack of oxygen can cause confusion",
+    "translation": "высота (над уровнем моря)",
+    "collocations": [
+      "an altitude of something",
+      "(at) a high/ low altitude"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "amateur",
+    "transcription": "ˈæmətə(r)",
+    "pos": "noun",
+    "definition": "an amateur is someone who takes part in an activity for fun and not for money",
+    "example": "he played golf as an amateur until he was 22, when he turned professional",
+    "translation": "любитель",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "amateur",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "a group of amateur cyclists followed the Tour de France route",
+    "translation": "любительский",
+    "collocations": [],
+    "baseWord": "amateur"
+  },
+  {
+    "word": "authorities",
+    "transcription": "ɔːˈθɒrətiːz",
+    "pos": "noun",
+    "definition": "the authorities are official institutions such as central and local government who are able to make laws and decide how a country, town, or city should be run",
+    "example": "the authorities in Nepal refused to let him enter their territory",
+    "translation": "власти",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "barrier",
+    "transcription": "ˈbæriə(r)",
+    "pos": "noun",
+    "definition": "a barrier is a physical object that blocks a road or path and stops you getting past. You can refer to any problem that stops you doing what you want to do as a barrier",
+    "example": "won’t the language be a barrier?",
+    "translation": "барьер, препятствие",
+    "collocations": [
+      "a barrier to (doing) something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "concept",
+    "transcription": "ˈkɒnsept",
+    "pos": "noun",
+    "definition": "a concept is an idea about something. If you have no concept of something, you don’t really know much about it and don’t understand it properly",
+    "example": "they have no proper concept of the risks",
+    "translation": "понятие, представление, концепция",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "conception",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "do you have any conception of what it’s like to go hungry every day?",
+    "translation": "представление, понимание",
+    "collocations": [],
+    "baseWord": "concept"
+  },
+  {
+    "word": "confusion",
+    "transcription": "kənˈfjuːʒ(ə)n",
+    "pos": "noun",
+    "definition": "confusion is a state where someone cannot think properly, because there are too many complicated things to consider, or because their brain is affected by something that is stopping it working properly",
+    "example": "at this altitude, the lack of oxygen can cause confusion",
+    "translation": "растерянность, спутанность сознания",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "confuse",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "it will just confuse her if you start speaking French",
+    "translation": "запутывать, сбивать с толку",
+    "collocations": [],
+    "baseWord": "confusion"
+  },
+  {
+    "word": "confused",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he became confused and frightened when he saw the soldiers",
+    "translation": "растерянный, сбитый с толку",
+    "collocations": [],
+    "baseWord": "confusion"
+  },
+  {
+    "word": "confusing",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the whole process was very complicated and confusing",
+    "translation": "запутанный, сбивающий с толку",
+    "collocations": [],
+    "baseWord": "confusion"
+  },
+  {
+    "word": "determination",
+    "transcription": "dɪˌtɜː(r)mɪˈneɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "if you have determination, you do not let anything stop you from achieving your goals and doing what you want to do",
+    "example": "he showed amazing strength and determination",
+    "translation": "решимость, целеустремленность",
+    "collocations": [
+      "sheer/great determination",
+      "determination to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "determined",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was determined to keep the news secret",
+    "translation": "полный решимости, твердо настроенный",
+    "collocations": [
+      "be determined to do something"
+    ],
+    "baseWord": "determination"
+  },
+  {
+    "word": "disability",
+    "transcription": "ˌdɪsəˈbɪləti",
+    "pos": "noun",
+    "definition": "a disability is a serious physical condition that prevents someone from using all their body completely or easily",
+    "example": "Stephen Hawking overcame a serious disability to become a famous scientist",
+    "translation": "инвалидность, ограниченные возможности здоровья",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "disabled",
+    "transcription": "dɪsˈeɪb(ə)ld",
+    "pos": "adjective",
+    "definition": "someone who is disabled cannot use all their body completely or easily because of illness, injury etc",
+    "example": "you have to overcome many barriers when you’re disabled",
+    "translation": "имеющий инвалидность, с ограниченными возможностями",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "disguise",
+    "transcription": "dɪsˈɡaɪz",
+    "pos": "verb",
+    "definition": "to disguise yourself means to change your appearance so that people will not recognise you because you look very different",
+    "example": "he managed to enter Tibet by disguising himself as a monk",
+    "translation": "маскироваться, переодеваться (чтобы не быть узнанным)",
+    "collocations": [
+      "disguise yourself (as someone)"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "disguise",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he wore a disguise",
+    "translation": "маскировка, переодевание",
+    "collocations": [
+      "in disguise"
+    ],
+    "baseWord": "disguise"
+  },
+  {
+    "word": "drive",
+    "transcription": "draɪv",
+    "pos": "verb",
+    "definition": "if something drives you, it gives you very strong reasons to want to do something or achieve something",
+    "example": "we were driven by hunger",
+    "translation": "побуждать, заставлять действовать",
+    "collocations": [
+      "drive someone to do something",
+      "be driven by something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "driven",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he was a driven man, but he died before he could realise his ambition",
+    "translation": "целеустремленный, одержимый (стремлением к цели)",
+    "collocations": [],
+    "baseWord": "drive"
+  },
+  {
+    "word": "drown",
+    "transcription": "draʊn",
+    "pos": "verb",
+    "definition": "if someone drowns, they die by being under water for too long and being unable to breathe any air",
+    "example": "I was really scared of drowning",
+    "translation": "тонуть, утонуть",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ease",
+    "transcription": "iːz",
+    "pos": "verb",
+    "definition": "if something eases or eases off, it becomes less severe",
+    "example": "the pain was beginning to ease",
+    "translation": "ослабевать, стихать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "establish",
+    "transcription": "ɪˈstæblɪʃ",
+    "pos": "verb",
+    "definition": "to establish something means to create it or build it so that it will last for a long time",
+    "example": "camp 2 had been established by a previous expedition",
+    "translation": "основывать, создавать, учреждать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "establishment",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the first commercial establishments here opened in 1905",
+    "translation": "учреждение, заведение",
+    "collocations": [],
+    "baseWord": "establish"
+  },
+  {
+    "word": "fear",
+    "transcription": "fɪə(r)",
+    "pos": "noun",
+    "definition": "fear is a feeling you have that stops you doing something because you think you are in danger or that something bad will happen to you",
+    "example": "I finally overcame my fear and swam in the sea",
+    "translation": "страх, боязнь",
+    "collocations": [
+      "fear of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "fear",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "I fear that he will never come home",
+    "translation": "бояться, опасаться",
+    "collocations": [
+      "fear that"
+    ],
+    "baseWord": "fear"
+  },
+  {
+    "word": "get through",
+    "transcription": "ˌɡet ˈθruː",
+    "pos": "phrasal verb",
+    "definition": "if you get through an experience or period of time that is very difficult, you succeed in reaching the end of it",
+    "example": "the race was tough, but I managed to get through it and finish",
+    "translation": "пройти через (трудности), справиться, выдержать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "impression",
+    "transcription": "ɪmˈpreʃ(ə)n",
+    "pos": "noun",
+    "definition": "if something gives you a particular impression, it makes you have a particular feeling about it or form a particular opinion about it",
+    "example": "wrong/false impression",
+    "translation": "впечатление",
+    "collocations": [
+      "get an impression (about something)",
+      "give someone an impression",
+      "a first/initial impression",
+      "a"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "on the way",
+    "transcription": "ɒn ðə ˈweɪ",
+    "pos": "phrase",
+    "definition": "if you are on the way to doing something, you have made good progress and it is likely that you will succeed in finishing it",
+    "example": "I’m well on the way to reaching my goal",
+    "translation": "на пути (к успеху), на верном пути",
+    "collocations": [
+      "be (well) on the way to doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "overcome",
+    "transcription": "ˌəʊvə(r)ˈkʌm",
+    "pos": "verb",
+    "definition": "if you overcome a problem or difficulty, you succeed in doing what you want to do by achieving something that was difficult or surviving a dangerous situation",
+    "example": "you have to overcome many barriers when you’re disabled",
+    "translation": "преодолевать",
+    "collocations": [
+      "overcome an obstacle/barrier/difficulty",
+      "successfully overcome something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "oxygen",
+    "transcription": "ˈɒksɪdʒ(ə)n",
+    "pos": "noun",
+    "definition": "oxygen is a gas that is one of the main gases in the air that we breathe. Oxygen is an element and has the chemical symbol O. It combines with hydrogen to make water, which has the chemical symbol H2O",
+    "example": "at this altitude, the lack of oxygen can cause confusion",
+    "translation": "кислород",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "partially",
+    "transcription": "ˈpɑː(r)ʃəli",
+    "pos": "adverb",
+    "definition": "if something happens or is done only partially, it happens or is done a little but not completely",
+    "example": "he had been shot and could only partially use his left arm",
+    "translation": "частично",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "partial",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "we made only partial progress towards reaching our goal",
+    "translation": "частичный",
+    "collocations": [],
+    "baseWord": "partially"
+  },
+  {
+    "word": "peak",
+    "transcription": "piːk",
+    "pos": "noun",
+    "definition": "a peak is the top of a mountain",
+    "example": "Mont Blanc is the highest peak in Europe",
+    "translation": "вершина (горы), пик",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "proud",
+    "transcription": "praʊd",
+    "pos": "adjective",
+    "definition": "if you feel proud of something, you have a feeling of great satisfaction because you have done something well",
+    "example": "she was so proud of herself when she passed the exam",
+    "translation": "гордый",
+    "collocations": [
+      "be proud of something",
+      "be proud to do something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "proudly",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "Jack walked in proudly holding the fish he’d caught",
+    "translation": "гордо",
+    "collocations": [],
+    "baseWord": "proud"
+  },
+  {
+    "word": "publish",
+    "transcription": "ˈpʌblɪʃ",
+    "pos": "verb",
+    "definition": "to publish a book means to have it printed and made available for people to have or buy",
+    "example": "my book’s going to be published next year",
+    "translation": "издавать, публиковать (книгу)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "publisher",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he signed a book deal with a New York publisher",
+    "translation": "издатель",
+    "collocations": [],
+    "baseWord": "publish"
+  },
+  {
+    "word": "risk",
+    "transcription": "rɪsk",
+    "pos": "verb",
+    "definition": "if you risk something, you put it in a situation where it might be damaged or destroyed",
+    "example": "if you go too close, you risk catching the disease",
+    "translation": "рисковать (чем-либо)",
+    "collocations": [
+      "risk something to do something",
+      "risk doing something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "risk",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he refused to join in, saying the risk was too big",
+    "translation": "риск",
+    "collocations": [
+      "take/run a risk"
+    ],
+    "baseWord": "risk"
+  },
+  {
+    "word": "risky",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it’s risky to invest all your money in shares",
+    "translation": "рискованный",
+    "collocations": [
+      "take/run a risk"
+    ],
+    "baseWord": "risk"
+  },
+  {
+    "word": "rope",
+    "transcription": "rəʊp",
+    "pos": "noun",
+    "definition": "a rope is a thick length of string made by twisting together several lengths of string to make it stronger and thicker",
+    "example": "he fastened the rope around my body",
+    "translation": "веревка, канат",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "set",
+    "transcription": "set",
+    "pos": "verb",
+    "definition": "if you set someone a challenge or target or something similar, you give it to them to do",
+    "example": "I set myself a target of learning 50 words a week",
+    "translation": "ставить (задачу, цель)",
+    "collocations": [
+      "set (someone) a target/challenge"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "set off",
+    "transcription": "ˈset ˌɒf",
+    "pos": "phrasal verb",
+    "definition": "if you set off, you start a journey. If you set off for somewhere, you start your journey to go to that place",
+    "example": "Wilson set off up the mountain without a guide",
+    "translation": "отправляться (в путь)",
+    "collocations": [
+      "set off for somewhere"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "summit",
+    "transcription": "ˈsʌmɪt",
+    "pos": "noun",
+    "definition": "the summit of a mountain is its highest point",
+    "example": "we needed to reach the summit before dark",
+    "translation": "вершина (горы)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "territory",
+    "transcription": "ˈterət(ə)ri",
+    "pos": "noun",
+    "definition": "territory is land that belongs to a particular country",
+    "example": "the authorities in Nepal refused to let him enter their territory",
+    "translation": "территория",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "territorial",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "it was a period of rapid territorial expansion (when a country was getting control of more land)",
+    "translation": "территориальный",
+    "collocations": [],
+    "baseWord": "territory"
+  },
+  {
+    "word": "tough",
+    "transcription": "tʌf",
+    "pos": "adjective",
+    "definition": "something that is tough is very difficult to do successfully. A tough situation is one that is difficult to deal with",
+    "example": "I ran a marathon last year; it was tough, but I really enjoyed it",
+    "translation": "трудный, тяжелый (о ситуации)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "civil war",
+    "transcription": "ˌsɪv(ə)l ˈwɔː(r)",
+    "pos": "noun",
+    "definition": "civil war is a war fought between groups of people within one country",
+    "example": "Syria is being torn apart in a civil war",
+    "translation": "гражданская война",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "coal",
+    "transcription": "kəʊl",
+    "pos": "noun",
+    "definition": "coal is a solid, black substance that is dug out of the ground and burned to provide energy and heat",
+    "example": "we used to produce a lot of coal in Wales",
+    "translation": "уголь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "conflict",
+    "transcription": "ˈkɒnflɪkt",
+    "pos": "noun",
+    "definition": "conflict or a conflict is violent fighting between groups of people or countries",
+    "example": "conflict is one of the causes of poverty in the region",
+    "translation": "конфликт, вооруженное противостояние",
+    "collocations": [
+      "armed conflict"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "construct",
+    "transcription": "kənˈstrʌkt",
+    "pos": "verb",
+    "definition": "to construct something such as a road, airport, or other building means to build it",
+    "example": "there are plans to construct a new bridge",
+    "translation": "строить, возводить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "construction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the construction of the road is a threat to wildlife",
+    "translation": "строительство",
+    "collocations": [],
+    "baseWord": "construct"
+  },
+  {
+    "word": "consume",
+    "transcription": "kənˈsjuːm",
+    "pos": "verb",
+    "definition": "if you consume something, you eat it or drink it. In economics, to consume goods or energy means to use them and then replace them with more",
+    "example": "if we consume coal at the current rate, it will last for 200 years",
+    "translation": "потреблять, расходовать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "consumption",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "energy consumption has been significantly reduced",
+    "translation": "потребление",
+    "collocations": [],
+    "baseWord": "consume"
+  },
+  {
+    "word": "consumer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the average consumer eats four chocolate bars a week",
+    "translation": "потребитель",
+    "collocations": [],
+    "baseWord": "consume"
+  },
+  {
+    "word": "control",
+    "transcription": "kənˈtrəʊl",
+    "pos": "noun",
+    "definition": "if you have control of something, you have enough power to decide what happens to it and to stop people doing what they want with it",
+    "example": "there was a struggle for control of the oil resources",
+    "translation": "контроль, власть (над чем-либо)",
+    "collocations": [
+      "control of something",
+      "control over something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "control",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "the government controls the oil industry very tightly",
+    "translation": "контролировать",
+    "collocations": [],
+    "baseWord": "control"
+  },
+  {
+    "word": "controversy",
+    "transcription": "kənˈtrɒvə(r)si",
+    "pos": "noun",
+    "definition": "controversy is a serious disagreement among a number of people about an important subject",
+    "example": "there’s been some controversy about how they drill for oil",
+    "translation": "спор, разногласия, полемика",
+    "collocations": [
+      "cause/provoke/arouse (a) controversy"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "controversial",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "controversial remark/comment",
+    "example": "a highly controversial issue",
+    "translation": "спорный, вызывающий разногласия",
+    "collocations": [
+      "highly/deeply controversial",
+      "a controversial subject/issue/topic",
+      "a controversial decision"
+    ],
+    "baseWord": "controversy"
+  },
+  {
+    "word": "controversially",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "controversial remark/comment",
+    "example": "the government controversially decided to withdraw its support for the project",
+    "translation": "неоднозначно, вызывая споры",
+    "collocations": [
+      "highly/deeply controversial",
+      "a controversial subject/issue/topic",
+      "a controversial decision",
+      "a"
+    ],
+    "baseWord": "controversy"
+  },
+  {
+    "word": "currency",
+    "transcription": "ˈkʌrənsi",
+    "pos": "noun",
+    "definition": "a country’s currency is the money that is used there. For example, the currency of the USA is the dollar",
+    "example": "when the price of oil goes up, the country’s currency also rises",
+    "translation": "валюта",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "democracy",
+    "transcription": "dɪˈmɒkrəsi",
+    "pos": "noun",
+    "definition": "democracy is a system of government in which all the adults in a country are allowed to vote for the people who will represent them in parliament",
+    "example": "there’s a strong democracy in Botswana",
+    "translation": "демократия",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "democratic",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "of those four countries, only Kenya is truly democratic",
+    "translation": "демократический",
+    "collocations": [],
+    "baseWord": "democracy"
+  },
+  {
+    "word": "democratically",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "",
+    "example": "a democratically elected government",
+    "translation": "демократическим путем",
+    "collocations": [],
+    "baseWord": "democracy"
+  },
+  {
+    "word": "democrat",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he described himself as a democrat and an anti-royalist",
+    "translation": "демократ",
+    "collocations": [],
+    "baseWord": "democracy"
+  },
+  {
+    "word": "drill",
+    "transcription": "drɪl",
+    "pos": "verb",
+    "definition": "if you drill a hole in something, you use a tool to make a hole in a surface or in the ground. If you drill for oil or gas, you use industrial equipment to make deep holes in order to find oil or gas below the ground",
+    "example": "they plan to drill 12 wells over the next year",
+    "translation": "бурить (скважину)",
+    "collocations": [
+      "drill for something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "drilling",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "locals don’t want the drilling to take place because they believe it will damage their houses",
+    "translation": "бурение",
+    "collocations": [],
+    "baseWord": "drill"
+  },
+  {
+    "word": "enforce",
+    "transcription": "ɪnˈfɔː(r)s",
+    "pos": "verb",
+    "definition": "if you enforce a law or rule, you use your authority to make sure that people obey the law or follow the rule",
+    "example": "the only nation to enforce the ban has been Canada",
+    "translation": "обеспечивать соблюдение (закона), проводить в жизнь",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "enforcement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "Webb had tremendous respect for those in law enforcement (the police)",
+    "translation": "обеспечение соблюдения (закона), правоприменение",
+    "collocations": [],
+    "baseWord": "enforce"
+  },
+  {
+    "word": "exploit",
+    "transcription": "ɪkˈsplɔɪt",
+    "pos": "verb",
+    "definition": "to exploit something means to use it in a way that gives you an advantage or benefit",
+    "example": "more should be done to exploit our natural resources",
+    "translation": "использовать (в своих интересах), эксплуатировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "exploitation",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "commercial exploitation of wind power is increasing",
+    "translation": "использование, эксплуатация (ресурсов)",
+    "collocations": [],
+    "baseWord": "exploit"
+  },
+  {
+    "word": "extract",
+    "transcription": "ɪkˈstrækt",
+    "pos": "verb",
+    "definition": "if you extract a substance such as oil or gas, you get it out of the ground using industrial machinery",
+    "example": "it gets very expensive to extract oil out of the ground",
+    "translation": "добывать (полезные ископаемые)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "extraction",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "coal extraction was difficult because of the upper layer of rock",
+    "translation": "добыча (полезных ископаемых)",
+    "collocations": [],
+    "baseWord": "extract"
+  },
+  {
+    "word": "import",
+    "transcription": "ˈɪmpɔː(r)t",
+    "pos": "noun",
+    "definition": "imports are goods that are brought into one country from another country",
+    "example": "when imports are cheap, local producers can’t compete",
+    "translation": "импорт, ввозимые товары",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "import",
+    "transcription": "",
+    "pos": "verb",
+    "definition": "",
+    "example": "in 1985 China imported a record 15 million tons of steel",
+    "translation": "импортировать, ввозить",
+    "collocations": [],
+    "baseWord": "import"
+  },
+  {
+    "word": "importer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "in 1985 China imported a record 15 million tons of steel",
+    "translation": "импортер",
+    "collocations": [],
+    "baseWord": "import"
+  },
+  {
+    "word": "infrastructure",
+    "transcription": "ˈɪnfrəˌstrʌktʃə(r)",
+    "pos": "noun",
+    "definition": "a country’s infrastructure is all of the important things it needs in order to be able to operate successfully as a country, such as roads, railways, hospitals, power stations etc",
+    "example": "investment in infrastructure is desperately needed",
+    "translation": "инфраструктура",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "instability",
+    "transcription": "ˌɪnstəˈbɪləti",
+    "pos": "noun",
+    "definition": "if there is instability, a situation is likely to change suddenly",
+    "example": "one of the reasons is regional instability",
+    "translation": "нестабильность",
+    "collocations": [
+      "political/economic instability"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "unstable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "an unstable economy",
+    "translation": "нестабильный",
+    "collocations": [],
+    "baseWord": "instability"
+  },
+  {
+    "word": "stability",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "economic stability increased",
+    "translation": "стабильность",
+    "collocations": [],
+    "baseWord": "instability"
+  },
+  {
+    "word": "stable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the economy was thought to be stable up until 2008",
+    "translation": "стабильный",
+    "collocations": [],
+    "baseWord": "instability"
+  },
+  {
+    "word": "judge",
+    "transcription": "dʒʌdʒ",
+    "pos": "noun",
+    "definition": "in a court of law, the judge is the person who is in charge of a trial, who advises the jury, and who decides on the punishment if the prisoner is found guilty",
+    "example": "the judge ruled that the witness should be allowed to give evidence",
+    "translation": "судья",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "judgement",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the Court of Appeal reversed this judgement (changed it from guilty to not guilty)",
+    "translation": "судебное решение, приговор",
+    "collocations": [],
+    "baseWord": "judge"
+  },
+  {
+    "word": "manufacture",
+    "transcription": "ˌmænjʊˈfæktʃə(r)",
+    "pos": "verb",
+    "definition": "to manufacture something means to make it in large quantities in a factory. Goods that are made in a factory are called manufactured goods, and the activity is called",
+    "example": "the factory used to manufacture tractors",
+    "translation": "производить, изготавливать (промышленным способом)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "manufactured",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "imports of manufactured goods increased last year",
+    "translation": "промышленного производства, готовый (о товарах)",
+    "collocations": [],
+    "baseWord": "manufacture"
+  },
+  {
+    "word": "manufacturing",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "manufacturing accounted for 8% of employment within Birmingham in 2012",
+    "translation": "производство, обрабатывающая промышленность",
+    "collocations": [],
+    "baseWord": "manufacture"
+  },
+  {
+    "word": "manufacturer",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "imports of manufactured goods increased last year",
+    "translation": "производитель, изготовитель",
+    "collocations": [],
+    "baseWord": "manufacture"
+  },
+  {
+    "word": "mine",
+    "transcription": "maɪn",
+    "pos": "verb",
+    "definition": "to mine coal, gold, salt etc means to dig it out of the ground using industrial machinery",
+    "example": "it’s too expensive to mine for coal here",
+    "translation": "добывать (уголь, золото)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mine",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "we went on a tour round a salt mine",
+    "translation": "шахта, рудник",
+    "collocations": [
+      "a coal/gold/salt etc mine"
+    ],
+    "baseWord": "mine"
+  },
+  {
+    "word": "miner",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "a coal miner",
+    "translation": "шахтер, горняк",
+    "collocations": [
+      "a coal/gold/salt etc mine"
+    ],
+    "baseWord": "mine"
+  },
+  {
+    "word": "mining",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "mining and forestry are the two main industries here",
+    "translation": "горнодобывающая промышленность, добыча полезных ископаемых",
+    "collocations": [
+      "a coal/gold/salt etc mine"
+    ],
+    "baseWord": "mine"
+  },
+  {
+    "word": "official",
+    "transcription": "əˈfɪʃ(ə)l",
+    "pos": "noun",
+    "definition": "an official is someone who works for a government department or large organisation and who holds a position of authority",
+    "example": "companies may give ‘presents’ to officials to avoid import taxes",
+    "translation": "чиновник, должностное лицо",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "raw material",
+    "transcription": "ˌrɔː məˈtɪəriəl",
+    "pos": "noun",
+    "definition": "raw materials are things such as wool, wood etc in their natural state, before they get processed and turned into manufactured goods",
+    "example": "our most important raw material is iron",
+    "translation": "сырье",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "reserves",
+    "transcription": "rɪˈzɜː(r)vz",
+    "pos": "noun",
+    "definition": "reserves of oil, coal, gas etc are the amounts that are still in the ground somewhere waiting to be dug up",
+    "example": "Russia has the biggest reserves of natural gas and wood",
+    "translation": "запасы (нефти, газа, угля)",
+    "collocations": [
+      "oil/gas/coal reserves"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "run out",
+    "transcription": "ˌrʌn ˈaʊt",
+    "pos": "verb",
+    "definition": "if something runs out, or if you run out of it, it is all used up and there is no more available",
+    "example": "gas is likely to run out in 60 years",
+    "translation": "заканчиваться, иссякать",
+    "collocations": [
+      "run out of something"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "subsidise",
+    "transcription": "ˈsʌbsɪdaɪz",
+    "pos": "verb",
+    "definition": "if the government subsidises something, it provides some of the money for it so that it is cheaper for people to buy or use",
+    "example": "solar energy is subsidised by the government",
+    "translation": "субсидировать, дотировать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "subsidy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "the school was fully independent and got no state subsidy",
+    "translation": "субсидия, дотация",
+    "collocations": [],
+    "baseWord": "subsidise"
+  },
+  {
+    "word": "tax inspector",
+    "transcription": "ˈtæks ɪnˌspektə(r)",
+    "pos": "noun",
+    "definition": "an inspector is someone, usually in a government department, whose job involves making sure that regulations are being followed",
+    "example": "I had a letter from the tax inspector saying I owed another £400",
+    "translation": "налоговый инспектор",
+    "collocations": [
+      "a tax inspector",
+      "a safety inspector"
+    ],
+    "baseWord": null
+  },
+  {
+    "word": "vary",
+    "transcription": "ˈveəri",
+    "pos": "verb",
+    "definition": "if something varies, it changes a lot or consists of a lot of different things",
+    "example": "global prices vary a lot",
+    "translation": "варьироваться, различаться",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "varied",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the work is interesting and varied",
+    "translation": "разнообразный",
+    "collocations": [],
+    "baseWord": "vary"
+  },
+  {
+    "word": "varying",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "different versions are available at varying costs",
+    "translation": "различный, меняющийся",
+    "collocations": [],
+    "baseWord": "vary"
+  },
+  {
+    "word": "variable",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "the interest rate is variable",
+    "translation": "переменный, непостоянный",
+    "collocations": [],
+    "baseWord": "vary"
+  },
+  {
+    "word": "variety",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "they offer a wide variety of courses",
+    "translation": "разнообразие, множество",
+    "collocations": [],
+    "baseWord": "vary"
+  },
+  {
+    "word": "wealth",
+    "transcription": "welθ",
+    "pos": "noun",
+    "definition": "wealth is ownership of money and property",
+    "example": "in terms of average wealth per person, India comes 130th in the world",
+    "translation": "богатство",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "wealthy",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "",
+    "example": "he had married a wealthy businesswoman",
+    "translation": "богатый, состоятельный",
+    "collocations": [],
+    "baseWord": "wealth"
+  },
+  {
+    "word": "wealthy",
+    "transcription": "",
+    "pos": "noun",
+    "definition": "",
+    "example": "he had married a wealthy businesswoman",
+    "translation": "богачи, состоятельные люди",
+    "collocations": [],
+    "baseWord": "wealth"
+  },
+  {
+    "word": "wisely",
+    "transcription": "waɪzli",
+    "pos": "adverb",
+    "definition": "if something is done wisely, it is done in a sensible way",
+    "example": "the money was not invested wisely",
+    "translation": "мудро, разумно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "wise",
+    "transcription": "",
+    "pos": "adjective",
+    "definition": "Adjective  unwise",
+    "example": "it was a wise decision to buy a bike rather than a car",
+    "translation": "мудрый, разумный",
+    "collocations": [],
+    "baseWord": "wisely"
+  },
+  {
+    "word": "unwisely",
+    "transcription": "",
+    "pos": "adverb",
+    "definition": "Adjective  unwise",
+    "example": "rather unwisely, he started arguing with his boss",
+    "translation": "неразумно, опрометчиво",
+    "collocations": [],
+    "baseWord": "wisely"
+  },
+  {
+    "word": "workplace",
+    "transcription": "ˈwɜː(r)kˌpleɪs",
+    "pos": "noun",
+    "definition": "a workplace is somewhere such as an office or factory where people work",
+    "example": "we need more women in the workplace",
+    "translation": "рабочее место",
+    "collocations": [],
+    "baseWord": null
+  }
+]
