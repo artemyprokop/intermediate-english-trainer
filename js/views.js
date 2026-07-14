@@ -454,6 +454,16 @@ const Views = (() => {
     const session = Leitner.buildSession(unitNum, entries, SESSION_SIZE);
     const state = { i: 0, correct: 0, answered: false };
 
+    // Once an option has been picked, pressing Enter should act like
+    // clicking "Далее" instead of requiring a mouse/tap.
+    function onEnterAdvance(e) {
+      if (e.key !== 'Enter') return;
+      const nextBtn = root.querySelector('.next-btn');
+      if (nextBtn) { e.preventDefault(); nextBtn.click(); }
+    }
+    document.addEventListener('keydown', onEnterAdvance);
+    activeCleanup = () => document.removeEventListener('keydown', onEnterAdvance);
+
     function render() {
       root.innerHTML = '';
       topbar(root, 'Викторина EN → RU', backHash);
@@ -496,6 +506,12 @@ const Views = (() => {
         const btn = document.createElement('button');
         btn.className = 'quiz-option';
         btn.textContent = opt.translation || opt.word;
+        // a focused button natively "clicks" itself on Enter; while unanswered,
+        // stop that keystroke from also reaching onEnterAdvance on document,
+        // so selecting an option via keyboard doesn't skip straight past the
+        // correct/wrong highlight in the same event dispatch. Once answered,
+        // let Enter bubble through normally so it can advance to "Далее".
+        btn.addEventListener('keydown', (e) => { if (e.key === 'Enter' && !state.answered) e.stopPropagation(); });
         btn.addEventListener('click', () => {
           if (state.answered) return;
           state.answered = true;
