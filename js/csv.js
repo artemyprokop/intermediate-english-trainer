@@ -2,7 +2,10 @@
 
 const CsvExport = (() => {
   function field(v) {
-    const s = String(v == null ? '' : v);
+    let s = String(v == null ? '' : v);
+    // neutralise CSV/formula injection: Excel/Sheets treat a leading
+    // =, +, -, or @ as the start of a formula when a CSV is opened
+    if (/^[=+\-@]/.test(s)) s = "'" + s;
     if (/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
     return s;
   }
