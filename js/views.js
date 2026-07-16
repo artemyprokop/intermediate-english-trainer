@@ -130,6 +130,63 @@ const Views = (() => {
       grid.appendChild(card);
     }
     root.appendChild(grid);
+
+    const backupRow = document.createElement('div');
+    backupRow.className = 'secondary-row';
+    backupRow.innerHTML = `
+      <button class="pill-btn" id="export-progress">⬇ Экспорт прогресса</button>
+      <button class="pill-btn" id="import-progress">⬆ Импорт прогресса</button>
+      <input type="file" id="import-progress-file" accept="application/json,.json" style="display:none;">
+    `;
+    root.appendChild(backupRow);
+
+    root.querySelector('#export-progress').addEventListener('click', () => {
+      const data = Storage.exportState();
+      const json = JSON.stringify(data, null, 2);
+      const blob = new Blob([json], { type: 'application/json;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `vocab-trainer-progress-${todayKey()}.json`;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 2000);
+      toast('Прогресс сохранен в файл');
+    });
+
+    const fileInput = root.querySelector('#import-progress-file');
+    root.querySelector('#import-progress').addEventListener('click', () => fileInput.click());
+    fileInput.addEventListener('change', () => {
+      const file = fileInput.files[0];
+      fileInput.value = '';
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        let parsed;
+        try {
+          parsed = JSON.parse(reader.result);
+        } catch (e) {
+          toast('Не удалось прочитать файл — это не корректный JSON');
+          return;
+        }
+        confirmModal({
+          title: 'Заменить текущий прогресс?',
+          text: 'Весь прогресс в этом браузере (коробки, ошибки, серия дней) будет заменен данными из файла. Это действие нельзя отменить.',
+          confirmLabel: 'Заменить',
+          onConfirm: () => {
+            try {
+              Storage.importState(parsed);
+              toast('Прогресс восстановлен');
+              renderHome(root);
+            } catch (e) {
+              toast(e.message || 'Не удалось загрузить прогресс');
+            }
+          },
+        });
+      };
+      reader.readAsText(file);
+    });
   }
 
   // ---------- Unit menu ----------

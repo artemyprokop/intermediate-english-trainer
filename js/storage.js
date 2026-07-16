@@ -175,10 +175,37 @@ const Storage = (() => {
     return list;
   }
 
+  // Raw snapshot of everything for backup/transfer between browsers or
+  // devices — localStorage never leaves this browser on its own.
+  function exportState() {
+    return load();
+  }
+
+  // Validates the shape just enough to avoid corrupting localStorage with
+  // garbage; throws with a human-readable message on anything unexpected.
+  function importState(data) {
+    if (!data || typeof data !== 'object' || Array.isArray(data)) {
+      throw new Error('Файл не похож на экспорт прогресса этого тренажера.');
+    }
+    if (typeof data.cards !== 'object' || data.cards === null || Array.isArray(data.cards)) {
+      throw new Error('В файле отсутствуют данные о карточках.');
+    }
+    const state = {
+      ...defaultState(),
+      ...data,
+      cards: data.cards || {},
+      excluded: (data.excluded && typeof data.excluded === 'object' && !Array.isArray(data.excluded)) ? data.excluded : {},
+      streak: (data.streak && typeof data.streak === 'object') ? { ...defaultState().streak, ...data.streak } : defaultState().streak,
+    };
+    save(state);
+    return state;
+  }
+
   return {
     cardId, getCard, recordAnswer, isDue, isLearned,
     isSelected, setSelected, selectedEntries, selectAll, deselectAll,
     unitProgress, globalStats, resetUnit, mistakeList,
+    exportState, importState,
     MAX_BOX,
   };
 })();
