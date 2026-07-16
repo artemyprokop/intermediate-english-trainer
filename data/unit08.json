@@ -798,5 +798,415 @@
     "translation": "поверхность",
     "collocations": [],
     "baseWord": null
+  },
+  {
+    "word": "best dish",
+    "transcription": "best dɪʃ",
+    "pos": "noun",
+    "definition": "your best dish is the dish that you can cook better than any other, or the one you enjoy eating most",
+    "example": "what's your best dish?",
+    "translation": "лучшее блюдо",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fussy eater",
+    "transcription": "ˈfʌsi ˈiːtə(r)",
+    "pos": "noun",
+    "definition": "a fussy eater is someone who is difficult to please about food and refuses to eat many things",
+    "example": "my little brother is such a fussy eater",
+    "translation": "привередливый едок",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "deep fry",
+    "transcription": "diːp fraɪ",
+    "pos": "verb",
+    "definition": "if you deep fry food, you cook it by completely covering it in hot oil",
+    "example": "deep fry the chicken until golden brown",
+    "translation": "жарить во фритюре",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "stir-fry",
+    "transcription": "ˈstɜː(r)ˌfraɪ",
+    "pos": "verb",
+    "definition": "if you stir-fry food, you cook small pieces of it very quickly in a small amount of very hot oil while stirring constantly",
+    "example": "stir-fry the vegetables for two minutes",
+    "translation": "обжарить, помешивая, в раскаленном масле",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "roast",
+    "transcription": "rəʊst",
+    "pos": "verb",
+    "definition": "if you roast food, you cook it in an oven or over a fire using dry heat",
+    "example": "roast the chicken for an hour",
+    "translation": "жарить в духовке, запекать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "boil",
+    "transcription": "bɔɪl",
+    "pos": "verb",
+    "definition": "if you boil food, you cook it in very hot water",
+    "example": "boil the potatoes for twenty minutes",
+    "translation": "варить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "spicy",
+    "transcription": "ˈspaɪsi",
+    "pos": "adjective",
+    "definition": "food that is spicy has a strong, hot taste because of the spices used to cook it",
+    "example": "I love spicy Thai food",
+    "translation": "острый",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "fattening",
+    "transcription": "ˈfæt(ə)nɪŋ",
+    "pos": "adjective",
+    "definition": "food that is fattening makes you fat if you eat too much of it",
+    "example": "chocolate cake is very fattening",
+    "translation": "ведущий к ожирению, калорийный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "greasy",
+    "transcription": "ˈɡriːsi",
+    "pos": "adjective",
+    "definition": "food that is greasy contains or is covered in too much fat or oil",
+    "example": "the fish and chips were really greasy",
+    "translation": "жирный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "foreign food",
+    "transcription": "ˈfɒrən fuːd",
+    "pos": "noun",
+    "definition": "foreign food is food that comes from or is typical of a country that is not your own",
+    "example": "she loves trying foreign food when she travels",
+    "translation": "иностранная еда",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "talk somebody through",
+    "transcription": "tɔːk ˈsʌmbədi θruː",
+    "pos": "phrasal verb",
+    "definition": "if you talk someone through something, you explain it to them in detail, often step by step",
+    "example": "can you talk me through the recipe?",
+    "translation": "рассказать подробно о чем-то, объяснить пошагово",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "raisins",
+    "transcription": "ˈreɪz(ə)nz",
+    "pos": "noun",
+    "definition": "raisins are small dried grapes",
+    "example": "add a handful of raisins to the mixture",
+    "translation": "изюм",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "sound very tasty",
+    "transcription": "saʊnd ˈveri ˈteɪsti",
+    "pos": "phrase",
+    "definition": "you say this to tell someone that a description of food makes you want to eat it",
+    "example": "a chocolate cake with raspberry filling — it sounds very tasty",
+    "translation": "звучит очень вкусно",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "specialist shop",
+    "transcription": "ˈspeʃ(ə)lɪst ʃɒp",
+    "pos": "noun",
+    "definition": "a specialist shop sells only one particular type of product",
+    "example": "you can buy fresh pasta at the specialist shop round the corner",
+    "translation": "специализированный магазин",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "be bound to",
+    "transcription": "biː ˈbaʊnd tuː",
+    "pos": "phrase",
+    "definition": "if you are bound to do something, it is very likely or certain that you will do it",
+    "example": "if you try enough new dishes, you're bound to find one you love",
+    "translation": "обязательно, непременно (сделаешь что-то)",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "wide range of",
+    "transcription": "waɪd reɪndʒ ɒv",
+    "pos": "phrase",
+    "definition": "a wide range of things is a large number of different types of them",
+    "example": "the restaurant offers a wide range of vegetarian dishes",
+    "translation": "широкий ассортимент",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "off-putting",
+    "transcription": "ˈɒfˌpʊtɪŋ",
+    "pos": "adjective",
+    "definition": "something that is off-putting makes you feel dislike or lose interest in something",
+    "example": "the smell was quite off-putting",
+    "translation": "неприятный, отталкивающий",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "mould",
+    "transcription": "məʊld",
+    "pos": "noun",
+    "definition": "mould is a soft grey, green or black substance that grows on old food or in damp conditions",
+    "example": "there was mould growing on the bread",
+    "translation": "плесень",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "veggie food",
+    "transcription": "ˈvedʒi fuːd",
+    "pos": "noun",
+    "definition": "veggie food is food that does not contain meat or fish",
+    "example": "the cafe has a good selection of veggie food",
+    "translation": "веганская, вегетарианская еда",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "chopsticks",
+    "transcription": "ˈtʃɒpstɪks",
+    "pos": "noun",
+    "definition": "chopsticks are a pair of thin sticks used, especially in Asian countries, for eating food",
+    "example": "he can eat rice with chopsticks really well",
+    "translation": "палочки для еды",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "host family",
+    "transcription": "həʊst ˈfæm(ə)li",
+    "pos": "noun",
+    "definition": "a host family is a family that a student or visitor stays with, usually while studying abroad",
+    "example": "she lived with a host family during her year in France",
+    "translation": "принимающая семья",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "beforehand",
+    "transcription": "bɪˈfɔː(r)hænd",
+    "pos": "adverb",
+    "definition": "if you do something beforehand, you do it before a particular event or time",
+    "example": "we booked the table beforehand",
+    "translation": "заранее",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "bar of chocolate",
+    "transcription": "bɑː(r) ɒv ˈtʃɒk(ə)lət",
+    "pos": "noun",
+    "definition": "a bar of chocolate is a solid rectangular piece of chocolate",
+    "example": "she ate a whole bar of chocolate",
+    "translation": "плитка шоколада",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "enormous",
+    "transcription": "ɪˈnɔː(r)məs",
+    "pos": "adjective",
+    "definition": "something that is enormous is extremely large in size or amount",
+    "example": "they served an enormous portion of pasta",
+    "translation": "огромный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "can't stand something",
+    "transcription": "kɑːnt stænd ˈsʌmθɪŋ",
+    "pos": "phrase",
+    "definition": "you say this when you dislike something so much that you cannot bear to experience or deal with it",
+    "example": "the food was so spicy, I couldn't stand it",
+    "translation": "не выносить, не терпеть что-то",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "weird",
+    "transcription": "wɪə(r)d",
+    "pos": "adjective",
+    "definition": "something that is weird is strange and unusual",
+    "example": "the combination of flavours sounded weird",
+    "translation": "странный",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "ready meals",
+    "transcription": "ˈredi miːlz",
+    "pos": "noun",
+    "definition": "ready meals are meals that have already been cooked and only need to be heated before eating",
+    "example": "he lives on ready meals because he doesn't have time to cook",
+    "translation": "готовые блюда",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "work full time",
+    "transcription": "wɜː(r)k fʊl taɪm",
+    "pos": "phrase",
+    "definition": "if you work full time, you work the whole of each normal working week rather than only part of it",
+    "example": "both parents work full time",
+    "translation": "работать полный рабочий день",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "generally speaking",
+    "transcription": "ˈdʒen(ə)rəli ˈspiːkɪŋ",
+    "pos": "phrase",
+    "definition": "you use generally speaking to introduce a statement that is true in most cases",
+    "example": "generally speaking, British food has a bad reputation abroad",
+    "translation": "вообще говоря",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "special occasion",
+    "transcription": "ˈspeʃ(ə)l əˈkeɪʒ(ə)n",
+    "pos": "noun",
+    "definition": "a special occasion is an event that is important or celebrated, such as a birthday or anniversary",
+    "example": "we only eat out on special occasions",
+    "translation": "особый случай",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "leave tips",
+    "transcription": "liːv tɪps",
+    "pos": "phrase",
+    "definition": "if you leave a tip, you leave extra money for someone such as a waiter as a way of rewarding them for good service",
+    "example": "it's normal to leave tips in restaurants in the US",
+    "translation": "оставлять чаевые",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "home-style cooking",
+    "transcription": "həʊm staɪl ˈkʊkɪŋ",
+    "pos": "noun",
+    "definition": "home-style cooking is food prepared in a simple way, similar to how it would be made at home rather than in a professional way",
+    "example": "the restaurant is famous for its home-style cooking",
+    "translation": "домашняя кухня",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overestimate",
+    "transcription": "ˌəʊvərˈestɪmeɪt",
+    "pos": "verb",
+    "definition": "if you overestimate something, you think it is bigger, better or more important than it really is",
+    "example": "I overestimated how much food we would need",
+    "translation": "переоценивать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overcook",
+    "transcription": "ˌəʊvəˈkʊk",
+    "pos": "verb",
+    "definition": "if you overcook food, you cook it for too long so that it is spoiled",
+    "example": "don't overcook the pasta or it will go soft",
+    "translation": "пережарить, переготовить",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overcharge",
+    "transcription": "ˌəʊvəˈtʃɑː(r)dʒ",
+    "pos": "verb",
+    "definition": "if someone overcharges you, they make you pay too much money for something",
+    "example": "the restaurant overcharged us for the wine",
+    "translation": "назначать завышенную цену, обсчитывать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "overeat",
+    "transcription": "ˌəʊvərˈiːt",
+    "pos": "verb",
+    "definition": "if you overeat, you eat more food than you need",
+    "example": "it's easy to overeat at a buffet",
+    "translation": "переедать",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "I would explode if I ate any more",
+    "transcription": "aɪ wʊd ɪkˈspləʊd ɪf aɪ eɪt ˈeni mɔː(r)",
+    "pos": "phrase",
+    "definition": "you say this to emphasise that you have eaten so much that you cannot possibly eat anything else",
+    "example": "no more, thanks — I would explode if I ate any more!",
+    "translation": "я бы взорвался, если бы съел еще хоть немного",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "canteen",
+    "transcription": "kænˈtiːn",
+    "pos": "noun",
+    "definition": "a canteen is a place, for example in a school, office or factory, where food is served to the people who work or study there",
+    "example": "we usually have lunch in the staff canteen",
+    "translation": "столовая",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "famine",
+    "transcription": "ˈfæmɪn",
+    "pos": "noun",
+    "definition": "a famine is a situation in which large numbers of people have little or no food for a long time",
+    "example": "the drought led to a severe famine",
+    "translation": "голод",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "obesity",
+    "transcription": "əʊˈbiːsəti",
+    "pos": "noun",
+    "definition": "obesity is the condition of being extremely overweight",
+    "example": "childhood obesity has increased in recent years",
+    "translation": "ожирение",
+    "collocations": [],
+    "baseWord": null
+  },
+  {
+    "word": "nutrition",
+    "transcription": "njuːˈtrɪʃ(ə)n",
+    "pos": "noun",
+    "definition": "nutrition is the process of providing or getting the food necessary for health and growth",
+    "example": "good nutrition is important for children's development",
+    "translation": "питание",
+    "collocations": [],
+    "baseWord": null
   }
 ]
