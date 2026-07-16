@@ -446,7 +446,7 @@ const Views = (() => {
       answers.className = 'answer-row';
       answers.innerHTML = `
         <button class="answer-btn dont-know" id="dont-know" ${state.flipped ? '' : 'disabled style="opacity:.4"'}>Не знаю</button>
-        <button class="answer-btn know" id="know" ${state.flipped ? '' : 'disabled style="opacity:.4"'}>Знаю</button>
+        <button class="answer-btn know" id="know">Знаю</button>
       `;
       root.appendChild(answers);
 
@@ -456,18 +456,22 @@ const Views = (() => {
         btn.addEventListener('click', (e) => { e.stopPropagation(); TTS.speak(entry.word); });
       });
 
+      // "Знаю" works straight from the front — no need to flip if you're
+      // already confident. "Не знаю" still requires flipping first, so you
+      // actually see the correct answer before moving on.
+      root.querySelector('#know').addEventListener('click', (e) => {
+        e.stopPropagation();
+        Storage.recordAnswer(cid, true);
+        state.known++;
+        state.i++; state.flipped = false;
+        renderCard();
+      });
+
       if (state.flipped) {
         root.querySelector('#dont-know').addEventListener('click', (e) => {
           e.stopPropagation();
           Storage.recordAnswer(cid, false);
           state.again++;
-          state.i++; state.flipped = false;
-          renderCard();
-        });
-        root.querySelector('#know').addEventListener('click', (e) => {
-          e.stopPropagation();
-          Storage.recordAnswer(cid, true);
-          state.known++;
           state.i++; state.flipped = false;
           renderCard();
         });
